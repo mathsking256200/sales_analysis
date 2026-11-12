@@ -1,0 +1,2698 @@
+Order_ID,Date,Product,Category,Region,Quantity,Sales,Profit
+100001,2025-01-01,Desk,Furniture,West,3,34485.89,7018.37
+100002,2025-01-01,Tablet Air,Electronics,North,3,72552.27,10309.24
+100003,2025-01-02,Monitor 24,Electronics,North,5,65797.74,13123.02
+100004,2025-01-02,Keyboard,Accessories,West,4,7686.97,1780.98
+100005,2025-01-02,Keyboard,Accessories,South,1,1696.44,410.47
+100006,2025-01-02,Monitor 24,Electronics,South,4,49445.41,8058.45
+100007,2025-01-02,Laptop Pro,Electronics,Central,3,189988.56,28725.64
+100008,2025-01-02,Headphones,Accessories,South,3,9810.5,2455.75
+100009,2025-01-02,Desk,Furniture,West,5,53658.83,8971.43
+100010,2025-01-03,Webcam,Accessories,South,1,4484.5,928.97
+100011,2025-01-03,Keyboard,Accessories,West,3,5132.87,1212.72
+100012,2025-01-03,Webcam,Accessories,East,1,3904.86,873.04
+100013,2025-01-03,Headphones,Accessories,West,5,16222.87,3940.81
+100014,2025-01-03,Headphones,Accessories,South,2,6485.86,1666.69
+100015,2025-01-03,Office Chair,Furniture,Central,1,8647.45,1865.97
+100016,2025-01-04,Desk,Furniture,South,4,42758.22,7013.55
+100017,2025-01-04,Laptop Pro,Electronics,North,2,123246.52,22702.87
+100018,2025-01-04,Smartphone X,Electronics,Central,3,102890.22,13794.37
+100019,2025-01-04,Monitor 24,Electronics,East,1,13095.01,2242.94
+100020,2025-01-05,Wireless Mouse,Accessories,East,5,5931.13,1293.63
+100021,2025-01-05,Tablet Air,Electronics,North,2,45351.98,7366.48
+100022,2025-01-05,Webcam,Accessories,South,3,12277.0,2626.83
+100023,2025-01-05,Office Chair,Furniture,Central,4,33368.93,7054.84
+100024,2025-01-05,Wireless Mouse,Accessories,North,2,2345.03,516.15
+100025,2025-01-06,Office Chair,Furniture,East,4,34025.49,7214.04
+100026,2025-01-06,Smartphone X,Electronics,East,4,145589.23,18568.14
+100027,2025-01-07,Wireless Mouse,Accessories,West,4,4314.05,922.44
+100028,2025-01-07,Wireless Mouse,Accessories,North,2,2457.57,558.76
+100029,2025-01-07,Webcam,Accessories,East,2,9054.81,1820.86
+100030,2025-01-08,Desk,Furniture,West,3,32593.23,5092.67
+100031,2025-01-08,Keyboard,Accessories,Central,1,1613.45,372.48
+100032,2025-01-08,Keyboard,Accessories,Central,3,5207.5,957.39
+100033,2025-01-09,Desk,Furniture,East,4,44614.27,8054.94
+100034,2025-01-09,Smartphone X,Electronics,East,1,32850.66,4417.82
+100035,2025-01-10,Desk,Furniture,North,1,11551.17,2182.27
+100036,2025-01-10,Keyboard,Accessories,West,1,1671.61,341.02
+100037,2025-01-10,Tablet Air,Electronics,Central,5,110087.86,18261.24
+100038,2025-01-10,Monitor 24,Electronics,South,1,11396.9,1762.08
+100039,2025-01-10,Keyboard,Accessories,West,1,2015.65,590.28
+100040,2025-01-11,Keyboard,Accessories,Central,1,1569.74,355.85
+100041,2025-01-11,Monitor 24,Electronics,Central,2,24376.96,4014.83
+100042,2025-01-12,Laptop Pro,Electronics,South,5,328062.45,51188.94
+100043,2025-01-12,Wireless Mouse,Accessories,East,2,2329.97,579.36
+100044,2025-01-12,Smartphone X,Electronics,West,4,141094.31,21808.73
+100045,2025-01-13,Webcam,Accessories,Central,2,7913.58,1518.37
+100046,2025-01-13,Monitor 24,Electronics,South,2,26257.73,4133.67
+100047,2025-01-13,Headphones,Accessories,South,5,16369.55,3864.59
+100048,2025-01-13,Webcam,Accessories,South,5,21562.05,4282.77
+100049,2025-01-13,Webcam,Accessories,South,3,11633.88,2493.31
+100050,2025-01-14,Desk,Furniture,Central,5,54608.49,10219.74
+100051,2025-01-14,Keyboard,Accessories,South,1,1755.62,434.79
+100052,2025-01-15,Headphones,Accessories,North,4,12940.72,2709.64
+100053,2025-01-15,Desk,Furniture,Central,2,24179.22,5394.18
+100054,2025-01-15,Headphones,Accessories,North,4,13922.39,2956.06
+100055,2025-01-15,Smartphone X,Electronics,South,2,72701.97,8734.04
+100056,2025-01-15,Keyboard,Accessories,East,3,5509.37,1405.92
+100057,2025-01-15,Smartphone X,Electronics,South,1,36352.27,2862.58
+100058,2025-01-16,Monitor 24,Electronics,Central,4,46343.56,7324.42
+100059,2025-01-16,Headphones,Accessories,Central,1,2945.33,709.14
+100060,2025-01-16,Desk,Furniture,East,1,11322.42,1900.99
+100061,2025-01-17,Wireless Mouse,Accessories,North,3,3716.23,1053.31
+100062,2025-01-17,Monitor 24,Electronics,South,5,61660.53,11472.71
+100063,2025-01-17,Webcam,Accessories,North,4,15706.94,3333.99
+100064,2025-01-17,Desk,Furniture,East,1,12238.72,1941.9
+100065,2025-01-17,Webcam,Accessories,West,5,19156.06,3739.88
+100066,2025-01-17,Headphones,Accessories,North,4,12240.06,2737.45
+100067,2025-01-17,Smartphone X,Electronics,East,2,69316.8,7170.11
+100068,2025-01-18,Headphones,Accessories,West,4,12393.39,2702.73
+100069,2025-01-18,Smartphone X,Electronics,West,5,159596.02,29242.97
+100070,2025-01-18,Headphones,Accessories,South,2,5978.83,1709.49
+100071,2025-01-18,Webcam,Accessories,North,5,20536.01,4487.92
+100072,2025-01-18,Laptop Pro,Electronics,North,5,305756.29,47046.12
+100073,2025-01-18,Webcam,Accessories,Central,3,12315.63,2545.08
+100074,2025-01-18,Smartphone X,Electronics,East,1,34499.84,4255.22
+100075,2025-01-19,Smartphone X,Electronics,Central,1,35990.23,5589.93
+100076,2025-01-19,Headphones,Accessories,South,5,16051.03,3852.28
+100077,2025-01-19,Wireless Mouse,Accessories,West,5,6113.94,1513.61
+100078,2025-01-20,Tablet Air,Electronics,West,3,73666.86,9644.73
+100079,2025-01-20,Laptop Pro,Electronics,South,5,303307.98,57561.36
+100080,2025-01-20,Monitor 24,Electronics,North,1,12860.11,1753.93
+100081,2025-01-21,Headphones,Accessories,Central,5,14933.99,3408.11
+100082,2025-01-21,Monitor 24,Electronics,West,4,49123.49,8715.13
+100083,2025-01-21,Office Chair,Furniture,Central,3,25733.42,6093.35
+100084,2025-01-21,Headphones,Accessories,East,4,12935.56,3200.26
+100085,2025-01-21,Wireless Mouse,Accessories,North,1,1073.52,277.18
+100086,2025-01-21,Office Chair,Furniture,South,2,17881.1,3429.36
+100087,2025-01-21,Wireless Mouse,Accessories,East,2,2248.38,543.3
+100088,2025-01-22,Webcam,Accessories,West,5,23182.71,5550.76
+100089,2025-01-22,Keyboard,Accessories,East,5,9237.06,2223.36
+100090,2025-01-22,Headphones,Accessories,East,3,9638.33,2145.15
+100091,2025-01-22,Smartphone X,Electronics,West,1,36642.94,4588.93
+100092,2025-01-22,Tablet Air,Electronics,Central,4,100325.01,19615.16
+100093,2025-01-22,Monitor 24,Electronics,North,3,37349.36,5628.54
+100094,2025-01-23,Smartphone X,Electronics,Central,3,109016.46,12267.27
+100095,2025-01-23,Monitor 24,Electronics,Central,5,62622.93,9367.51
+100096,2025-01-23,Laptop Pro,Electronics,North,3,187367.93,35390.58
+100097,2025-01-23,Office Chair,Furniture,North,3,21994.33,4566.22
+100098,2025-01-23,Desk,Furniture,West,5,60333.49,7747.97
+100099,2025-01-23,Desk,Furniture,North,5,56949.99,7999.2
+100100,2025-01-23,Desk,Furniture,North,3,34676.24,5746.77
+100101,2025-01-24,Tablet Air,Electronics,West,4,97341.38,15171.63
+100102,2025-01-24,Wireless Mouse,Accessories,West,2,2275.68,560.53
+100103,2025-01-24,Wireless Mouse,Accessories,North,5,6359.94,1421.68
+100104,2025-01-24,Smartphone X,Electronics,West,2,76222.11,8491.93
+100105,2025-01-24,Webcam,Accessories,Central,2,8825.57,1855.89
+100106,2025-01-25,Office Chair,Furniture,Central,1,8929.33,1909.56
+100107,2025-01-25,Desk,Furniture,South,5,54322.97,7057.2
+100108,2025-01-25,Keyboard,Accessories,East,1,1811.65,457.87
+100109,2025-01-25,Office Chair,Furniture,West,5,39308.3,6288.07
+100110,2025-01-25,Wireless Mouse,Accessories,East,1,1237.74,317.98
+100111,2025-01-25,Wireless Mouse,Accessories,East,1,1033.67,259.82
+100112,2025-01-26,Tablet Air,Electronics,West,5,125054.07,19190.3
+100113,2025-01-26,Office Chair,Furniture,North,4,35081.33,6398.24
+100114,2025-01-26,Headphones,Accessories,East,1,3237.78,843.48
+100115,2025-01-26,Laptop Pro,Electronics,Central,2,127926.46,20092.31
+100116,2025-01-26,Office Chair,Furniture,North,1,7483.54,1254.15
+100117,2025-01-26,Webcam,Accessories,South,2,8058.15,1843.19
+100118,2025-01-27,Webcam,Accessories,Central,1,4474.48,1088.16
+100119,2025-01-27,Desk,Furniture,East,1,10492.16,2243.64
+100120,2025-01-27,Monitor 24,Electronics,West,1,12054.2,1723.59
+100121,2025-01-27,Headphones,Accessories,North,1,3131.26,814.41
+100122,2025-01-27,Monitor 24,Electronics,Central,4,51178.48,7880.79
+100123,2025-01-27,Office Chair,Furniture,North,1,8433.15,1300.62
+100124,2025-01-27,Keyboard,Accessories,North,2,3484.68,673.44
+100125,2025-01-28,Monitor 24,Electronics,East,3,37074.2,6977.98
+100126,2025-01-28,Desk,Furniture,East,1,11871.64,2035.16
+100127,2025-01-29,Monitor 24,Electronics,East,4,49005.54,10186.53
+100128,2025-01-29,Smartphone X,Electronics,North,3,107197.29,19164.23
+100129,2025-01-29,Monitor 24,Electronics,North,1,12552.04,2309.63
+100130,2025-01-29,Laptop Pro,Electronics,South,4,265195.9,42259.88
+100131,2025-01-30,Webcam,Accessories,East,1,3799.43,600.98
+100132,2025-01-30,Keyboard,Accessories,West,2,3500.93,744.54
+100133,2025-01-30,Keyboard,Accessories,East,1,1696.09,387.88
+100134,2025-01-30,Tablet Air,Electronics,East,4,94362.06,14591.5
+100135,2025-01-31,Wireless Mouse,Accessories,South,4,5106.39,1130.82
+100136,2025-01-31,Monitor 24,Electronics,West,3,38001.93,8201.97
+100137,2025-01-31,Wireless Mouse,Accessories,East,5,6209.08,1543.46
+100138,2025-01-31,Desk,Furniture,East,2,22568.0,3581.8
+100139,2025-01-31,Desk,Furniture,South,3,34212.72,6727.58
+100140,2025-02-01,Headphones,Accessories,Central,1,3145.04,790.5
+100141,2025-02-01,Keyboard,Accessories,North,4,6408.83,1356.17
+100142,2025-02-01,Wireless Mouse,Accessories,East,5,5461.78,1551.67
+100143,2025-02-01,Desk,Furniture,North,2,20016.7,2119.5
+100144,2025-02-01,Office Chair,Furniture,East,5,48672.06,10263.58
+100145,2025-02-01,Keyboard,Accessories,South,4,6525.67,1387.14
+100146,2025-02-01,Office Chair,Furniture,Central,4,33824.35,7433.58
+100147,2025-02-02,Monitor 24,Electronics,East,1,11983.72,2426.05
+100148,2025-02-02,Webcam,Accessories,Central,5,19881.5,4839.05
+100149,2025-02-02,Monitor 24,Electronics,West,1,13552.87,2289.58
+100150,2025-02-02,Wireless Mouse,Accessories,North,5,6092.96,1761.58
+100151,2025-02-02,Desk,Furniture,Central,1,10378.86,1751.81
+100152,2025-02-02,Webcam,Accessories,North,4,17442.57,3428.0
+100153,2025-02-03,Webcam,Accessories,East,4,16007.14,2686.61
+100154,2025-02-03,Keyboard,Accessories,Central,5,9133.74,1968.5
+100155,2025-02-03,Keyboard,Accessories,West,4,7287.86,1419.58
+100156,2025-02-04,Desk,Furniture,East,5,56270.63,10911.62
+100157,2025-02-04,Wireless Mouse,Accessories,East,4,5386.1,1334.8
+100158,2025-02-04,Keyboard,Accessories,Central,2,3377.03,637.88
+100159,2025-02-04,Monitor 24,Electronics,East,3,36344.02,5734.36
+100160,2025-02-04,Laptop Pro,Electronics,South,5,325997.27,45920.5
+100161,2025-02-04,Webcam,Accessories,North,2,8772.66,1807.25
+100162,2025-02-05,Webcam,Accessories,West,3,12742.11,2214.54
+100163,2025-02-05,Monitor 24,Electronics,North,3,35475.69,6553.99
+100164,2025-02-05,Tablet Air,Electronics,West,5,129620.54,23487.08
+100165,2025-02-05,Webcam,Accessories,West,4,14370.8,2602.43
+100166,2025-02-05,Webcam,Accessories,West,4,15719.29,3581.8
+100167,2025-02-06,Desk,Furniture,Central,3,31341.82,5826.01
+100168,2025-02-06,Keyboard,Accessories,Central,1,1826.9,485.1
+100169,2025-02-06,Webcam,Accessories,Central,4,16372.69,2762.17
+100170,2025-02-06,Tablet Air,Electronics,North,3,69751.06,11879.65
+100171,2025-02-06,Desk,Furniture,Central,3,29485.58,5687.33
+100172,2025-02-07,Desk,Furniture,West,1,10585.79,1736.97
+100173,2025-02-07,Tablet Air,Electronics,Central,3,73935.79,7974.72
+100174,2025-02-08,Webcam,Accessories,North,2,8518.58,1485.7
+100175,2025-02-08,Smartphone X,Electronics,West,4,133224.57,13047.23
+100176,2025-02-08,Wireless Mouse,Accessories,Central,2,2311.59,661.76
+100177,2025-02-08,Laptop Pro,Electronics,South,5,325626.1,54289.31
+100178,2025-02-08,Tablet Air,Electronics,West,3,69695.49,9737.09
+100179,2025-02-08,Laptop Pro,Electronics,West,4,243766.86,24298.8
+100180,2025-02-09,Wireless Mouse,Accessories,West,5,5854.1,1180.06
+100181,2025-02-09,Keyboard,Accessories,South,1,1779.49,341.96
+100182,2025-02-09,Tablet Air,Electronics,West,1,24755.29,2788.43
+100183,2025-02-09,Keyboard,Accessories,Central,3,5455.72,1154.25
+100184,2025-02-09,Webcam,Accessories,East,1,4355.04,726.13
+100185,2025-02-10,Wireless Mouse,Accessories,East,5,6665.22,1637.28
+100186,2025-02-10,Smartphone X,Electronics,South,1,36233.24,4999.64
+100187,2025-02-11,Wireless Mouse,Accessories,East,5,6436.51,1557.02
+100188,2025-02-11,Office Chair,Furniture,Central,5,42455.21,7533.23
+100189,2025-02-12,Tablet Air,Electronics,South,5,107719.3,11806.96
+100190,2025-02-12,Headphones,Accessories,Central,2,5415.14,1405.88
+100191,2025-02-12,Monitor 24,Electronics,West,4,47858.38,7038.97
+100192,2025-02-12,Tablet Air,Electronics,South,1,27430.95,4402.8
+100193,2025-02-12,Smartphone X,Electronics,South,4,138597.81,20847.8
+100194,2025-02-12,Headphones,Accessories,East,5,15499.53,3551.17
+100195,2025-02-12,Webcam,Accessories,East,1,4399.28,1088.64
+100196,2025-02-13,Office Chair,Furniture,South,5,43300.9,8394.14
+100197,2025-02-13,Smartphone X,Electronics,North,5,166319.6,18368.27
+100198,2025-02-13,Webcam,Accessories,North,2,7914.33,1480.94
+100199,2025-02-13,Tablet Air,Electronics,East,4,94588.45,11750.69
+100200,2025-02-14,Office Chair,Furniture,South,4,32009.04,5673.14
+100201,2025-02-14,Laptop Pro,Electronics,Central,2,128272.02,22599.88
+100202,2025-02-14,Smartphone X,Electronics,North,2,65652.67,8515.01
+100203,2025-02-15,Smartphone X,Electronics,East,2,63433.39,9333.83
+100204,2025-02-15,Keyboard,Accessories,East,4,6758.37,1470.59
+100205,2025-02-16,Wireless Mouse,Accessories,East,2,2184.48,495.72
+100206,2025-02-16,Wireless Mouse,Accessories,South,4,5020.99,1112.13
+100207,2025-02-16,Wireless Mouse,Accessories,East,3,3696.73,929.57
+100208,2025-02-17,Laptop Pro,Electronics,South,1,66084.76,10834.79
+100209,2025-02-17,Webcam,Accessories,North,5,18958.96,2916.23
+100210,2025-02-17,Laptop Pro,Electronics,East,2,139264.26,18728.87
+100211,2025-02-17,Office Chair,Furniture,Central,3,26924.18,6594.81
+100212,2025-02-17,Laptop Pro,Electronics,East,1,63550.3,8749.08
+100213,2025-02-18,Tablet Air,Electronics,South,5,112691.51,22675.66
+100214,2025-02-18,Webcam,Accessories,Central,1,3967.95,918.09
+100215,2025-02-18,Wireless Mouse,Accessories,East,4,4927.45,1385.8
+100216,2025-02-19,Keyboard,Accessories,West,2,3737.57,854.11
+100217,2025-02-19,Desk,Furniture,South,2,21265.83,3147.43
+100218,2025-02-19,Laptop Pro,Electronics,Central,4,286972.33,55667.04
+100219,2025-02-19,Smartphone X,Electronics,Central,1,35025.31,4730.87
+100220,2025-02-19,Monitor 24,Electronics,West,4,51190.97,9291.66
+100221,2025-02-20,Webcam,Accessories,South,1,4179.91,1065.62
+100222,2025-02-20,Monitor 24,Electronics,East,2,25373.18,4595.22
+100223,2025-02-21,Keyboard,Accessories,East,1,1783.69,359.14
+100224,2025-02-21,Office Chair,Furniture,East,3,26282.17,5513.52
+100225,2025-02-22,Headphones,Accessories,North,1,3391.17,903.68
+100226,2025-02-22,Headphones,Accessories,Central,5,15188.76,3233.8
+100227,2025-02-22,Tablet Air,Electronics,East,2,49092.33,8943.8
+100228,2025-02-22,Desk,Furniture,East,2,20357.65,3501.97
+100229,2025-02-22,Desk,Furniture,Central,3,32599.88,5397.0
+100230,2025-02-22,Wireless Mouse,Accessories,East,3,3464.34,893.06
+100231,2025-02-22,Keyboard,Accessories,West,2,3652.73,828.55
+100232,2025-02-23,Webcam,Accessories,South,1,4562.32,825.54
+100233,2025-02-23,Wireless Mouse,Accessories,East,5,6010.48,1507.27
+100234,2025-02-23,Desk,Furniture,East,3,35404.1,4007.01
+100235,2025-02-23,Monitor 24,Electronics,West,5,58270.82,9935.46
+100236,2025-02-24,Office Chair,Furniture,Central,5,41668.03,9820.62
+100237,2025-02-24,Desk,Furniture,East,4,43113.12,9813.69
+100238,2025-02-24,Webcam,Accessories,South,5,20882.44,4453.73
+100239,2025-02-24,Desk,Furniture,West,2,26196.09,5272.8
+100240,2025-02-24,Wireless Mouse,Accessories,East,1,1173.95,279.11
+100241,2025-02-25,Laptop Pro,Electronics,North,2,132172.89,21193.87
+100242,2025-02-25,Wireless Mouse,Accessories,South,1,1230.6,248.06
+100243,2025-02-25,Laptop Pro,Electronics,Central,4,237500.13,37653.2
+100244,2025-02-25,Tablet Air,Electronics,East,5,115006.76,19640.37
+100245,2025-02-25,Webcam,Accessories,North,3,12157.84,2538.99
+100246,2025-02-26,Smartphone X,Electronics,North,1,36520.99,4805.25
+100247,2025-02-26,Keyboard,Accessories,West,3,4765.42,1046.92
+100248,2025-02-26,Smartphone X,Electronics,South,2,69882.47,9478.79
+100249,2025-02-26,Desk,Furniture,North,5,51333.35,7735.97
+100250,2025-02-26,Monitor 24,Electronics,North,3,40301.13,6819.62
+100251,2025-02-27,Keyboard,Accessories,North,5,8550.16,1761.82
+100252,2025-02-27,Headphones,Accessories,East,1,3207.41,744.78
+100253,2025-02-28,Headphones,Accessories,South,3,9103.3,2293.78
+100254,2025-02-28,Headphones,Accessories,South,5,16098.45,3804.29
+100255,2025-03-01,Laptop Pro,Electronics,South,4,292140.65,45096.06
+100256,2025-03-01,Webcam,Accessories,West,1,4217.62,772.22
+100257,2025-03-01,Office Chair,Furniture,North,4,35133.39,6480.21
+100258,2025-03-01,Keyboard,Accessories,Central,4,7700.04,1970.5
+100259,2025-03-02,Monitor 24,Electronics,West,2,22178.8,3815.91
+100260,2025-03-02,Laptop Pro,Electronics,Central,1,62771.35,9782.67
+100261,2025-03-02,Headphones,Accessories,South,3,9502.24,2378.84
+100262,2025-03-02,Headphones,Accessories,East,2,6402.31,1608.31
+100263,2025-03-02,Smartphone X,Electronics,North,3,115378.58,15892.3
+100264,2025-03-03,Monitor 24,Electronics,Central,2,24868.18,5060.86
+100265,2025-03-03,Wireless Mouse,Accessories,North,1,1263.82,331.46
+100266,2025-03-03,Webcam,Accessories,North,3,12818.76,2577.95
+100267,2025-03-03,Office Chair,Furniture,North,5,43476.36,4729.78
+100268,2025-03-04,Wireless Mouse,Accessories,East,5,6171.91,1363.62
+100269,2025-03-04,Smartphone X,Electronics,East,1,37878.14,4465.8
+100270,2025-03-04,Office Chair,Furniture,West,1,8708.1,2093.62
+100271,2025-03-04,Desk,Furniture,South,5,51692.26,9162.81
+100272,2025-03-04,Desk,Furniture,North,3,32493.45,5245.91
+100273,2025-03-04,Webcam,Accessories,South,3,12626.17,2562.23
+100274,2025-03-04,Desk,Furniture,West,3,34221.29,5304.55
+100275,2025-03-05,Keyboard,Accessories,West,4,7021.87,1296.09
+100276,2025-03-05,Keyboard,Accessories,North,3,5550.13,1008.64
+100277,2025-03-05,Monitor 24,Electronics,North,1,12780.79,2502.47
+100278,2025-03-05,Office Chair,Furniture,Central,3,26006.49,5004.55
+100279,2025-03-06,Office Chair,Furniture,North,2,18508.86,4532.07
+100280,2025-03-06,Desk,Furniture,West,2,22465.59,4474.48
+100281,2025-03-06,Keyboard,Accessories,East,3,5442.37,1309.4
+100282,2025-03-06,Smartphone X,Electronics,West,3,102388.82,14933.18
+100283,2025-03-06,Wireless Mouse,Accessories,South,1,1224.5,326.64
+100284,2025-03-06,Smartphone X,Electronics,West,4,143182.28,14193.61
+100285,2025-03-07,Headphones,Accessories,North,1,2882.22,616.43
+100286,2025-03-07,Desk,Furniture,Central,4,44137.74,7642.61
+100287,2025-03-07,Desk,Furniture,North,2,22448.64,4218.13
+100288,2025-03-07,Tablet Air,Electronics,West,2,49774.47,4843.11
+100289,2025-03-07,Desk,Furniture,Central,3,33071.4,5949.02
+100290,2025-03-08,Laptop Pro,Electronics,South,4,263163.29,38814.21
+100291,2025-03-08,Webcam,Accessories,East,1,4066.96,853.92
+100292,2025-03-08,Webcam,Accessories,West,2,8806.06,1998.4
+100293,2025-03-08,Keyboard,Accessories,South,2,3810.36,904.82
+100294,2025-03-08,Keyboard,Accessories,West,5,8536.03,1763.19
+100295,2025-03-09,Webcam,Accessories,Central,2,8620.51,1542.69
+100296,2025-03-09,Headphones,Accessories,Central,4,12884.21,3879.8
+100297,2025-03-09,Office Chair,Furniture,East,4,34305.68,7213.77
+100298,2025-03-09,Tablet Air,Electronics,South,2,49280.81,7202.78
+100299,2025-03-10,Tablet Air,Electronics,West,5,128152.09,17158.39
+100300,2025-03-10,Wireless Mouse,Accessories,North,1,1232.76,352.73
+100301,2025-03-10,Wireless Mouse,Accessories,South,1,1185.82,263.41
+100302,2025-03-11,Wireless Mouse,Accessories,East,5,5671.36,1450.0
+100303,2025-03-11,Laptop Pro,Electronics,East,3,188136.95,36852.74
+100304,2025-03-12,Office Chair,Furniture,North,5,43603.12,8788.12
+100305,2025-03-12,Smartphone X,Electronics,East,5,170712.5,16225.76
+100306,2025-03-12,Desk,Furniture,Central,3,32452.13,5357.78
+100307,2025-03-12,Smartphone X,Electronics,South,3,110008.07,14797.09
+100308,2025-03-12,Laptop Pro,Electronics,Central,1,64738.39,12913.99
+100309,2025-03-13,Office Chair,Furniture,West,1,9133.4,2084.72
+100310,2025-03-13,Webcam,Accessories,North,3,13052.35,2910.56
+100311,2025-03-13,Desk,Furniture,South,2,20210.33,3236.38
+100312,2025-03-13,Desk,Furniture,Central,3,34663.64,7528.42
+100313,2025-03-13,Desk,Furniture,Central,1,10841.31,1979.09
+100314,2025-03-13,Keyboard,Accessories,East,5,9612.19,2027.87
+100315,2025-03-13,Wireless Mouse,Accessories,East,2,2464.85,616.4
+100316,2025-03-14,Laptop Pro,Electronics,East,5,321408.57,49254.62
+100317,2025-03-14,Desk,Furniture,West,5,54675.13,9508.15
+100318,2025-03-15,Headphones,Accessories,South,5,15747.45,3509.38
+100319,2025-03-15,Laptop Pro,Electronics,North,3,210074.8,33936.03
+100320,2025-03-16,Wireless Mouse,Accessories,West,2,2400.55,703.29
+100321,2025-03-16,Monitor 24,Electronics,South,2,21997.68,3660.87
+100322,2025-03-16,Office Chair,Furniture,West,5,43706.37,8321.42
+100323,2025-03-16,Smartphone X,Electronics,North,1,37163.41,5002.25
+100324,2025-03-17,Webcam,Accessories,Central,1,4058.51,923.09
+100325,2025-03-17,Webcam,Accessories,South,1,4571.18,679.86
+100326,2025-03-17,Headphones,Accessories,East,1,2972.08,686.31
+100327,2025-03-17,Webcam,Accessories,South,2,7903.48,1489.64
+100328,2025-03-17,Desk,Furniture,South,5,60945.75,10342.88
+100329,2025-03-17,Monitor 24,Electronics,North,5,55344.51,9800.3
+100330,2025-03-18,Tablet Air,Electronics,East,2,43391.41,5682.13
+100331,2025-03-18,Desk,Furniture,North,2,22483.4,4281.67
+100332,2025-03-18,Smartphone X,Electronics,South,3,99958.67,14576.12
+100333,2025-03-18,Monitor 24,Electronics,South,1,11467.71,1973.54
+100334,2025-03-18,Desk,Furniture,West,4,43627.79,9523.71
+100335,2025-03-19,Headphones,Accessories,East,5,16720.12,4821.16
+100336,2025-03-19,Webcam,Accessories,East,3,11671.63,2180.69
+100337,2025-03-19,Laptop Pro,Electronics,South,5,299210.45,44236.81
+100338,2025-03-20,Monitor 24,Electronics,North,1,12012.08,1959.71
+100339,2025-03-20,Smartphone X,Electronics,South,2,66306.06,12401.94
+100340,2025-03-21,Tablet Air,Electronics,Central,4,93182.91,13544.24
+100341,2025-03-21,Laptop Pro,Electronics,Central,4,238503.06,27364.54
+100342,2025-03-21,Laptop Pro,Electronics,East,4,241352.4,46610.91
+100343,2025-03-21,Webcam,Accessories,West,1,4303.57,987.94
+100344,2025-03-22,Keyboard,Accessories,North,2,3757.4,772.46
+100345,2025-03-22,Keyboard,Accessories,North,3,5583.44,1151.65
+100346,2025-03-22,Headphones,Accessories,Central,2,6433.22,1596.57
+100347,2025-03-22,Keyboard,Accessories,West,3,5408.61,1267.04
+100348,2025-03-22,Tablet Air,Electronics,North,5,129194.26,16145.11
+100349,2025-03-22,Smartphone X,Electronics,East,2,67769.9,10580.36
+100350,2025-03-23,Office Chair,Furniture,South,5,37890.37,7415.56
+100351,2025-03-23,Desk,Furniture,South,2,24002.17,3842.2
+100352,2025-03-23,Keyboard,Accessories,South,4,6886.63,1406.86
+100353,2025-03-23,Webcam,Accessories,South,1,4638.39,918.14
+100354,2025-03-23,Wireless Mouse,Accessories,East,4,4828.06,1303.07
+100355,2025-03-23,Desk,Furniture,East,4,43695.08,6951.83
+100356,2025-03-24,Webcam,Accessories,Central,1,4349.58,1080.54
+100357,2025-03-24,Monitor 24,Electronics,West,5,61093.96,11566.69
+100358,2025-03-24,Webcam,Accessories,East,5,20244.32,5071.24
+100359,2025-03-24,Laptop Pro,Electronics,Central,3,192449.06,36534.62
+100360,2025-03-24,Smartphone X,Electronics,Central,2,73342.52,9645.4
+100361,2025-03-24,Keyboard,Accessories,East,4,6627.0,1454.09
+100362,2025-03-25,Wireless Mouse,Accessories,Central,3,3636.66,869.25
+100363,2025-03-25,Keyboard,Accessories,West,1,1827.83,440.76
+100364,2025-03-25,Keyboard,Accessories,North,5,8642.83,1651.33
+100365,2025-03-25,Webcam,Accessories,East,5,18373.65,4140.63
+100366,2025-03-25,Headphones,Accessories,East,3,9455.36,1682.89
+100367,2025-03-25,Desk,Furniture,West,5,45832.62,7851.67
+100368,2025-03-25,Keyboard,Accessories,North,1,1886.89,383.27
+100369,2025-03-26,Tablet Air,Electronics,West,2,53288.33,7722.89
+100370,2025-03-26,Webcam,Accessories,East,3,13499.95,2578.32
+100371,2025-03-27,Office Chair,Furniture,West,1,7702.93,1584.64
+100372,2025-03-27,Wireless Mouse,Accessories,East,3,3663.27,770.3
+100373,2025-03-27,Keyboard,Accessories,North,3,4791.53,925.39
+100374,2025-03-27,Smartphone X,Electronics,East,5,177836.0,24950.26
+100375,2025-03-28,Webcam,Accessories,South,1,4365.79,1212.68
+100376,2025-03-28,Headphones,Accessories,West,2,6564.27,1647.47
+100377,2025-03-28,Keyboard,Accessories,South,3,5065.5,1406.92
+100378,2025-03-28,Office Chair,Furniture,North,2,17934.25,3537.91
+100379,2025-03-29,Wireless Mouse,Accessories,North,2,2213.97,573.01
+100380,2025-03-29,Webcam,Accessories,North,5,21587.38,4330.31
+100381,2025-03-29,Laptop Pro,Electronics,Central,5,320047.73,48184.73
+100382,2025-03-29,Monitor 24,Electronics,Central,1,11200.09,2257.38
+100383,2025-03-29,Desk,Furniture,North,3,30768.56,6560.34
+100384,2025-03-29,Tablet Air,Electronics,West,5,126909.05,14230.46
+100385,2025-03-30,Webcam,Accessories,West,5,18977.36,3973.72
+100386,2025-03-30,Webcam,Accessories,West,2,8489.34,1844.57
+100387,2025-03-31,Tablet Air,Electronics,Central,3,59614.32,8469.05
+100388,2025-03-31,Desk,Furniture,Central,2,19687.23,3590.06
+100389,2025-03-31,Smartphone X,Electronics,North,4,142825.77,15297.27
+100390,2025-03-31,Laptop Pro,Electronics,North,5,353809.18,51810.42
+100391,2025-03-31,Wireless Mouse,Accessories,North,5,6670.43,1768.11
+100392,2025-04-01,Wireless Mouse,Accessories,East,4,4393.97,1228.39
+100393,2025-04-01,Webcam,Accessories,East,1,4148.57,820.21
+100394,2025-04-01,Smartphone X,Electronics,North,1,35537.4,5198.9
+100395,2025-04-02,Office Chair,Furniture,West,4,33145.55,8476.75
+100396,2025-04-02,Tablet Air,Electronics,West,5,129078.75,23776.01
+100397,2025-04-02,Smartphone X,Electronics,North,3,111271.59,17166.81
+100398,2025-04-02,Tablet Air,Electronics,Central,2,47374.39,6858.14
+100399,2025-04-02,Keyboard,Accessories,North,4,7278.33,1435.39
+100400,2025-04-03,Smartphone X,Electronics,East,5,181873.93,27033.28
+100401,2025-04-03,Tablet Air,Electronics,West,5,113311.28,14537.29
+100402,2025-04-03,Monitor 24,Electronics,East,3,37312.24,6305.78
+100403,2025-04-04,Tablet Air,Electronics,Central,1,25614.01,3416.51
+100404,2025-04-04,Keyboard,Accessories,Central,1,1649.81,422.3
+100405,2025-04-04,Desk,Furniture,West,4,50140.06,10926.07
+100406,2025-04-04,Laptop Pro,Electronics,East,5,313432.21,47598.25
+100407,2025-04-04,Headphones,Accessories,Central,4,12496.45,3457.51
+100408,2025-04-05,Keyboard,Accessories,West,1,1809.8,478.93
+100409,2025-04-05,Headphones,Accessories,East,4,13539.55,3004.22
+100410,2025-04-05,Desk,Furniture,South,3,34957.34,6327.5
+100411,2025-04-05,Keyboard,Accessories,North,4,6612.37,1218.8
+100412,2025-04-05,Monitor 24,Electronics,West,2,26687.57,4794.81
+100413,2025-04-06,Smartphone X,Electronics,West,2,69316.24,12643.28
+100414,2025-04-06,Headphones,Accessories,North,5,15624.95,4416.33
+100415,2025-04-07,Tablet Air,Electronics,South,3,72495.0,11472.23
+100416,2025-04-07,Smartphone X,Electronics,West,5,184219.62,17625.2
+100417,2025-04-07,Smartphone X,Electronics,Central,1,35375.36,4053.76
+100418,2025-04-07,Wireless Mouse,Accessories,North,4,4491.35,1083.13
+100419,2025-04-08,Keyboard,Accessories,East,2,3351.58,797.0
+100420,2025-04-08,Desk,Furniture,South,3,31878.74,5240.38
+100421,2025-04-08,Wireless Mouse,Accessories,South,1,1184.76,310.96
+100422,2025-04-08,Smartphone X,Electronics,West,2,69818.84,12563.05
+100423,2025-04-08,Smartphone X,Electronics,South,2,72302.14,11018.13
+100424,2025-04-09,Headphones,Accessories,South,5,16201.88,3598.89
+100425,2025-04-09,Tablet Air,Electronics,South,3,70638.45,7179.46
+100426,2025-04-10,Webcam,Accessories,East,4,16564.0,3400.43
+100427,2025-04-10,Monitor 24,Electronics,West,2,26797.78,4709.45
+100428,2025-04-10,Keyboard,Accessories,East,3,5600.0,1309.75
+100429,2025-04-10,Keyboard,Accessories,East,4,6696.79,1809.6
+100430,2025-04-10,Monitor 24,Electronics,West,2,26123.83,3600.29
+100431,2025-04-11,Webcam,Accessories,West,5,20671.27,4775.02
+100432,2025-04-11,Smartphone X,Electronics,East,4,151456.34,18793.24
+100433,2025-04-11,Tablet Air,Electronics,East,2,45686.67,7482.55
+100434,2025-04-11,Tablet Air,Electronics,North,2,45913.89,6219.36
+100435,2025-04-11,Smartphone X,Electronics,West,3,96331.74,11009.82
+100436,2025-04-11,Office Chair,Furniture,North,4,35650.61,7000.17
+100437,2025-04-12,Webcam,Accessories,Central,4,15976.89,2897.08
+100438,2025-04-12,Smartphone X,Electronics,East,2,67333.78,6794.86
+100439,2025-04-12,Monitor 24,Electronics,South,1,11309.68,2042.85
+100440,2025-04-13,Desk,Furniture,West,4,43965.84,6316.13
+100441,2025-04-13,Desk,Furniture,Central,2,22038.84,4533.82
+100442,2025-04-13,Wireless Mouse,Accessories,Central,5,6428.26,1582.47
+100443,2025-04-13,Laptop Pro,Electronics,West,5,311290.15,48877.49
+100444,2025-04-14,Desk,Furniture,North,2,23244.45,3611.61
+100445,2025-04-14,Monitor 24,Electronics,East,3,34327.57,6029.78
+100446,2025-04-14,Keyboard,Accessories,West,4,7363.28,1703.23
+100447,2025-04-14,Office Chair,Furniture,East,2,18609.32,3225.18
+100448,2025-04-15,Laptop Pro,Electronics,West,5,349658.53,43517.07
+100449,2025-04-15,Laptop Pro,Electronics,North,1,70296.67,12140.37
+100450,2025-04-15,Smartphone X,Electronics,West,2,68388.04,9383.21
+100451,2025-04-15,Webcam,Accessories,West,2,8378.54,1775.96
+100452,2025-04-15,Laptop Pro,Electronics,Central,3,229096.66,26477.92
+100453,2025-04-15,Keyboard,Accessories,West,2,3435.8,805.47
+100454,2025-04-15,Desk,Furniture,West,3,35327.5,6528.89
+100455,2025-04-16,Office Chair,Furniture,Central,2,18622.26,3899.06
+100456,2025-04-16,Headphones,Accessories,Central,5,14828.92,3250.96
+100457,2025-04-16,Monitor 24,Electronics,West,4,50849.21,10531.53
+100458,2025-04-16,Smartphone X,Electronics,North,4,148180.08,19294.09
+100459,2025-04-16,Smartphone X,Electronics,East,5,180282.01,12556.16
+100460,2025-04-16,Desk,Furniture,East,1,10015.21,1816.12
+100461,2025-04-17,Monitor 24,Electronics,East,3,37098.03,6033.87
+100462,2025-04-17,Webcam,Accessories,Central,4,17340.59,3474.35
+100463,2025-04-17,Tablet Air,Electronics,South,3,65229.79,10417.97
+100464,2025-04-17,Keyboard,Accessories,Central,1,1813.89,507.3
+100465,2025-04-17,Desk,Furniture,South,2,21864.49,4918.57
+100466,2025-04-17,Laptop Pro,Electronics,Central,2,131746.95,21086.1
+100467,2025-04-18,Laptop Pro,Electronics,South,3,193954.95,23284.04
+100468,2025-04-18,Desk,Furniture,East,5,56485.07,9846.17
+100469,2025-04-19,Wireless Mouse,Accessories,South,4,4904.98,1137.22
+100470,2025-04-19,Webcam,Accessories,North,3,11824.79,2324.22
+100471,2025-04-19,Tablet Air,Electronics,West,3,69237.35,11493.77
+100472,2025-04-20,Headphones,Accessories,West,1,3172.85,830.74
+100473,2025-04-20,Headphones,Accessories,North,2,6340.38,1302.64
+100474,2025-04-20,Desk,Furniture,South,4,44471.04,6616.11
+100475,2025-04-20,Monitor 24,Electronics,East,3,42842.86,5850.5
+100476,2025-04-20,Desk,Furniture,East,1,10255.55,1719.5
+100477,2025-04-20,Smartphone X,Electronics,West,2,70994.67,12606.71
+100478,2025-04-21,Smartphone X,Electronics,East,1,37152.34,4677.52
+100479,2025-04-21,Office Chair,Furniture,Central,5,36696.87,7927.43
+100480,2025-04-21,Smartphone X,Electronics,North,2,70531.71,8139.92
+100481,2025-04-21,Webcam,Accessories,Central,2,8705.57,1536.89
+100482,2025-04-21,Smartphone X,Electronics,North,1,33608.33,5984.76
+100483,2025-04-21,Smartphone X,Electronics,North,1,35204.97,3748.86
+100484,2025-04-22,Monitor 24,Electronics,North,4,50112.57,8906.42
+100485,2025-04-22,Wireless Mouse,Accessories,West,3,3288.53,779.67
+100486,2025-04-22,Monitor 24,Electronics,West,2,22947.5,4021.8
+100487,2025-04-22,Keyboard,Accessories,West,4,7032.11,1806.79
+100488,2025-04-22,Tablet Air,Electronics,West,5,110555.02,18438.44
+100489,2025-04-22,Office Chair,Furniture,Central,5,43300.24,8127.73
+100490,2025-04-23,Desk,Furniture,South,3,31774.49,5198.01
+100491,2025-04-23,Office Chair,Furniture,Central,3,27181.76,5863.65
+100492,2025-04-24,Office Chair,Furniture,East,4,31897.34,6435.62
+100493,2025-04-24,Wireless Mouse,Accessories,West,4,4618.54,1032.57
+100494,2025-04-24,Office Chair,Furniture,West,3,25279.24,4286.91
+100495,2025-04-25,Tablet Air,Electronics,South,3,84137.34,11671.14
+100496,2025-04-25,Laptop Pro,Electronics,West,5,358268.79,67350.06
+100497,2025-04-25,Keyboard,Accessories,West,5,8272.73,1863.57
+100498,2025-04-25,Office Chair,Furniture,West,5,44563.45,9019.02
+100499,2025-04-25,Desk,Furniture,West,3,31052.84,6123.43
+100500,2025-04-25,Monitor 24,Electronics,East,5,56529.95,10601.56
+100501,2025-04-25,Webcam,Accessories,East,2,7564.2,1586.99
+100502,2025-04-26,Keyboard,Accessories,South,4,6399.87,1355.86
+100503,2025-04-26,Tablet Air,Electronics,East,5,115943.01,16107.35
+100504,2025-04-26,Smartphone X,Electronics,East,4,143716.62,17589.38
+100505,2025-04-26,Wireless Mouse,Accessories,East,2,2123.39,556.17
+100506,2025-04-26,Desk,Furniture,Central,3,33078.59,6748.64
+100507,2025-04-27,Webcam,Accessories,Central,2,8538.0,1791.46
+100508,2025-04-27,Office Chair,Furniture,South,4,35355.28,7895.4
+100509,2025-04-27,Monitor 24,Electronics,North,3,36913.14,4699.33
+100510,2025-04-27,Keyboard,Accessories,Central,2,3739.22,740.4
+100511,2025-04-28,Tablet Air,Electronics,South,5,131223.48,16809.37
+100512,2025-04-28,Keyboard,Accessories,Central,5,9403.53,2082.27
+100513,2025-04-28,Laptop Pro,Electronics,South,4,269027.12,43635.95
+100514,2025-04-29,Monitor 24,Electronics,West,3,40826.13,6429.41
+100515,2025-04-29,Keyboard,Accessories,East,2,3602.37,871.68
+100516,2025-04-29,Monitor 24,Electronics,Central,5,54858.52,9919.37
+100517,2025-04-29,Keyboard,Accessories,Central,3,5275.41,1247.82
+100518,2025-04-29,Smartphone X,Electronics,North,2,68742.78,10091.64
+100519,2025-04-30,Laptop Pro,Electronics,North,5,321711.29,59868.41
+100520,2025-04-30,Monitor 24,Electronics,North,1,11452.28,2249.12
+100521,2025-04-30,Office Chair,Furniture,East,2,18044.58,3739.69
+100522,2025-04-30,Laptop Pro,Electronics,North,1,64184.77,11358.34
+100523,2025-04-30,Wireless Mouse,Accessories,East,4,5051.12,1191.84
+100524,2025-05-01,Smartphone X,Electronics,West,1,32764.61,2761.73
+100525,2025-05-01,Monitor 24,Electronics,East,2,27713.37,5975.92
+100526,2025-05-02,Tablet Air,Electronics,West,1,26047.83,3609.7
+100527,2025-05-02,Wireless Mouse,Accessories,North,2,2438.41,544.77
+100528,2025-05-02,Keyboard,Accessories,West,4,6525.56,1524.18
+100529,2025-05-02,Laptop Pro,Electronics,North,5,302830.01,32130.09
+100530,2025-05-02,Keyboard,Accessories,North,1,1737.19,314.82
+100531,2025-05-02,Smartphone X,Electronics,East,1,32740.95,3802.39
+100532,2025-05-03,Keyboard,Accessories,South,4,7143.83,1682.21
+100533,2025-05-03,Webcam,Accessories,East,5,21040.79,4496.06
+100534,2025-05-03,Desk,Furniture,Central,1,10484.91,2020.92
+100535,2025-05-04,Desk,Furniture,North,1,11785.6,1223.45
+100536,2025-05-04,Headphones,Accessories,East,3,10190.6,2364.91
+100537,2025-05-04,Office Chair,Furniture,West,4,36094.89,5485.07
+100538,2025-05-04,Laptop Pro,Electronics,East,3,194355.31,25303.14
+100539,2025-05-04,Webcam,Accessories,Central,1,4418.29,1008.74
+100540,2025-05-04,Desk,Furniture,South,2,21467.26,3400.85
+100541,2025-05-04,Monitor 24,Electronics,West,1,13703.17,2455.16
+100542,2025-05-05,Smartphone X,Electronics,Central,4,133266.4,13078.04
+100543,2025-05-05,Tablet Air,Electronics,North,2,44463.6,4245.87
+100544,2025-05-05,Monitor 24,Electronics,North,3,35807.64,5631.55
+100545,2025-05-06,Wireless Mouse,Accessories,North,3,3612.18,925.2
+100546,2025-05-06,Keyboard,Accessories,East,2,3458.74,779.54
+100547,2025-05-07,Headphones,Accessories,North,3,8907.25,2073.97
+100548,2025-05-07,Smartphone X,Electronics,North,2,67309.94,8294.45
+100549,2025-05-07,Headphones,Accessories,South,1,3059.0,771.26
+100550,2025-05-08,Tablet Air,Electronics,East,1,23380.14,3972.6
+100551,2025-05-08,Monitor 24,Electronics,East,2,25157.04,5595.29
+100552,2025-05-08,Tablet Air,Electronics,South,2,50217.19,5155.83
+100553,2025-05-08,Keyboard,Accessories,North,3,5558.33,1246.54
+100554,2025-05-08,Tablet Air,Electronics,West,5,120223.54,17275.93
+100555,2025-05-09,Monitor 24,Electronics,North,1,12648.79,2034.17
+100556,2025-05-09,Headphones,Accessories,East,4,13100.08,3322.61
+100557,2025-05-09,Smartphone X,Electronics,South,1,37026.86,4894.83
+100558,2025-05-10,Tablet Air,Electronics,West,4,95472.73,13053.93
+100559,2025-05-10,Webcam,Accessories,Central,4,16128.8,3562.05
+100560,2025-05-10,Laptop Pro,Electronics,East,1,59521.31,11193.99
+100561,2025-05-10,Smartphone X,Electronics,North,1,37496.45,5461.05
+100562,2025-05-10,Keyboard,Accessories,North,3,5975.81,1413.1
+100563,2025-05-10,Laptop Pro,Electronics,North,2,142403.71,23351.71
+100564,2025-05-10,Laptop Pro,Electronics,West,3,187274.49,32688.06
+100565,2025-05-11,Webcam,Accessories,West,3,12002.77,2559.57
+100566,2025-05-11,Headphones,Accessories,East,4,11669.65,2965.59
+100567,2025-05-12,Keyboard,Accessories,Central,5,8741.84,2209.12
+100568,2025-05-12,Wireless Mouse,Accessories,South,1,1247.48,299.49
+100569,2025-05-12,Keyboard,Accessories,South,3,5250.13,1285.83
+100570,2025-05-12,Tablet Air,Electronics,East,4,97696.85,16908.0
+100571,2025-05-12,Keyboard,Accessories,South,2,3435.1,637.28
+100572,2025-05-12,Desk,Furniture,North,5,57179.46,11004.08
+100573,2025-05-12,Laptop Pro,Electronics,Central,3,203972.35,26390.43
+100574,2025-05-13,Monitor 24,Electronics,North,5,63874.19,12428.49
+100575,2025-05-13,Tablet Air,Electronics,Central,5,106966.46,14433.2
+100576,2025-05-13,Keyboard,Accessories,West,4,7944.06,1801.88
+100577,2025-05-13,Webcam,Accessories,North,3,12366.38,2543.49
+100578,2025-05-14,Office Chair,Furniture,South,1,8770.65,1711.15
+100579,2025-05-14,Tablet Air,Electronics,North,5,105760.21,15172.46
+100580,2025-05-14,Smartphone X,Electronics,Central,1,33795.34,3306.76
+100581,2025-05-14,Webcam,Accessories,South,3,10970.06,2052.74
+100582,2025-05-15,Wireless Mouse,Accessories,North,4,4467.74,1134.63
+100583,2025-05-15,Laptop Pro,Electronics,East,5,340152.92,53614.17
+100584,2025-05-15,Desk,Furniture,East,5,56543.81,10453.68
+100585,2025-05-15,Wireless Mouse,Accessories,West,5,6047.47,1635.65
+100586,2025-05-16,Desk,Furniture,West,5,57873.72,9253.25
+100587,2025-05-16,Keyboard,Accessories,North,5,9138.6,1618.79
+100588,2025-05-17,Tablet Air,Electronics,West,1,23597.27,3237.51
+100589,2025-05-17,Laptop Pro,Electronics,Central,4,243662.32,34123.97
+100590,2025-05-17,Desk,Furniture,South,5,56637.93,11485.09
+100591,2025-05-17,Keyboard,Accessories,East,2,3705.71,791.24
+100592,2025-05-17,Laptop Pro,Electronics,Central,1,65838.88,11805.8
+100593,2025-05-17,Tablet Air,Electronics,West,2,48127.34,6245.57
+100594,2025-05-17,Keyboard,Accessories,South,2,3641.73,1002.07
+100595,2025-05-18,Office Chair,Furniture,East,3,27134.75,5493.43
+100596,2025-05-18,Keyboard,Accessories,West,5,8795.86,2006.36
+100597,2025-05-18,Monitor 24,Electronics,Central,1,12686.7,2552.03
+100598,2025-05-18,Smartphone X,Electronics,South,5,188220.71,24021.83
+100599,2025-05-18,Smartphone X,Electronics,Central,5,179139.5,20065.95
+100600,2025-05-19,Tablet Air,Electronics,North,2,50697.32,7142.77
+100601,2025-05-19,Monitor 24,Electronics,East,3,37357.11,7407.44
+100602,2025-05-20,Smartphone X,Electronics,South,5,177355.12,25720.75
+100603,2025-05-20,Tablet Air,Electronics,South,1,24975.58,3281.88
+100604,2025-05-20,Monitor 24,Electronics,East,1,11792.03,2506.15
+100605,2025-05-20,Tablet Air,Electronics,East,4,103183.94,22733.1
+100606,2025-05-21,Monitor 24,Electronics,Central,4,48151.47,7643.06
+100607,2025-05-21,Webcam,Accessories,West,3,12373.46,2222.09
+100608,2025-05-21,Monitor 24,Electronics,Central,5,64303.86,12390.92
+100609,2025-05-21,Tablet Air,Electronics,East,1,23462.29,4763.52
+100610,2025-05-21,Monitor 24,Electronics,West,3,35244.65,4810.45
+100611,2025-05-21,Laptop Pro,Electronics,East,5,322624.8,47841.82
+100612,2025-05-21,Webcam,Accessories,South,5,21914.88,4092.02
+100613,2025-05-22,Keyboard,Accessories,South,3,5456.05,947.13
+100614,2025-05-22,Tablet Air,Electronics,West,2,48040.53,6947.68
+100615,2025-05-22,Tablet Air,Electronics,South,4,94981.29,14462.8
+100616,2025-05-22,Monitor 24,Electronics,South,3,39931.93,6893.9
+100617,2025-05-22,Smartphone X,Electronics,Central,5,181413.87,21614.55
+100618,2025-05-23,Webcam,Accessories,West,3,13576.51,3454.65
+100619,2025-05-23,Webcam,Accessories,East,3,12610.51,2651.76
+100620,2025-05-23,Laptop Pro,Electronics,East,1,59206.31,9610.19
+100621,2025-05-23,Desk,Furniture,Central,4,44227.02,7082.91
+100622,2025-05-23,Monitor 24,Electronics,Central,1,12613.19,2453.04
+100623,2025-05-23,Laptop Pro,Electronics,North,5,330407.15,56872.01
+100624,2025-05-24,Smartphone X,Electronics,Central,2,76647.88,8194.66
+100625,2025-05-24,Office Chair,Furniture,North,3,25362.01,4500.17
+100626,2025-05-25,Tablet Air,Electronics,South,1,22839.37,2630.14
+100627,2025-05-25,Webcam,Accessories,South,2,8648.12,1681.95
+100628,2025-05-25,Laptop Pro,Electronics,West,4,259146.61,49015.46
+100629,2025-05-25,Laptop Pro,Electronics,Central,5,323351.86,57194.03
+100630,2025-05-25,Tablet Air,Electronics,East,5,111486.36,17648.28
+100631,2025-05-25,Keyboard,Accessories,East,3,5751.41,1344.52
+100632,2025-05-25,Office Chair,Furniture,Central,5,42852.42,8361.6
+100633,2025-05-26,Desk,Furniture,South,1,11401.58,1991.21
+100634,2025-05-26,Tablet Air,Electronics,Central,3,70032.32,11233.83
+100635,2025-05-27,Laptop Pro,Electronics,North,3,205628.2,33552.7
+100636,2025-05-27,Wireless Mouse,Accessories,Central,2,2671.61,631.4
+100637,2025-05-27,Tablet Air,Electronics,East,3,77336.27,11626.26
+100638,2025-05-27,Wireless Mouse,Accessories,Central,2,2466.03,638.89
+100639,2025-05-27,Smartphone X,Electronics,South,5,198913.02,30687.34
+100640,2025-05-27,Office Chair,Furniture,North,2,18164.31,4179.02
+100641,2025-05-27,Smartphone X,Electronics,Central,2,74892.77,11473.09
+100642,2025-05-28,Headphones,Accessories,West,5,15512.9,3604.38
+100643,2025-05-28,Headphones,Accessories,North,3,8008.7,1835.05
+100644,2025-05-28,Headphones,Accessories,West,3,9315.9,2686.56
+100645,2025-05-28,Laptop Pro,Electronics,East,5,330097.7,59635.51
+100646,2025-05-28,Webcam,Accessories,Central,1,4544.93,960.79
+100647,2025-05-28,Smartphone X,Electronics,West,5,171973.0,24097.64
+100648,2025-05-28,Office Chair,Furniture,North,2,16724.2,3520.22
+100649,2025-05-29,Wireless Mouse,Accessories,West,2,2401.69,457.32
+100650,2025-05-29,Laptop Pro,Electronics,North,5,353663.78,58084.62
+100651,2025-05-29,Headphones,Accessories,East,4,12107.18,2435.81
+100652,2025-05-29,Keyboard,Accessories,North,3,5240.74,1164.06
+100653,2025-05-30,Smartphone X,Electronics,Central,2,74407.89,11242.92
+100654,2025-05-30,Laptop Pro,Electronics,Central,3,192776.16,20941.46
+100655,2025-05-31,Laptop Pro,Electronics,South,3,183653.34,28574.78
+100656,2025-05-31,Wireless Mouse,Accessories,North,3,3761.88,1001.75
+100657,2025-05-31,Smartphone X,Electronics,South,4,139687.11,18849.23
+100658,2025-05-31,Wireless Mouse,Accessories,Central,2,2421.61,625.02
+100659,2025-05-31,Tablet Air,Electronics,Central,2,52525.45,9940.44
+100660,2025-06-01,Webcam,Accessories,East,3,12963.13,3542.79
+100661,2025-06-01,Wireless Mouse,Accessories,North,2,2344.16,534.28
+100662,2025-06-01,Tablet Air,Electronics,Central,5,112075.24,16143.22
+100663,2025-06-01,Desk,Furniture,West,5,53829.5,6406.72
+100664,2025-06-01,Laptop Pro,Electronics,North,1,62273.81,10030.18
+100665,2025-06-01,Tablet Air,Electronics,West,1,25138.09,2807.38
+100666,2025-06-01,Headphones,Accessories,East,2,6662.67,1496.75
+100667,2025-06-02,Monitor 24,Electronics,North,4,53369.28,9546.44
+100668,2025-06-02,Wireless Mouse,Accessories,Central,3,3241.46,835.39
+100669,2025-06-03,Wireless Mouse,Accessories,East,5,5840.91,1433.46
+100670,2025-06-03,Monitor 24,Electronics,Central,3,38824.58,6555.46
+100671,2025-06-04,Desk,Furniture,North,4,42158.45,6675.85
+100672,2025-06-04,Desk,Furniture,North,1,10765.97,1299.4
+100673,2025-06-04,Tablet Air,Electronics,East,4,90810.04,17198.69
+100674,2025-06-04,Smartphone X,Electronics,South,1,37330.94,6119.25
+100675,2025-06-04,Desk,Furniture,Central,3,31748.47,6203.84
+100676,2025-06-05,Headphones,Accessories,North,4,12584.4,3507.87
+100677,2025-06-05,Wireless Mouse,Accessories,North,4,5126.53,1551.66
+100678,2025-06-05,Smartphone X,Electronics,Central,5,174823.21,30690.46
+100679,2025-06-05,Webcam,Accessories,North,2,7886.77,1676.43
+100680,2025-06-05,Wireless Mouse,Accessories,Central,4,4524.09,1019.83
+100681,2025-06-05,Smartphone X,Electronics,East,1,34727.55,4575.45
+100682,2025-06-05,Laptop Pro,Electronics,West,3,183632.06,32776.91
+100683,2025-06-06,Headphones,Accessories,West,3,9383.36,2144.55
+100684,2025-06-06,Desk,Furniture,Central,3,31940.53,5427.36
+100685,2025-06-06,Headphones,Accessories,East,5,15205.52,3493.27
+100686,2025-06-06,Desk,Furniture,West,5,53004.82,7099.49
+100687,2025-06-06,Keyboard,Accessories,South,1,1663.98,311.45
+100688,2025-06-06,Wireless Mouse,Accessories,North,1,1149.4,265.11
+100689,2025-06-07,Wireless Mouse,Accessories,North,2,2495.32,624.84
+100690,2025-06-07,Monitor 24,Electronics,South,5,60875.38,11456.36
+100691,2025-06-07,Laptop Pro,Electronics,Central,5,325711.37,35570.78
+100692,2025-06-08,Office Chair,Furniture,West,3,25071.5,6152.88
+100693,2025-06-08,Office Chair,Furniture,Central,3,25832.68,5143.4
+100694,2025-06-08,Wireless Mouse,Accessories,North,5,6038.56,1637.65
+100695,2025-06-08,Monitor 24,Electronics,East,2,24996.62,5008.9
+100696,2025-06-08,Keyboard,Accessories,North,4,6870.82,1698.92
+100697,2025-06-08,Wireless Mouse,Accessories,South,3,3573.63,697.52
+100698,2025-06-09,Tablet Air,Electronics,East,4,99185.72,15495.08
+100699,2025-06-09,Tablet Air,Electronics,East,5,128767.62,22274.94
+100700,2025-06-09,Laptop Pro,Electronics,North,4,265597.22,48506.41
+100701,2025-06-10,Wireless Mouse,Accessories,East,1,1322.89,337.87
+100702,2025-06-10,Laptop Pro,Electronics,Central,2,125425.18,20102.47
+100703,2025-06-10,Laptop Pro,Electronics,East,5,335827.18,39363.37
+100704,2025-06-11,Office Chair,Furniture,Central,5,41954.82,6502.49
+100705,2025-06-11,Wireless Mouse,Accessories,North,4,4779.84,1150.58
+100706,2025-06-11,Smartphone X,Electronics,Central,2,67723.67,10748.18
+100707,2025-06-12,Keyboard,Accessories,Central,4,7262.86,1566.06
+100708,2025-06-12,Headphones,Accessories,North,5,15169.27,3025.54
+100709,2025-06-13,Wireless Mouse,Accessories,East,5,6172.89,1606.14
+100710,2025-06-13,Webcam,Accessories,Central,4,17593.78,3674.66
+100711,2025-06-13,Keyboard,Accessories,North,1,2018.23,356.47
+100712,2025-06-14,Desk,Furniture,West,1,10928.57,1848.67
+100713,2025-06-14,Wireless Mouse,Accessories,East,3,3684.03,886.01
+100714,2025-06-15,Keyboard,Accessories,South,1,1954.98,502.92
+100715,2025-06-15,Webcam,Accessories,Central,2,9069.39,2286.03
+100716,2025-06-16,Monitor 24,Electronics,Central,5,63255.04,12080.95
+100717,2025-06-16,Monitor 24,Electronics,South,2,25704.04,6087.35
+100718,2025-06-16,Webcam,Accessories,North,3,12738.28,2651.72
+100719,2025-06-16,Keyboard,Accessories,West,3,5135.67,1006.11
+100720,2025-06-16,Office Chair,Furniture,South,2,15989.07,3584.75
+100721,2025-06-16,Headphones,Accessories,Central,4,13060.97,3284.91
+100722,2025-06-16,Tablet Air,Electronics,South,5,130153.17,20529.75
+100723,2025-06-17,Laptop Pro,Electronics,West,1,73418.77,12609.35
+100724,2025-06-17,Headphones,Accessories,South,5,14456.14,3172.15
+100725,2025-06-17,Webcam,Accessories,Central,2,7435.46,1754.45
+100726,2025-06-17,Wireless Mouse,Accessories,West,2,2603.23,645.09
+100727,2025-06-17,Webcam,Accessories,South,3,11921.5,2207.61
+100728,2025-06-17,Tablet Air,Electronics,South,5,125955.64,14702.56
+100729,2025-06-17,Wireless Mouse,Accessories,East,2,2313.17,555.61
+100730,2025-06-18,Keyboard,Accessories,East,2,3598.37,875.34
+100731,2025-06-18,Monitor 24,Electronics,West,5,68715.16,11192.74
+100732,2025-06-18,Office Chair,Furniture,Central,3,25823.53,4808.33
+100733,2025-06-18,Headphones,Accessories,West,2,6919.58,1914.34
+100734,2025-06-18,Desk,Furniture,West,1,11059.5,1718.03
+100735,2025-06-19,Wireless Mouse,Accessories,South,1,1282.1,359.22
+100736,2025-06-19,Headphones,Accessories,East,1,3158.92,810.6
+100737,2025-06-19,Headphones,Accessories,West,4,12732.49,2747.23
+100738,2025-06-20,Monitor 24,Electronics,West,1,12382.68,2736.68
+100739,2025-06-20,Keyboard,Accessories,South,1,1831.45,512.47
+100740,2025-06-20,Laptop Pro,Electronics,South,2,131267.61,25225.01
+100741,2025-06-20,Tablet Air,Electronics,Central,2,47940.37,6488.83
+100742,2025-06-20,Keyboard,Accessories,North,3,5341.7,1235.24
+100743,2025-06-21,Tablet Air,Electronics,South,4,93999.07,10742.18
+100744,2025-06-21,Keyboard,Accessories,Central,4,7251.32,1522.86
+100745,2025-06-21,Monitor 24,Electronics,Central,5,60040.96,11844.67
+100746,2025-06-21,Laptop Pro,Electronics,North,2,126377.83,21753.41
+100747,2025-06-21,Desk,Furniture,North,1,12033.41,2319.04
+100748,2025-06-22,Webcam,Accessories,North,2,9021.36,1844.51
+100749,2025-06-22,Headphones,Accessories,Central,2,6135.0,1244.55
+100750,2025-06-22,Desk,Furniture,North,4,43367.0,9201.22
+100751,2025-06-22,Keyboard,Accessories,North,4,6647.26,1290.89
+100752,2025-06-22,Monitor 24,Electronics,Central,3,40648.06,8286.46
+100753,2025-06-23,Monitor 24,Electronics,West,3,38384.77,6082.08
+100754,2025-06-23,Monitor 24,Electronics,West,1,11665.97,2343.51
+100755,2025-06-23,Monitor 24,Electronics,Central,3,37103.52,7049.96
+100756,2025-06-23,Keyboard,Accessories,Central,5,9163.22,1989.94
+100757,2025-06-23,Tablet Air,Electronics,Central,1,23892.33,2902.79
+100758,2025-06-23,Laptop Pro,Electronics,West,4,261053.87,42518.72
+100759,2025-06-24,Smartphone X,Electronics,East,1,32719.33,4397.23
+100760,2025-06-24,Tablet Air,Electronics,South,2,48517.38,6567.58
+100761,2025-06-24,Tablet Air,Electronics,West,3,68091.23,9925.06
+100762,2025-06-24,Monitor 24,Electronics,Central,4,46491.17,6855.2
+100763,2025-06-24,Laptop Pro,Electronics,Central,5,315984.38,50354.96
+100764,2025-06-25,Wireless Mouse,Accessories,East,4,4732.28,1473.9
+100765,2025-06-25,Laptop Pro,Electronics,East,4,270102.16,37601.44
+100766,2025-06-25,Laptop Pro,Electronics,South,2,137952.19,26073.28
+100767,2025-06-25,Desk,Furniture,North,5,54449.64,10821.55
+100768,2025-06-25,Smartphone X,Electronics,East,1,34173.36,3059.31
+100769,2025-06-25,Monitor 24,Electronics,South,4,46407.24,9094.38
+100770,2025-06-25,Monitor 24,Electronics,West,2,26125.22,5272.05
+100771,2025-06-26,Webcam,Accessories,Central,5,20327.77,4720.68
+100772,2025-06-26,Tablet Air,Electronics,South,5,106886.28,20716.29
+100773,2025-06-26,Headphones,Accessories,Central,3,10043.46,2653.41
+100774,2025-06-26,Desk,Furniture,West,2,21783.83,3688.24
+100775,2025-06-26,Office Chair,Furniture,East,2,17567.03,3309.72
+100776,2025-06-26,Wireless Mouse,Accessories,East,3,3924.97,916.38
+100777,2025-06-26,Keyboard,Accessories,South,3,5745.38,1319.25
+100778,2025-06-27,Desk,Furniture,West,2,21925.5,3630.48
+100779,2025-06-27,Wireless Mouse,Accessories,Central,3,3576.56,823.88
+100780,2025-06-28,Keyboard,Accessories,West,5,9364.83,2191.45
+100781,2025-06-28,Keyboard,Accessories,West,3,5585.77,1139.0
+100782,2025-06-28,Keyboard,Accessories,East,5,9472.11,1851.35
+100783,2025-06-29,Tablet Air,Electronics,Central,2,52971.26,5408.94
+100784,2025-06-29,Laptop Pro,Electronics,North,1,59633.43,8595.67
+100785,2025-06-30,Tablet Air,Electronics,North,3,69694.0,10466.66
+100786,2025-06-30,Smartphone X,Electronics,North,1,36637.73,5452.49
+100787,2025-07-01,Keyboard,Accessories,East,2,3664.57,868.13
+100788,2025-07-01,Tablet Air,Electronics,South,1,24013.21,3532.18
+100789,2025-07-02,Webcam,Accessories,East,4,15122.33,4118.54
+100790,2025-07-02,Desk,Furniture,North,2,23281.06,3611.07
+100791,2025-07-02,Webcam,Accessories,East,3,12518.7,2802.42
+100792,2025-07-02,Wireless Mouse,Accessories,North,3,3616.29,888.89
+100793,2025-07-02,Webcam,Accessories,South,5,21731.3,4961.15
+100794,2025-07-02,Wireless Mouse,Accessories,East,4,4636.5,1087.16
+100795,2025-07-02,Desk,Furniture,North,4,46576.6,8203.15
+100796,2025-07-03,Tablet Air,Electronics,South,5,121752.47,15761.19
+100797,2025-07-03,Desk,Furniture,Central,3,33249.81,5702.67
+100798,2025-07-03,Laptop Pro,Electronics,West,1,59272.31,10421.36
+100799,2025-07-03,Keyboard,Accessories,East,3,5048.11,951.9
+100800,2025-07-03,Wireless Mouse,Accessories,East,2,2620.22,659.29
+100801,2025-07-03,Webcam,Accessories,West,4,16117.07,2952.0
+100802,2025-07-04,Webcam,Accessories,South,4,14539.23,2572.65
+100803,2025-07-04,Laptop Pro,Electronics,North,5,308789.93,52466.56
+100804,2025-07-04,Desk,Furniture,East,1,11496.57,2397.27
+100805,2025-07-04,Wireless Mouse,Accessories,West,5,6109.25,1605.44
+100806,2025-07-05,Smartphone X,Electronics,East,5,171509.35,18790.74
+100807,2025-07-05,Office Chair,Furniture,North,3,24485.34,4491.69
+100808,2025-07-05,Laptop Pro,Electronics,Central,1,68817.48,11146.05
+100809,2025-07-06,Monitor 24,Electronics,South,2,24159.33,3499.18
+100810,2025-07-06,Webcam,Accessories,North,2,8193.91,1729.16
+100811,2025-07-06,Keyboard,Accessories,South,5,9010.82,1712.25
+100812,2025-07-06,Smartphone X,Electronics,West,4,155858.56,20257.25
+100813,2025-07-06,Desk,Furniture,North,4,44943.44,10274.74
+100814,2025-07-06,Desk,Furniture,West,1,10326.96,2094.35
+100815,2025-07-06,Laptop Pro,Electronics,Central,3,197624.19,25330.72
+100816,2025-07-07,Desk,Furniture,Central,5,57965.23,11594.09
+100817,2025-07-07,Headphones,Accessories,East,1,3140.17,695.07
+100818,2025-07-07,Keyboard,Accessories,Central,5,9636.22,2374.46
+100819,2025-07-07,Office Chair,Furniture,East,3,22796.55,5369.51
+100820,2025-07-07,Tablet Air,Electronics,South,4,91675.83,17516.18
+100821,2025-07-08,Laptop Pro,Electronics,West,4,255422.91,40024.12
+100822,2025-07-08,Keyboard,Accessories,West,3,5536.88,1318.61
+100823,2025-07-08,Office Chair,Furniture,West,5,39517.33,8649.22
+100824,2025-07-09,Tablet Air,Electronics,South,2,40753.65,3944.78
+100825,2025-07-09,Smartphone X,Electronics,East,1,35238.98,4743.49
+100826,2025-07-09,Wireless Mouse,Accessories,Central,5,5543.13,1381.98
+100827,2025-07-09,Keyboard,Accessories,West,2,3606.12,649.11
+100828,2025-07-10,Smartphone X,Electronics,Central,1,39265.94,5072.69
+100829,2025-07-10,Desk,Furniture,South,1,10964.82,1965.24
+100830,2025-07-11,Webcam,Accessories,West,4,17120.54,3259.64
+100831,2025-07-11,Wireless Mouse,Accessories,West,4,5462.3,1353.32
+100832,2025-07-11,Webcam,Accessories,East,1,4150.7,898.55
+100833,2025-07-12,Office Chair,Furniture,Central,3,27676.11,5680.89
+100834,2025-07-12,Headphones,Accessories,South,3,10397.02,2661.83
+100835,2025-07-12,Tablet Air,Electronics,North,2,47829.96,10032.6
+100836,2025-07-12,Laptop Pro,Electronics,East,5,301403.97,65789.14
+100837,2025-07-12,Keyboard,Accessories,North,3,5291.74,1329.42
+100838,2025-07-13,Headphones,Accessories,East,4,11611.26,2709.67
+100839,2025-07-13,Office Chair,Furniture,South,1,9040.77,1747.04
+100840,2025-07-14,Tablet Air,Electronics,South,2,46982.66,6552.73
+100841,2025-07-14,Smartphone X,Electronics,Central,4,148292.88,17177.09
+100842,2025-07-14,Keyboard,Accessories,East,4,7363.57,1243.57
+100843,2025-07-14,Monitor 24,Electronics,South,5,68129.63,12947.91
+100844,2025-07-14,Tablet Air,Electronics,North,2,48038.12,8089.3
+100845,2025-07-15,Tablet Air,Electronics,North,1,24393.06,3598.08
+100846,2025-07-15,Webcam,Accessories,North,4,15560.66,3406.67
+100847,2025-07-15,Keyboard,Accessories,North,1,1815.02,394.95
+100848,2025-07-15,Webcam,Accessories,South,4,16727.43,4039.55
+100849,2025-07-16,Office Chair,Furniture,North,1,8248.95,1691.21
+100850,2025-07-16,Webcam,Accessories,South,4,17327.03,4023.76
+100851,2025-07-16,Smartphone X,Electronics,West,3,111273.91,11866.7
+100852,2025-07-16,Tablet Air,Electronics,East,2,46700.61,5676.08
+100853,2025-07-17,Smartphone X,Electronics,East,2,67178.24,8202.82
+100854,2025-07-17,Webcam,Accessories,South,4,17000.83,4620.74
+100855,2025-07-18,Laptop Pro,Electronics,North,4,260064.47,43277.93
+100856,2025-07-18,Monitor 24,Electronics,North,3,35598.03,7172.15
+100857,2025-07-18,Webcam,Accessories,East,4,15216.33,3488.61
+100858,2025-07-18,Smartphone X,Electronics,Central,2,69962.48,6077.37
+100859,2025-07-18,Smartphone X,Electronics,South,2,74401.72,8804.67
+100860,2025-07-19,Wireless Mouse,Accessories,North,1,1162.39,276.91
+100861,2025-07-19,Keyboard,Accessories,South,4,6808.88,1524.18
+100862,2025-07-19,Webcam,Accessories,North,4,18048.07,3490.02
+100863,2025-07-19,Tablet Air,Electronics,North,1,26629.74,3239.66
+100864,2025-07-20,Tablet Air,Electronics,Central,4,107596.3,17730.04
+100865,2025-07-20,Office Chair,Furniture,East,4,32934.63,7230.12
+100866,2025-07-20,Desk,Furniture,South,4,44117.9,8777.65
+100867,2025-07-21,Desk,Furniture,South,5,52317.19,9724.61
+100868,2025-07-21,Keyboard,Accessories,Central,1,1974.53,472.88
+100869,2025-07-22,Smartphone X,Electronics,East,2,67199.65,8478.53
+100870,2025-07-22,Tablet Air,Electronics,East,3,73440.93,11356.75
+100871,2025-07-23,Tablet Air,Electronics,East,3,73048.22,11973.73
+100872,2025-07-23,Laptop Pro,Electronics,East,4,266441.11,37793.71
+100873,2025-07-23,Desk,Furniture,West,3,31674.03,5742.37
+100874,2025-07-23,Webcam,Accessories,South,1,4067.32,739.75
+100875,2025-07-23,Office Chair,Furniture,South,1,8774.09,2187.42
+100876,2025-07-23,Desk,Furniture,West,1,13000.96,2266.22
+100877,2025-07-24,Tablet Air,Electronics,North,2,49072.3,8385.98
+100878,2025-07-24,Laptop Pro,Electronics,West,2,131865.36,21990.15
+100879,2025-07-24,Office Chair,Furniture,Central,4,34853.74,6853.96
+100880,2025-07-24,Wireless Mouse,Accessories,East,1,1392.37,338.92
+100881,2025-07-24,Keyboard,Accessories,South,1,1724.59,377.19
+100882,2025-07-24,Keyboard,Accessories,Central,2,3746.15,763.76
+100883,2025-07-25,Office Chair,Furniture,Central,5,40919.91,7245.17
+100884,2025-07-25,Monitor 24,Electronics,North,1,13298.16,2622.6
+100885,2025-07-25,Tablet Air,Electronics,Central,4,100474.41,10647.05
+100886,2025-07-26,Monitor 24,Electronics,East,3,38911.0,7373.66
+100887,2025-07-26,Tablet Air,Electronics,South,5,109214.11,14437.96
+100888,2025-07-26,Tablet Air,Electronics,East,1,22030.16,2764.18
+100889,2025-07-26,Laptop Pro,Electronics,South,1,63606.51,8011.16
+100890,2025-07-26,Laptop Pro,Electronics,South,3,196009.17,25576.28
+100891,2025-07-26,Smartphone X,Electronics,South,1,37222.96,3627.58
+100892,2025-07-26,Smartphone X,Electronics,West,4,136486.55,15785.8
+100893,2025-07-27,Smartphone X,Electronics,East,3,111958.32,15755.24
+100894,2025-07-27,Monitor 24,Electronics,West,4,51439.07,9671.12
+100895,2025-07-27,Smartphone X,Electronics,North,1,35086.53,4507.29
+100896,2025-07-27,Smartphone X,Electronics,North,3,98541.37,15315.74
+100897,2025-07-27,Keyboard,Accessories,South,4,7721.97,2130.12
+100898,2025-07-27,Desk,Furniture,South,3,35825.43,6525.04
+100899,2025-07-28,Keyboard,Accessories,Central,3,5482.65,1125.04
+100900,2025-07-28,Keyboard,Accessories,South,3,5599.45,1028.51
+100901,2025-07-28,Tablet Air,Electronics,South,1,26174.21,3222.51
+100902,2025-07-28,Smartphone X,Electronics,Central,5,180730.83,28453.03
+100903,2025-07-28,Webcam,Accessories,East,2,8858.22,1605.2
+100904,2025-07-28,Headphones,Accessories,North,1,3249.83,800.94
+100905,2025-07-28,Laptop Pro,Electronics,Central,3,198942.39,27634.04
+100906,2025-07-29,Office Chair,Furniture,South,5,42973.88,9829.61
+100907,2025-07-29,Headphones,Accessories,East,3,10156.49,2343.52
+100908,2025-07-29,Tablet Air,Electronics,West,1,23067.66,4408.4
+100909,2025-07-29,Smartphone X,Electronics,South,2,70451.28,7235.03
+100910,2025-07-29,Monitor 24,Electronics,Central,3,41126.8,6898.55
+100911,2025-07-30,Smartphone X,Electronics,North,1,34918.25,4266.1
+100912,2025-07-30,Headphones,Accessories,West,1,3137.36,739.05
+100913,2025-07-30,Monitor 24,Electronics,Central,1,11062.39,1678.17
+100914,2025-07-30,Laptop Pro,Electronics,South,2,124022.74,18604.28
+100915,2025-07-31,Webcam,Accessories,East,3,12178.78,2954.73
+100916,2025-07-31,Office Chair,Furniture,North,2,18029.28,2993.37
+100917,2025-07-31,Smartphone X,Electronics,South,4,131360.56,16363.77
+100918,2025-07-31,Wireless Mouse,Accessories,South,1,1164.38,307.22
+100919,2025-08-01,Laptop Pro,Electronics,Central,5,333623.33,52871.6
+100920,2025-08-01,Desk,Furniture,East,4,45452.67,10524.34
+100921,2025-08-01,Laptop Pro,Electronics,South,5,344031.8,81608.75
+100922,2025-08-01,Keyboard,Accessories,Central,4,7504.13,1461.62
+100923,2025-08-01,Monitor 24,Electronics,Central,3,36361.12,7133.7
+100924,2025-08-02,Tablet Air,Electronics,Central,1,25565.93,4386.57
+100925,2025-08-02,Office Chair,Furniture,North,2,18157.98,3982.9
+100926,2025-08-03,Desk,Furniture,North,1,11109.24,2215.97
+100927,2025-08-03,Office Chair,Furniture,East,5,43223.96,9277.21
+100928,2025-08-03,Laptop Pro,Electronics,Central,5,319905.34,51336.74
+100929,2025-08-03,Headphones,Accessories,Central,3,8513.91,1958.73
+100930,2025-08-03,Webcam,Accessories,North,3,12413.4,2758.26
+100931,2025-08-03,Monitor 24,Electronics,West,2,22557.94,3864.08
+100932,2025-08-04,Laptop Pro,Electronics,North,5,340251.5,41950.77
+100933,2025-08-04,Tablet Air,Electronics,West,1,24255.73,3965.39
+100934,2025-08-04,Keyboard,Accessories,West,1,1807.01,416.53
+100935,2025-08-04,Keyboard,Accessories,Central,4,7050.89,1074.59
+100936,2025-08-04,Monitor 24,Electronics,East,2,26889.77,4487.62
+100937,2025-08-04,Webcam,Accessories,South,3,12557.71,1927.85
+100938,2025-08-05,Wireless Mouse,Accessories,South,4,4939.88,1076.66
+100939,2025-08-05,Smartphone X,Electronics,North,5,172026.79,23667.02
+100940,2025-08-05,Office Chair,Furniture,West,2,15433.0,2516.66
+100941,2025-08-06,Headphones,Accessories,East,4,12332.87,3152.65
+100942,2025-08-06,Laptop Pro,Electronics,West,4,244945.8,37488.37
+100943,2025-08-06,Laptop Pro,Electronics,North,1,72325.68,10362.63
+100944,2025-08-07,Wireless Mouse,Accessories,North,2,2396.63,569.16
+100945,2025-08-07,Tablet Air,Electronics,North,4,93057.59,11460.73
+100946,2025-08-07,Desk,Furniture,Central,5,51544.6,10030.3
+100947,2025-08-07,Keyboard,Accessories,East,3,5107.14,1090.35
+100948,2025-08-07,Headphones,Accessories,Central,3,9829.81,2561.88
+100949,2025-08-07,Webcam,Accessories,South,3,13395.2,2305.42
+100950,2025-08-08,Monitor 24,Electronics,East,4,55013.36,10581.04
+100951,2025-08-08,Office Chair,Furniture,East,2,16958.85,2461.08
+100952,2025-08-08,Monitor 24,Electronics,East,4,50388.23,8618.83
+100953,2025-08-08,Tablet Air,Electronics,West,4,96663.16,16781.73
+100954,2025-08-08,Desk,Furniture,Central,3,35432.22,6384.88
+100955,2025-08-08,Office Chair,Furniture,West,5,40004.98,10815.79
+100956,2025-08-08,Desk,Furniture,East,5,56256.74,10864.72
+100957,2025-08-09,Webcam,Accessories,West,4,15182.1,3720.93
+100958,2025-08-09,Keyboard,Accessories,Central,5,8309.2,1937.33
+100959,2025-08-09,Desk,Furniture,North,3,33198.34,5739.91
+100960,2025-08-09,Office Chair,Furniture,Central,5,42618.61,8591.89
+100961,2025-08-09,Smartphone X,Electronics,Central,3,111967.84,13635.11
+100962,2025-08-10,Headphones,Accessories,Central,3,9289.94,2220.82
+100963,2025-08-10,Laptop Pro,Electronics,East,1,72569.38,12919.57
+100964,2025-08-10,Smartphone X,Electronics,West,2,66446.37,9030.6
+100965,2025-08-10,Tablet Air,Electronics,South,2,50223.97,7661.44
+100966,2025-08-11,Keyboard,Accessories,South,1,1650.83,383.47
+100967,2025-08-11,Wireless Mouse,Accessories,Central,5,6490.48,1314.97
+100968,2025-08-11,Keyboard,Accessories,Central,4,6532.43,1387.62
+100969,2025-08-11,Monitor 24,Electronics,South,2,25825.65,3803.41
+100970,2025-08-11,Monitor 24,Electronics,Central,3,36998.65,7712.33
+100971,2025-08-11,Office Chair,Furniture,West,3,24736.63,5497.31
+100972,2025-08-11,Tablet Air,Electronics,Central,2,50518.11,8943.44
+100973,2025-08-12,Monitor 24,Electronics,Central,2,25134.26,4375.08
+100974,2025-08-12,Wireless Mouse,Accessories,South,2,2262.44,549.66
+100975,2025-08-12,Monitor 24,Electronics,South,1,12468.65,2557.16
+100976,2025-08-12,Headphones,Accessories,North,1,3155.56,804.25
+100977,2025-08-12,Office Chair,Furniture,East,3,26472.84,4506.68
+100978,2025-08-12,Desk,Furniture,Central,2,24175.51,4242.06
+100979,2025-08-13,Tablet Air,Electronics,East,5,112536.32,18317.28
+100980,2025-08-13,Keyboard,Accessories,North,2,3832.36,877.3
+100981,2025-08-13,Laptop Pro,Electronics,South,3,200223.59,31734.98
+100982,2025-08-13,Laptop Pro,Electronics,East,5,310816.33,50044.04
+100983,2025-08-14,Monitor 24,Electronics,North,2,23619.32,5177.48
+100984,2025-08-14,Tablet Air,Electronics,South,4,88376.13,9853.16
+100985,2025-08-14,Laptop Pro,Electronics,Central,5,321358.22,61917.69
+100986,2025-08-15,Wireless Mouse,Accessories,North,5,5519.14,1509.14
+100987,2025-08-15,Wireless Mouse,Accessories,South,2,2524.29,579.69
+100988,2025-08-15,Keyboard,Accessories,West,2,3566.73,820.75
+100989,2025-08-15,Monitor 24,Electronics,Central,4,48052.82,10578.21
+100990,2025-08-15,Desk,Furniture,Central,3,34125.52,5508.99
+100991,2025-08-16,Wireless Mouse,Accessories,North,3,3231.91,882.87
+100992,2025-08-16,Headphones,Accessories,East,3,9478.15,2371.85
+100993,2025-08-16,Smartphone X,Electronics,Central,4,146028.9,19397.64
+100994,2025-08-16,Smartphone X,Electronics,South,2,69286.53,11399.85
+100995,2025-08-16,Keyboard,Accessories,Central,4,6685.77,1552.87
+100996,2025-08-17,Monitor 24,Electronics,South,4,52354.86,9899.34
+100997,2025-08-17,Wireless Mouse,Accessories,Central,3,3590.28,842.96
+100998,2025-08-17,Tablet Air,Electronics,South,5,121339.58,19892.34
+100999,2025-08-18,Wireless Mouse,Accessories,South,2,2695.85,679.25
+101000,2025-08-18,Keyboard,Accessories,Central,2,3666.74,992.99
+101001,2025-08-18,Headphones,Accessories,West,4,12185.86,2757.96
+101002,2025-08-18,Tablet Air,Electronics,West,5,129700.73,25294.85
+101003,2025-08-18,Tablet Air,Electronics,South,5,137947.72,19217.65
+101004,2025-08-18,Laptop Pro,Electronics,Central,3,174233.17,33958.44
+101005,2025-08-18,Desk,Furniture,North,3,30248.74,6547.47
+101006,2025-08-19,Wireless Mouse,Accessories,South,4,4325.44,1240.11
+101007,2025-08-19,Laptop Pro,Electronics,West,3,194544.75,34264.74
+101008,2025-08-19,Tablet Air,Electronics,South,3,69997.92,7257.51
+101009,2025-08-19,Laptop Pro,Electronics,East,3,208941.65,29767.16
+101010,2025-08-20,Smartphone X,Electronics,West,2,71378.75,8159.35
+101011,2025-08-20,Headphones,Accessories,West,4,12750.95,3704.82
+101012,2025-08-21,Monitor 24,Electronics,West,5,67101.03,13136.37
+101013,2025-08-21,Headphones,Accessories,East,5,17142.98,3834.54
+101014,2025-08-21,Smartphone X,Electronics,West,3,96868.3,11954.54
+101015,2025-08-21,Monitor 24,Electronics,West,5,63390.02,9277.03
+101016,2025-08-21,Office Chair,Furniture,South,3,25361.81,4661.87
+101017,2025-08-21,Desk,Furniture,South,5,50124.88,10805.79
+101018,2025-08-21,Webcam,Accessories,North,4,16852.06,4141.2
+101019,2025-08-22,Webcam,Accessories,West,4,17524.85,3953.29
+101020,2025-08-22,Keyboard,Accessories,North,5,8874.26,2377.29
+101021,2025-08-22,Smartphone X,Electronics,West,2,70062.52,9813.03
+101022,2025-08-22,Tablet Air,Electronics,East,2,48906.47,7129.53
+101023,2025-08-22,Desk,Furniture,East,1,10273.63,1403.79
+101024,2025-08-22,Desk,Furniture,East,2,22644.01,4374.08
+101025,2025-08-22,Tablet Air,Electronics,North,1,22040.14,4393.44
+101026,2025-08-23,Wireless Mouse,Accessories,South,5,5752.7,1449.63
+101027,2025-08-23,Laptop Pro,Electronics,South,2,134380.02,21960.3
+101028,2025-08-23,Office Chair,Furniture,Central,2,17273.13,2930.94
+101029,2025-08-23,Webcam,Accessories,East,4,19447.5,4740.41
+101030,2025-08-23,Office Chair,Furniture,North,5,37556.18,6269.74
+101031,2025-08-23,Desk,Furniture,East,5,52393.8,8514.97
+101032,2025-08-23,Wireless Mouse,Accessories,East,4,4446.69,1106.06
+101033,2025-08-24,Webcam,Accessories,South,4,16012.56,3571.75
+101034,2025-08-24,Office Chair,Furniture,North,1,8408.93,1807.28
+101035,2025-08-24,Smartphone X,Electronics,West,3,107963.84,15838.83
+101036,2025-08-24,Office Chair,Furniture,North,2,17082.22,3082.58
+101037,2025-08-24,Laptop Pro,Electronics,South,3,200205.82,34311.77
+101038,2025-08-24,Smartphone X,Electronics,East,4,140388.11,20694.65
+101039,2025-08-24,Tablet Air,Electronics,West,5,119274.4,22026.98
+101040,2025-08-25,Tablet Air,Electronics,North,4,97624.83,15246.57
+101041,2025-08-25,Keyboard,Accessories,North,2,3751.49,1092.18
+101042,2025-08-25,Office Chair,Furniture,West,3,24817.31,4660.68
+101043,2025-08-25,Office Chair,Furniture,East,4,32627.14,6138.73
+101044,2025-08-25,Smartphone X,Electronics,South,5,157061.8,22898.84
+101045,2025-08-26,Keyboard,Accessories,West,4,6479.96,1571.39
+101046,2025-08-26,Keyboard,Accessories,North,3,5820.99,1239.58
+101047,2025-08-26,Desk,Furniture,West,3,34500.4,6013.92
+101048,2025-08-26,Tablet Air,Electronics,East,4,94854.73,11212.17
+101049,2025-08-26,Office Chair,Furniture,West,3,24820.49,5435.31
+101050,2025-08-26,Tablet Air,Electronics,East,2,49700.12,7374.2
+101051,2025-08-26,Keyboard,Accessories,West,2,3696.37,898.91
+101052,2025-08-27,Office Chair,Furniture,West,3,23443.83,4935.14
+101053,2025-08-27,Laptop Pro,Electronics,Central,4,277011.36,37837.53
+101054,2025-08-27,Monitor 24,Electronics,South,2,24893.25,3307.22
+101055,2025-08-28,Office Chair,Furniture,East,1,8017.92,1874.53
+101056,2025-08-28,Wireless Mouse,Accessories,Central,1,1112.47,268.96
+101057,2025-08-28,Tablet Air,Electronics,North,1,23290.27,3215.87
+101058,2025-08-28,Webcam,Accessories,South,4,16422.21,3745.17
+101059,2025-08-28,Headphones,Accessories,East,2,6638.11,1317.73
+101060,2025-08-29,Laptop Pro,Electronics,Central,5,324026.84,49259.32
+101061,2025-08-29,Webcam,Accessories,Central,4,16577.58,3606.08
+101062,2025-08-29,Headphones,Accessories,Central,5,15201.51,3708.82
+101063,2025-08-29,Office Chair,Furniture,Central,1,8705.72,1799.37
+101064,2025-08-29,Desk,Furniture,Central,4,43351.88,9048.34
+101065,2025-08-29,Desk,Furniture,North,5,54792.74,10113.84
+101066,2025-08-29,Office Chair,Furniture,Central,1,8988.99,2074.65
+101067,2025-08-30,Tablet Air,Electronics,South,3,70578.49,10135.38
+101068,2025-08-30,Wireless Mouse,Accessories,Central,3,3649.9,933.94
+101069,2025-08-30,Keyboard,Accessories,South,5,10157.46,2189.49
+101070,2025-08-30,Headphones,Accessories,North,2,6949.54,1716.85
+101071,2025-08-30,Desk,Furniture,Central,1,10789.68,1896.4
+101072,2025-08-31,Desk,Furniture,East,2,22390.76,5066.17
+101073,2025-08-31,Monitor 24,Electronics,North,2,21498.73,3819.26
+101074,2025-09-01,Keyboard,Accessories,West,1,1712.42,402.04
+101075,2025-09-01,Headphones,Accessories,North,2,6266.23,1518.23
+101076,2025-09-01,Office Chair,Furniture,South,2,15827.86,3169.66
+101077,2025-09-01,Headphones,Accessories,South,1,2966.78,764.99
+101078,2025-09-02,Desk,Furniture,West,1,9867.6,1506.65
+101079,2025-09-02,Laptop Pro,Electronics,North,5,357452.55,60007.73
+101080,2025-09-02,Wireless Mouse,Accessories,South,3,3378.3,803.18
+101081,2025-09-02,Smartphone X,Electronics,Central,2,64629.42,9050.94
+101082,2025-09-03,Keyboard,Accessories,North,1,1659.4,377.36
+101083,2025-09-03,Webcam,Accessories,East,4,17126.31,4125.63
+101084,2025-09-03,Smartphone X,Electronics,Central,1,35117.9,3703.98
+101085,2025-09-04,Office Chair,Furniture,South,1,8129.81,1378.92
+101086,2025-09-04,Tablet Air,Electronics,South,1,22478.86,3724.46
+101087,2025-09-04,Wireless Mouse,Accessories,North,3,3304.49,974.07
+101088,2025-09-04,Headphones,Accessories,Central,3,9969.97,2557.93
+101089,2025-09-04,Keyboard,Accessories,North,2,3550.09,637.4
+101090,2025-09-04,Headphones,Accessories,East,4,11995.26,2566.81
+101091,2025-09-04,Wireless Mouse,Accessories,South,2,2594.77,805.84
+101092,2025-09-05,Monitor 24,Electronics,East,1,10822.31,1881.97
+101093,2025-09-05,Keyboard,Accessories,North,2,3647.82,838.56
+101094,2025-09-05,Office Chair,Furniture,North,5,41693.88,7190.5
+101095,2025-09-06,Monitor 24,Electronics,West,2,26332.54,5259.97
+101096,2025-09-06,Wireless Mouse,Accessories,West,5,5728.01,1280.74
+101097,2025-09-06,Tablet Air,Electronics,East,5,122529.43,21746.47
+101098,2025-09-07,Office Chair,Furniture,West,4,36447.45,7717.5
+101099,2025-09-07,Wireless Mouse,Accessories,East,1,1208.29,292.88
+101100,2025-09-07,Wireless Mouse,Accessories,Central,1,1214.24,324.9
+101101,2025-09-07,Headphones,Accessories,Central,3,10353.36,1974.9
+101102,2025-09-08,Monitor 24,Electronics,West,4,47819.02,11457.27
+101103,2025-09-08,Smartphone X,Electronics,East,2,68287.53,8921.7
+101104,2025-09-08,Laptop Pro,Electronics,West,3,206503.91,29793.63
+101105,2025-09-08,Webcam,Accessories,East,3,13590.0,3309.25
+101106,2025-09-09,Tablet Air,Electronics,South,5,118275.81,15363.58
+101107,2025-09-09,Keyboard,Accessories,Central,4,6933.0,1345.92
+101108,2025-09-09,Desk,Furniture,South,1,11144.81,2071.43
+101109,2025-09-10,Office Chair,Furniture,Central,5,43255.06,8989.17
+101110,2025-09-10,Keyboard,Accessories,West,4,7534.9,1719.35
+101111,2025-09-10,Keyboard,Accessories,Central,3,5284.16,981.83
+101112,2025-09-10,Laptop Pro,Electronics,North,5,303082.55,51826.54
+101113,2025-09-10,Keyboard,Accessories,South,4,6807.72,1545.94
+101114,2025-09-10,Headphones,Accessories,Central,2,6134.91,1564.69
+101115,2025-09-11,Office Chair,Furniture,North,3,25124.05,4616.79
+101116,2025-09-11,Smartphone X,Electronics,East,1,35531.73,5414.34
+101117,2025-09-11,Tablet Air,Electronics,East,1,26058.89,3708.49
+101118,2025-09-11,Office Chair,Furniture,East,2,17479.09,3129.62
+101119,2025-09-11,Keyboard,Accessories,South,2,3655.4,866.96
+101120,2025-09-12,Laptop Pro,Electronics,West,3,193677.43,38293.51
+101121,2025-09-12,Webcam,Accessories,West,5,20595.57,4327.74
+101122,2025-09-12,Wireless Mouse,Accessories,West,2,2204.65,466.15
+101123,2025-09-12,Tablet Air,Electronics,Central,2,45221.55,6055.36
+101124,2025-09-12,Monitor 24,Electronics,West,3,37941.89,5668.23
+101125,2025-09-12,Headphones,Accessories,West,1,3312.75,844.33
+101126,2025-09-12,Monitor 24,Electronics,West,3,42447.41,7621.86
+101127,2025-09-13,Laptop Pro,Electronics,East,1,65359.49,10210.51
+101128,2025-09-13,Monitor 24,Electronics,North,3,34252.24,5341.1
+101129,2025-09-13,Smartphone X,Electronics,West,4,135244.01,16983.22
+101130,2025-09-13,Wireless Mouse,Accessories,North,2,2528.08,625.75
+101131,2025-09-13,Laptop Pro,Electronics,North,1,67231.17,11388.51
+101132,2025-09-13,Office Chair,Furniture,Central,2,16604.87,3680.39
+101133,2025-09-13,Keyboard,Accessories,East,4,7157.48,1618.48
+101134,2025-09-14,Laptop Pro,Electronics,North,4,250196.84,41166.33
+101135,2025-09-14,Keyboard,Accessories,West,2,3421.99,746.44
+101136,2025-09-14,Smartphone X,Electronics,West,1,34538.85,4354.21
+101137,2025-09-14,Tablet Air,Electronics,South,3,78116.75,9343.16
+101138,2025-09-14,Tablet Air,Electronics,West,2,46614.96,6531.17
+101139,2025-09-15,Smartphone X,Electronics,East,2,73614.59,9713.18
+101140,2025-09-15,Office Chair,Furniture,West,5,45116.78,9001.07
+101141,2025-09-15,Headphones,Accessories,West,2,6230.54,1612.87
+101142,2025-09-15,Keyboard,Accessories,West,1,1806.65,362.9
+101143,2025-09-15,Webcam,Accessories,East,2,7510.63,1680.57
+101144,2025-09-15,Laptop Pro,Electronics,West,5,333507.45,51529.72
+101145,2025-09-15,Webcam,Accessories,North,1,4003.91,1026.04
+101146,2025-09-16,Office Chair,Furniture,South,1,7266.51,1685.19
+101147,2025-09-16,Headphones,Accessories,North,4,12822.91,3256.63
+101148,2025-09-16,Office Chair,Furniture,North,3,26337.1,4734.99
+101149,2025-09-16,Keyboard,Accessories,South,2,3843.42,939.2
+101150,2025-09-16,Monitor 24,Electronics,East,1,12015.8,2382.93
+101151,2025-09-16,Smartphone X,Electronics,North,5,178745.48,26574.3
+101152,2025-09-16,Wireless Mouse,Accessories,North,4,4712.36,1152.9
+101153,2025-09-17,Monitor 24,Electronics,Central,4,47700.44,9003.19
+101154,2025-09-17,Office Chair,Furniture,East,2,15926.16,2942.72
+101155,2025-09-17,Keyboard,Accessories,West,2,3382.02,769.86
+101156,2025-09-17,Desk,Furniture,East,2,26559.34,4970.0
+101157,2025-09-18,Desk,Furniture,Central,5,48924.58,8921.79
+101158,2025-09-18,Monitor 24,Electronics,West,3,33600.07,5715.44
+101159,2025-09-18,Tablet Air,Electronics,Central,1,24541.54,3166.56
+101160,2025-09-18,Tablet Air,Electronics,North,1,24520.12,4498.34
+101161,2025-09-18,Smartphone X,Electronics,West,1,35957.63,3477.42
+101162,2025-09-19,Webcam,Accessories,Central,2,7721.88,1578.05
+101163,2025-09-19,Keyboard,Accessories,South,3,5068.14,1103.07
+101164,2025-09-19,Headphones,Accessories,South,3,10211.43,2605.72
+101165,2025-09-19,Laptop Pro,Electronics,West,3,184672.27,26102.53
+101166,2025-09-19,Webcam,Accessories,West,5,20356.29,4483.44
+101167,2025-09-20,Keyboard,Accessories,Central,5,8575.73,2144.9
+101168,2025-09-20,Webcam,Accessories,North,5,23968.33,5016.01
+101169,2025-09-20,Wireless Mouse,Accessories,North,5,6143.83,1479.5
+101170,2025-09-20,Webcam,Accessories,South,3,13358.42,3079.76
+101171,2025-09-20,Webcam,Accessories,South,1,3947.16,954.97
+101172,2025-09-21,Headphones,Accessories,East,3,8655.71,1635.74
+101173,2025-09-21,Webcam,Accessories,East,2,7397.46,1653.44
+101174,2025-09-21,Office Chair,Furniture,North,5,46043.38,8912.48
+101175,2025-09-21,Tablet Air,Electronics,North,2,51231.73,7244.76
+101176,2025-09-21,Monitor 24,Electronics,North,4,50901.84,9867.17
+101177,2025-09-22,Tablet Air,Electronics,West,5,120367.34,22207.27
+101178,2025-09-22,Keyboard,Accessories,Central,5,9928.32,2088.31
+101179,2025-09-22,Desk,Furniture,East,5,56790.3,14866.32
+101180,2025-09-23,Laptop Pro,Electronics,Central,2,133266.62,22646.11
+101181,2025-09-23,Laptop Pro,Electronics,West,2,137058.36,25912.47
+101182,2025-09-23,Headphones,Accessories,West,5,15077.44,4149.22
+101183,2025-09-23,Laptop Pro,Electronics,Central,4,263187.82,43597.77
+101184,2025-09-23,Laptop Pro,Electronics,West,3,202497.19,32557.17
+101185,2025-09-23,Laptop Pro,Electronics,North,4,246763.01,33013.24
+101186,2025-09-24,Wireless Mouse,Accessories,Central,5,5990.3,1529.82
+101187,2025-09-24,Desk,Furniture,East,5,52929.84,11466.8
+101188,2025-09-24,Office Chair,Furniture,West,3,26238.05,4042.95
+101189,2025-09-24,Laptop Pro,Electronics,Central,5,344130.92,40113.43
+101190,2025-09-24,Office Chair,Furniture,West,4,33246.31,6891.8
+101191,2025-09-25,Headphones,Accessories,Central,5,15134.85,3960.71
+101192,2025-09-25,Desk,Furniture,West,3,32054.35,5129.23
+101193,2025-09-25,Laptop Pro,Electronics,South,5,321409.8,41210.77
+101194,2025-09-26,Webcam,Accessories,East,2,9329.43,2051.01
+101195,2025-09-26,Smartphone X,Electronics,West,5,183044.93,22699.87
+101196,2025-09-27,Wireless Mouse,Accessories,South,2,2602.82,485.48
+101197,2025-09-27,Monitor 24,Electronics,Central,3,36576.73,8131.3
+101198,2025-09-27,Wireless Mouse,Accessories,North,3,3453.11,852.02
+101199,2025-09-27,Tablet Air,Electronics,East,2,43467.29,5579.35
+101200,2025-09-27,Office Chair,Furniture,West,1,8538.14,1803.91
+101201,2025-09-27,Headphones,Accessories,West,4,14088.37,3314.93
+101202,2025-09-28,Monitor 24,Electronics,South,4,47832.92,7898.74
+101203,2025-09-28,Keyboard,Accessories,East,2,3600.06,815.38
+101204,2025-09-28,Keyboard,Accessories,South,4,6172.68,1408.34
+101205,2025-09-28,Laptop Pro,Electronics,West,2,130338.91,21655.64
+101206,2025-09-28,Tablet Air,Electronics,North,4,99531.13,13580.82
+101207,2025-09-28,Monitor 24,Electronics,East,4,59071.34,9575.68
+101208,2025-09-29,Wireless Mouse,Accessories,East,1,1208.39,273.9
+101209,2025-09-29,Tablet Air,Electronics,North,5,123398.47,20263.29
+101210,2025-09-29,Wireless Mouse,Accessories,North,2,2664.51,586.73
+101211,2025-09-30,Headphones,Accessories,South,2,6621.7,1447.67
+101212,2025-09-30,Keyboard,Accessories,North,2,3606.27,770.85
+101213,2025-09-30,Wireless Mouse,Accessories,East,1,1280.77,317.6
+101214,2025-09-30,Keyboard,Accessories,East,2,3677.43,726.87
+101215,2025-09-30,Monitor 24,Electronics,East,5,64026.74,12355.72
+101216,2025-09-30,Wireless Mouse,Accessories,East,2,2412.81,514.86
+101217,2025-10-01,Wireless Mouse,Accessories,North,4,5043.05,1215.05
+101218,2025-10-01,Headphones,Accessories,South,2,7150.6,1779.15
+101219,2025-10-01,Headphones,Accessories,North,3,9256.49,1715.6
+101220,2025-10-01,Smartphone X,Electronics,Central,2,71882.9,9022.8
+101221,2025-10-02,Office Chair,Furniture,North,1,7707.1,1427.76
+101222,2025-10-02,Wireless Mouse,Accessories,East,5,6315.24,1231.05
+101223,2025-10-03,Keyboard,Accessories,East,5,8744.88,1634.33
+101224,2025-10-03,Office Chair,Furniture,South,5,43296.98,9173.35
+101225,2025-10-03,Smartphone X,Electronics,North,4,136804.36,16815.5
+101226,2025-10-04,Headphones,Accessories,Central,2,7013.26,1715.16
+101227,2025-10-04,Webcam,Accessories,North,2,7857.99,1468.82
+101228,2025-10-04,Tablet Air,Electronics,Central,1,24095.02,3334.5
+101229,2025-10-05,Desk,Furniture,West,4,43872.0,7386.3
+101230,2025-10-05,Keyboard,Accessories,West,3,5901.26,1286.13
+101231,2025-10-05,Smartphone X,Electronics,South,4,142056.12,18270.28
+101232,2025-10-05,Monitor 24,Electronics,Central,1,13571.25,2396.97
+101233,2025-10-05,Office Chair,Furniture,East,5,42079.65,7504.01
+101234,2025-10-05,Tablet Air,Electronics,West,1,24448.43,3891.61
+101235,2025-10-06,Headphones,Accessories,East,4,13387.78,2737.22
+101236,2025-10-06,Webcam,Accessories,West,5,21916.69,4696.01
+101237,2025-10-06,Tablet Air,Electronics,West,2,47456.42,5345.83
+101238,2025-10-06,Monitor 24,Electronics,East,1,12896.62,2443.25
+101239,2025-10-06,Laptop Pro,Electronics,North,2,136613.41,20413.75
+101240,2025-10-06,Keyboard,Accessories,Central,4,6784.21,1549.03
+101241,2025-10-06,Keyboard,Accessories,West,5,8979.93,1746.54
+101242,2025-10-07,Tablet Air,Electronics,South,1,24610.92,3703.53
+101243,2025-10-07,Keyboard,Accessories,West,2,3433.97,734.28
+101244,2025-10-07,Tablet Air,Electronics,East,4,98339.35,16201.04
+101245,2025-10-07,Office Chair,Furniture,Central,5,41817.12,7761.51
+101246,2025-10-08,Laptop Pro,Electronics,North,3,194375.51,36378.96
+101247,2025-10-08,Office Chair,Furniture,West,3,27008.85,5765.37
+101248,2025-10-08,Laptop Pro,Electronics,Central,5,372320.02,51966.49
+101249,2025-10-09,Headphones,Accessories,North,2,7085.68,1857.66
+101250,2025-10-09,Headphones,Accessories,East,1,3298.42,812.87
+101251,2025-10-10,Headphones,Accessories,West,5,16373.73,4017.99
+101252,2025-10-10,Laptop Pro,Electronics,East,3,197683.84,31921.46
+101253,2025-10-10,Webcam,Accessories,Central,2,9253.66,1700.26
+101254,2025-10-10,Laptop Pro,Electronics,South,3,215586.7,29624.4
+101255,2025-10-10,Tablet Air,Electronics,South,1,22603.46,3573.31
+101256,2025-10-10,Keyboard,Accessories,West,2,3135.09,708.56
+101257,2025-10-10,Webcam,Accessories,South,4,15300.04,3628.25
+101258,2025-10-11,Tablet Air,Electronics,West,1,22990.5,4369.1
+101259,2025-10-11,Keyboard,Accessories,South,1,1700.96,399.96
+101260,2025-10-11,Office Chair,Furniture,East,2,16827.27,3900.66
+101261,2025-10-11,Monitor 24,Electronics,East,4,52863.88,10584.83
+101262,2025-10-11,Monitor 24,Electronics,West,4,49133.28,6708.15
+101263,2025-10-11,Office Chair,Furniture,West,2,15922.63,3311.25
+101264,2025-10-11,Headphones,Accessories,North,2,6428.77,1709.93
+101265,2025-10-12,Wireless Mouse,Accessories,East,2,2427.17,564.07
+101266,2025-10-12,Headphones,Accessories,South,1,3255.71,927.41
+101267,2025-10-12,Office Chair,Furniture,East,2,16992.12,3554.04
+101268,2025-10-12,Keyboard,Accessories,North,2,3360.98,797.44
+101269,2025-10-12,Tablet Air,Electronics,North,2,48784.32,5057.96
+101270,2025-10-13,Headphones,Accessories,East,5,16020.35,2765.91
+101271,2025-10-13,Desk,Furniture,Central,3,31378.23,6428.58
+101272,2025-10-13,Headphones,Accessories,East,1,3067.82,763.76
+101273,2025-10-14,Keyboard,Accessories,North,1,1838.85,425.8
+101274,2025-10-14,Office Chair,Furniture,Central,5,44142.58,8018.42
+101275,2025-10-14,Wireless Mouse,Accessories,Central,1,1183.62,310.74
+101276,2025-10-14,Office Chair,Furniture,North,1,8591.23,1856.17
+101277,2025-10-15,Desk,Furniture,Central,4,45177.25,8016.04
+101278,2025-10-15,Webcam,Accessories,South,4,17113.86,3781.17
+101279,2025-10-16,Headphones,Accessories,West,4,12110.32,2168.25
+101280,2025-10-16,Keyboard,Accessories,West,4,7047.46,1691.6
+101281,2025-10-16,Headphones,Accessories,East,3,10341.93,2405.73
+101282,2025-10-16,Headphones,Accessories,West,3,10464.92,2065.09
+101283,2025-10-17,Headphones,Accessories,South,2,6725.83,1874.14
+101284,2025-10-17,Smartphone X,Electronics,East,3,103155.96,15362.81
+101285,2025-10-17,Tablet Air,Electronics,West,3,73426.93,13181.1
+101286,2025-10-17,Webcam,Accessories,Central,2,8774.27,1852.28
+101287,2025-10-17,Wireless Mouse,Accessories,North,3,3575.01,910.7
+101288,2025-10-17,Keyboard,Accessories,Central,4,7760.33,1486.07
+101289,2025-10-17,Desk,Furniture,Central,2,24628.1,4172.81
+101290,2025-10-18,Smartphone X,Electronics,South,3,115451.05,6891.43
+101291,2025-10-18,Webcam,Accessories,Central,5,24441.42,5493.75
+101292,2025-10-18,Smartphone X,Electronics,North,2,70283.31,10623.54
+101293,2025-10-19,Laptop Pro,Electronics,South,3,188684.48,33902.28
+101294,2025-10-19,Desk,Furniture,South,1,10318.0,1403.27
+101295,2025-10-20,Headphones,Accessories,Central,1,2973.86,737.02
+101296,2025-10-20,Laptop Pro,Electronics,South,1,60928.74,9029.85
+101297,2025-10-20,Keyboard,Accessories,East,3,5892.33,1205.93
+101298,2025-10-20,Webcam,Accessories,Central,2,8378.68,1584.54
+101299,2025-10-21,Headphones,Accessories,East,1,3232.64,756.74
+101300,2025-10-21,Keyboard,Accessories,North,3,5721.37,1319.76
+101301,2025-10-21,Laptop Pro,Electronics,West,2,129346.18,17889.9
+101302,2025-10-21,Wireless Mouse,Accessories,Central,1,1155.29,261.53
+101303,2025-10-21,Keyboard,Accessories,North,4,7444.93,1508.59
+101304,2025-10-22,Office Chair,Furniture,Central,5,45826.04,10076.28
+101305,2025-10-22,Webcam,Accessories,Central,5,20008.38,2920.85
+101306,2025-10-22,Smartphone X,Electronics,West,3,105954.56,14503.78
+101307,2025-10-23,Webcam,Accessories,Central,3,13203.98,2462.69
+101308,2025-10-23,Wireless Mouse,Accessories,East,3,3948.65,997.12
+101309,2025-10-23,Monitor 24,Electronics,East,1,12013.16,1949.45
+101310,2025-10-23,Tablet Air,Electronics,East,5,109196.97,15847.2
+101311,2025-10-24,Monitor 24,Electronics,East,3,38159.42,7121.81
+101312,2025-10-24,Tablet Air,Electronics,West,5,122599.21,20585.01
+101313,2025-10-24,Monitor 24,Electronics,North,1,13309.34,2398.34
+101314,2025-10-24,Webcam,Accessories,East,5,18716.14,4055.96
+101315,2025-10-24,Monitor 24,Electronics,East,4,51726.04,9856.64
+101316,2025-10-24,Tablet Air,Electronics,East,5,123972.44,19917.56
+101317,2025-10-25,Desk,Furniture,Central,1,10417.31,1723.15
+101318,2025-10-25,Monitor 24,Electronics,West,4,52605.75,8998.2
+101319,2025-10-25,Headphones,Accessories,North,3,8018.53,1742.73
+101320,2025-10-26,Laptop Pro,Electronics,Central,3,197891.1,37250.44
+101321,2025-10-26,Keyboard,Accessories,South,2,3371.55,769.12
+101322,2025-10-27,Office Chair,Furniture,East,1,8351.2,2138.29
+101323,2025-10-27,Wireless Mouse,Accessories,West,1,1199.73,276.5
+101324,2025-10-28,Smartphone X,Electronics,Central,3,104699.15,12902.41
+101325,2025-10-28,Keyboard,Accessories,East,2,3577.37,780.01
+101326,2025-10-28,Tablet Air,Electronics,South,5,125423.13,14955.89
+101327,2025-10-28,Desk,Furniture,East,2,19691.96,3971.08
+101328,2025-10-28,Webcam,Accessories,West,2,7679.53,1955.39
+101329,2025-10-28,Keyboard,Accessories,South,3,5454.5,1316.5
+101330,2025-10-29,Tablet Air,Electronics,East,4,97032.03,21486.46
+101331,2025-10-29,Monitor 24,Electronics,North,5,67021.27,12680.44
+101332,2025-10-29,Monitor 24,Electronics,West,5,66474.08,9475.7
+101333,2025-10-29,Smartphone X,Electronics,West,5,147172.65,17879.62
+101334,2025-10-29,Wireless Mouse,Accessories,East,3,3548.8,950.64
+101335,2025-10-29,Tablet Air,Electronics,East,1,23897.12,3603.43
+101336,2025-10-30,Desk,Furniture,West,4,41755.45,7842.89
+101337,2025-10-30,Keyboard,Accessories,Central,5,8159.37,1526.0
+101338,2025-10-30,Wireless Mouse,Accessories,Central,3,3725.12,770.58
+101339,2025-10-31,Desk,Furniture,North,2,21873.0,4561.21
+101340,2025-10-31,Keyboard,Accessories,Central,2,3675.65,886.4
+101341,2025-11-01,Webcam,Accessories,North,3,12619.1,2821.21
+101342,2025-11-01,Monitor 24,Electronics,Central,4,48614.19,7136.08
+101343,2025-11-01,Keyboard,Accessories,West,3,5204.1,1070.95
+101344,2025-11-01,Monitor 24,Electronics,West,5,61049.94,10962.38
+101345,2025-11-01,Office Chair,Furniture,East,4,34356.63,4846.44
+101346,2025-11-02,Desk,Furniture,Central,4,45532.84,6627.19
+101347,2025-11-02,Wireless Mouse,Accessories,North,2,2611.64,614.66
+101348,2025-11-02,Monitor 24,Electronics,East,5,60060.92,10131.35
+101349,2025-11-02,Headphones,Accessories,West,4,11348.59,2350.39
+101350,2025-11-02,Office Chair,Furniture,West,2,15890.75,2855.73
+101351,2025-11-02,Webcam,Accessories,South,3,11076.88,2044.24
+101352,2025-11-02,Headphones,Accessories,West,4,13109.96,3207.83
+101353,2025-11-03,Keyboard,Accessories,East,2,3353.94,734.24
+101354,2025-11-03,Laptop Pro,Electronics,South,1,67459.39,9549.62
+101355,2025-11-04,Monitor 24,Electronics,West,5,61745.54,14258.79
+101356,2025-11-04,Laptop Pro,Electronics,Central,3,192254.28,36584.78
+101357,2025-11-04,Monitor 24,Electronics,South,4,48412.88,8444.07
+101358,2025-11-05,Desk,Furniture,South,4,45759.0,8818.19
+101359,2025-11-05,Wireless Mouse,Accessories,North,2,2412.46,548.87
+101360,2025-11-05,Tablet Air,Electronics,Central,2,48275.6,5808.13
+101361,2025-11-05,Smartphone X,Electronics,South,4,128644.91,12867.67
+101362,2025-11-05,Wireless Mouse,Accessories,South,5,6337.31,1675.96
+101363,2025-11-05,Smartphone X,Electronics,East,4,130769.03,15230.3
+101364,2025-11-06,Desk,Furniture,West,1,10816.28,2066.28
+101365,2025-11-06,Office Chair,Furniture,West,4,37249.17,7289.79
+101366,2025-11-06,Office Chair,Furniture,South,2,17570.56,2869.6
+101367,2025-11-07,Desk,Furniture,West,1,10435.81,1854.89
+101368,2025-11-07,Desk,Furniture,East,3,33610.19,5675.35
+101369,2025-11-07,Office Chair,Furniture,South,5,42680.0,8563.5
+101370,2025-11-07,Wireless Mouse,Accessories,West,2,2578.65,695.27
+101371,2025-11-07,Office Chair,Furniture,West,3,24715.12,4884.42
+101372,2025-11-07,Headphones,Accessories,Central,1,3268.53,695.52
+101373,2025-11-07,Laptop Pro,Electronics,South,1,65399.01,7636.85
+101374,2025-11-08,Headphones,Accessories,Central,4,13547.1,3137.01
+101375,2025-11-08,Smartphone X,Electronics,South,3,96715.16,9151.27
+101376,2025-11-08,Wireless Mouse,Accessories,East,2,2572.22,663.82
+101377,2025-11-08,Office Chair,Furniture,Central,5,44243.25,7840.67
+101378,2025-11-08,Tablet Air,Electronics,West,1,24772.27,3476.89
+101379,2025-11-09,Monitor 24,Electronics,West,3,33740.12,6663.4
+101380,2025-11-09,Monitor 24,Electronics,North,4,48435.14,8398.15
+101381,2025-11-10,Tablet Air,Electronics,Central,2,53441.41,9866.7
+101382,2025-11-10,Monitor 24,Electronics,South,2,24962.06,5020.0
+101383,2025-11-11,Wireless Mouse,Accessories,South,3,3583.27,732.6
+101384,2025-11-11,Office Chair,Furniture,South,2,17081.68,2508.87
+101385,2025-11-11,Keyboard,Accessories,Central,4,6809.43,1385.15
+101386,2025-11-11,Keyboard,Accessories,East,2,3494.57,712.05
+101387,2025-11-12,Monitor 24,Electronics,West,5,58340.36,10016.22
+101388,2025-11-12,Keyboard,Accessories,Central,3,5342.29,986.52
+101389,2025-11-13,Wireless Mouse,Accessories,North,5,5839.31,1369.29
+101390,2025-11-13,Webcam,Accessories,West,4,17935.78,3447.08
+101391,2025-11-13,Headphones,Accessories,Central,2,6475.19,1276.98
+101392,2025-11-13,Desk,Furniture,Central,2,22553.74,4279.55
+101393,2025-11-14,Monitor 24,Electronics,East,4,52481.76,7399.45
+101394,2025-11-14,Headphones,Accessories,West,4,12366.94,2758.66
+101395,2025-11-14,Laptop Pro,Electronics,Central,1,63661.3,11428.29
+101396,2025-11-14,Office Chair,Furniture,East,3,24134.12,4671.19
+101397,2025-11-15,Keyboard,Accessories,South,3,5538.83,1251.03
+101398,2025-11-15,Office Chair,Furniture,East,1,8716.59,1565.65
+101399,2025-11-16,Smartphone X,Electronics,South,5,161655.0,15310.6
+101400,2025-11-16,Smartphone X,Electronics,South,5,174993.41,24287.21
+101401,2025-11-16,Tablet Air,Electronics,North,5,116324.83,13986.4
+101402,2025-11-17,Laptop Pro,Electronics,East,3,207794.35,31165.89
+101403,2025-11-17,Wireless Mouse,Accessories,South,5,5846.53,1078.08
+101404,2025-11-17,Monitor 24,Electronics,Central,4,52474.23,6970.8
+101405,2025-11-18,Webcam,Accessories,East,4,18062.06,3769.23
+101406,2025-11-18,Tablet Air,Electronics,East,2,43762.82,7344.55
+101407,2025-11-18,Laptop Pro,Electronics,South,5,303079.26,48534.59
+101408,2025-11-19,Headphones,Accessories,East,4,11411.27,2131.88
+101409,2025-11-19,Office Chair,Furniture,South,4,35843.75,6228.48
+101410,2025-11-19,Headphones,Accessories,West,4,13121.95,3197.89
+101411,2025-11-19,Headphones,Accessories,Central,1,3059.7,736.71
+101412,2025-11-19,Laptop Pro,Electronics,East,5,317398.79,51362.01
+101413,2025-11-19,Monitor 24,Electronics,East,1,11713.68,2343.26
+101414,2025-11-19,Smartphone X,Electronics,Central,2,68759.82,9554.36
+101415,2025-11-20,Wireless Mouse,Accessories,East,4,4605.03,1291.71
+101416,2025-11-20,Office Chair,Furniture,North,4,33900.36,8402.02
+101417,2025-11-21,Keyboard,Accessories,South,2,3608.43,831.33
+101418,2025-11-21,Webcam,Accessories,South,4,16108.98,2986.59
+101419,2025-11-21,Smartphone X,Electronics,South,1,35209.39,4382.85
+101420,2025-11-21,Wireless Mouse,Accessories,Central,1,1129.74,261.71
+101421,2025-11-21,Laptop Pro,Electronics,Central,2,145836.91,24444.71
+101422,2025-11-21,Wireless Mouse,Accessories,East,3,3599.75,945.77
+101423,2025-11-22,Wireless Mouse,Accessories,South,1,1366.45,309.26
+101424,2025-11-22,Smartphone X,Electronics,Central,1,33156.71,5641.78
+101425,2025-11-22,Desk,Furniture,East,5,55120.65,8796.51
+101426,2025-11-22,Smartphone X,Electronics,North,2,68404.41,8447.81
+101427,2025-11-23,Keyboard,Accessories,South,3,5323.87,1172.66
+101428,2025-11-23,Desk,Furniture,North,2,22772.84,4556.46
+101429,2025-11-23,Smartphone X,Electronics,South,1,33513.62,4904.71
+101430,2025-11-24,Tablet Air,Electronics,Central,3,70582.74,10441.13
+101431,2025-11-24,Keyboard,Accessories,South,3,5555.47,1412.92
+101432,2025-11-24,Smartphone X,Electronics,West,1,35170.91,3748.69
+101433,2025-11-24,Keyboard,Accessories,West,3,4957.06,1023.69
+101434,2025-11-24,Headphones,Accessories,Central,3,9838.16,2474.63
+101435,2025-11-24,Wireless Mouse,Accessories,East,3,3560.67,634.72
+101436,2025-11-24,Smartphone X,Electronics,South,1,37265.88,3277.71
+101437,2025-11-25,Webcam,Accessories,North,3,12024.98,2525.89
+101438,2025-11-25,Monitor 24,Electronics,Central,5,62187.5,11266.24
+101439,2025-11-26,Webcam,Accessories,East,5,19896.71,3856.34
+101440,2025-11-26,Desk,Furniture,West,5,52940.4,6727.08
+101441,2025-11-26,Smartphone X,Electronics,South,5,191970.96,25804.68
+101442,2025-11-26,Smartphone X,Electronics,West,3,100598.62,8326.05
+101443,2025-11-26,Desk,Furniture,South,4,49891.92,9886.58
+101444,2025-11-26,Keyboard,Accessories,Central,4,7013.39,1375.24
+101445,2025-11-26,Office Chair,Furniture,South,2,19157.94,4499.01
+101446,2025-11-27,Laptop Pro,Electronics,West,4,249562.9,39431.9
+101447,2025-11-27,Desk,Furniture,South,4,51910.07,7945.84
+101448,2025-11-27,Webcam,Accessories,South,2,8399.21,1786.97
+101449,2025-11-28,Office Chair,Furniture,South,1,8760.81,1823.91
+101450,2025-11-28,Wireless Mouse,Accessories,North,3,3905.12,1067.76
+101451,2025-11-28,Desk,Furniture,West,5,53019.98,9252.48
+101452,2025-11-28,Headphones,Accessories,East,1,3108.16,673.25
+101453,2025-11-29,Keyboard,Accessories,North,2,3549.25,650.43
+101454,2025-11-29,Tablet Air,Electronics,South,3,66228.84,10563.09
+101455,2025-11-29,Smartphone X,Electronics,South,4,135384.81,16120.85
+101456,2025-11-29,Tablet Air,Electronics,South,5,114364.32,20575.57
+101457,2025-11-29,Wireless Mouse,Accessories,West,3,3729.93,1018.8
+101458,2025-11-29,Office Chair,Furniture,West,4,34799.81,7839.34
+101459,2025-11-30,Keyboard,Accessories,Central,3,5310.8,1217.12
+101460,2025-11-30,Desk,Furniture,West,5,57863.99,8120.55
+101461,2025-11-30,Wireless Mouse,Accessories,East,4,4619.69,1127.36
+101462,2025-11-30,Wireless Mouse,Accessories,North,1,1224.18,283.51
+101463,2025-11-30,Keyboard,Accessories,Central,3,5173.6,1240.19
+101464,2025-11-30,Webcam,Accessories,North,5,22329.24,4767.6
+101465,2025-12-01,Webcam,Accessories,Central,1,4465.74,974.08
+101466,2025-12-01,Monitor 24,Electronics,West,2,27139.49,6045.01
+101467,2025-12-01,Tablet Air,Electronics,East,5,125653.38,14903.56
+101468,2025-12-01,Webcam,Accessories,West,5,19125.79,4130.77
+101469,2025-12-02,Office Chair,Furniture,North,1,8753.54,1867.04
+101470,2025-12-02,Smartphone X,Electronics,South,3,104338.65,9632.76
+101471,2025-12-02,Laptop Pro,Electronics,East,1,62062.81,11283.79
+101472,2025-12-03,Tablet Air,Electronics,South,2,49700.1,6633.53
+101473,2025-12-03,Office Chair,Furniture,South,2,17125.78,3223.55
+101474,2025-12-03,Smartphone X,Electronics,East,2,63591.4,8875.56
+101475,2025-12-03,Desk,Furniture,West,2,23198.91,4348.88
+101476,2025-12-04,Desk,Furniture,West,2,20989.42,4264.66
+101477,2025-12-04,Tablet Air,Electronics,East,2,45415.43,7197.14
+101478,2025-12-05,Laptop Pro,Electronics,South,5,353505.9,50018.17
+101479,2025-12-05,Wireless Mouse,Accessories,North,1,1244.61,323.52
+101480,2025-12-06,Webcam,Accessories,South,5,22245.24,5334.16
+101481,2025-12-06,Laptop Pro,Electronics,South,1,65525.02,9974.22
+101482,2025-12-06,Keyboard,Accessories,South,4,7508.05,1467.36
+101483,2025-12-06,Keyboard,Accessories,South,1,1780.85,390.61
+101484,2025-12-06,Webcam,Accessories,South,5,21956.39,5340.82
+101485,2025-12-06,Tablet Air,Electronics,Central,3,75001.05,8387.77
+101486,2025-12-06,Tablet Air,Electronics,West,3,68369.1,10292.45
+101487,2025-12-07,Monitor 24,Electronics,East,4,47557.14,9186.32
+101488,2025-12-07,Office Chair,Furniture,East,1,8703.48,1806.79
+101489,2025-12-08,Smartphone X,Electronics,North,4,131094.71,19650.18
+101490,2025-12-08,Office Chair,Furniture,West,4,34642.53,7908.39
+101491,2025-12-08,Smartphone X,Electronics,West,3,105763.82,8412.87
+101492,2025-12-09,Wireless Mouse,Accessories,West,4,4458.3,1274.41
+101493,2025-12-09,Laptop Pro,Electronics,Central,4,259534.64,37860.89
+101494,2025-12-10,Keyboard,Accessories,East,3,5132.06,1128.43
+101495,2025-12-10,Wireless Mouse,Accessories,South,5,5979.27,1430.65
+101496,2025-12-11,Desk,Furniture,Central,5,55454.16,12648.58
+101497,2025-12-11,Smartphone X,Electronics,East,2,71225.19,12811.18
+101498,2025-12-11,Headphones,Accessories,South,3,9603.07,2732.53
+101499,2025-12-11,Headphones,Accessories,South,2,6517.93,1553.61
+101500,2025-12-12,Smartphone X,Electronics,West,3,110653.38,14348.67
+101501,2025-12-12,Wireless Mouse,Accessories,Central,3,3531.61,860.76
+101502,2025-12-12,Wireless Mouse,Accessories,Central,4,5152.85,1202.27
+101503,2025-12-12,Office Chair,Furniture,East,1,9279.04,2121.65
+101504,2025-12-12,Keyboard,Accessories,South,5,8857.4,1742.56
+101505,2025-12-12,Keyboard,Accessories,North,4,6585.44,1182.27
+101506,2025-12-12,Monitor 24,Electronics,East,4,50861.93,9944.47
+101507,2025-12-13,Wireless Mouse,Accessories,North,1,1242.11,347.04
+101508,2025-12-13,Desk,Furniture,South,3,32382.05,6420.95
+101509,2025-12-13,Headphones,Accessories,East,5,16004.76,3935.68
+101510,2025-12-13,Tablet Air,Electronics,West,3,72132.85,8862.9
+101511,2025-12-13,Wireless Mouse,Accessories,West,3,3767.88,1063.22
+101512,2025-12-13,Laptop Pro,Electronics,East,3,210922.55,25082.66
+101513,2025-12-13,Tablet Air,Electronics,West,4,101521.02,14571.5
+101514,2025-12-14,Laptop Pro,Electronics,South,2,120643.83,18765.09
+101515,2025-12-14,Tablet Air,Electronics,Central,5,115488.25,15346.7
+101516,2025-12-14,Wireless Mouse,Accessories,South,1,1272.46,390.88
+101517,2025-12-14,Office Chair,Furniture,North,2,15891.73,3583.11
+101518,2025-12-14,Smartphone X,Electronics,West,4,134332.95,15484.32
+101519,2025-12-14,Monitor 24,Electronics,Central,1,12862.78,2313.45
+101520,2025-12-14,Smartphone X,Electronics,South,5,182641.75,23501.62
+101521,2025-12-15,Webcam,Accessories,East,4,15184.91,3175.91
+101522,2025-12-15,Keyboard,Accessories,West,3,5335.31,1057.68
+101523,2025-12-16,Desk,Furniture,West,3,31563.72,6131.28
+101524,2025-12-16,Webcam,Accessories,East,3,13563.59,3060.01
+101525,2025-12-16,Office Chair,Furniture,West,2,16835.65,2919.66
+101526,2025-12-16,Monitor 24,Electronics,South,4,47074.29,9045.51
+101527,2025-12-17,Monitor 24,Electronics,East,3,38336.48,7786.69
+101528,2025-12-17,Tablet Air,Electronics,Central,3,74046.26,10391.52
+101529,2025-12-17,Webcam,Accessories,North,1,3932.58,739.16
+101530,2025-12-18,Desk,Furniture,West,1,10349.47,2036.42
+101531,2025-12-18,Webcam,Accessories,West,3,13671.21,3146.94
+101532,2025-12-18,Office Chair,Furniture,North,5,47367.42,8639.96
+101533,2025-12-19,Keyboard,Accessories,South,2,3545.03,571.23
+101534,2025-12-19,Webcam,Accessories,North,5,21987.54,4811.1
+101535,2025-12-19,Office Chair,Furniture,North,1,8800.88,1919.31
+101536,2025-12-19,Desk,Furniture,North,5,47656.3,7278.71
+101537,2025-12-19,Keyboard,Accessories,East,4,7232.04,1420.12
+101538,2025-12-20,Laptop Pro,Electronics,North,3,197002.03,33616.99
+101539,2025-12-20,Office Chair,Furniture,West,1,7714.05,1423.25
+101540,2025-12-20,Wireless Mouse,Accessories,Central,3,3512.89,884.81
+101541,2025-12-20,Smartphone X,Electronics,East,4,131704.85,19355.35
+101542,2025-12-21,Webcam,Accessories,South,4,17655.66,3636.9
+101543,2025-12-21,Webcam,Accessories,West,4,17258.84,3717.97
+101544,2025-12-21,Tablet Air,Electronics,East,1,22964.52,3794.96
+101545,2025-12-21,Smartphone X,Electronics,Central,2,70699.09,9822.12
+101546,2025-12-21,Office Chair,Furniture,Central,5,36864.64,7893.4
+101547,2025-12-22,Office Chair,Furniture,East,2,17378.41,3737.38
+101548,2025-12-22,Monitor 24,Electronics,Central,3,37353.39,8283.38
+101549,2025-12-22,Headphones,Accessories,Central,3,9794.4,2104.54
+101550,2025-12-22,Wireless Mouse,Accessories,Central,3,3565.87,941.44
+101551,2025-12-22,Office Chair,Furniture,North,5,42918.58,8847.96
+101552,2025-12-23,Laptop Pro,Electronics,North,2,119522.38,23978.54
+101553,2025-12-23,Monitor 24,Electronics,North,1,12835.57,1885.55
+101554,2025-12-23,Monitor 24,Electronics,North,2,27011.67,4043.05
+101555,2025-12-23,Headphones,Accessories,Central,4,12950.48,3388.03
+101556,2025-12-23,Headphones,Accessories,Central,3,9957.81,2669.89
+101557,2025-12-23,Headphones,Accessories,East,4,13111.22,2991.16
+101558,2025-12-24,Office Chair,Furniture,West,1,8697.62,1846.15
+101559,2025-12-24,Tablet Air,Electronics,Central,1,23205.08,3572.38
+101560,2025-12-24,Laptop Pro,Electronics,South,1,68054.23,10569.84
+101561,2025-12-24,Webcam,Accessories,Central,4,16971.7,3960.64
+101562,2025-12-24,Headphones,Accessories,East,5,16442.7,4077.91
+101563,2025-12-24,Monitor 24,Electronics,Central,1,12716.63,2183.09
+101564,2025-12-24,Office Chair,Furniture,East,5,45922.56,9911.05
+101565,2025-12-25,Webcam,Accessories,North,2,7764.39,1588.56
+101566,2025-12-25,Headphones,Accessories,West,2,6580.3,1730.84
+101567,2025-12-26,Laptop Pro,Electronics,North,5,353291.71,63336.21
+101568,2025-12-26,Webcam,Accessories,South,1,4172.98,865.61
+101569,2025-12-26,Wireless Mouse,Accessories,West,1,1382.52,352.19
+101570,2025-12-26,Laptop Pro,Electronics,West,3,175268.22,25918.23
+101571,2025-12-26,Office Chair,Furniture,North,2,12523.1,2715.64
+101572,2025-12-26,Webcam,Accessories,Central,2,7394.06,1833.61
+101573,2025-12-26,Headphones,Accessories,West,5,15991.7,2898.51
+101574,2025-12-27,Webcam,Accessories,East,2,8583.4,1928.01
+101575,2025-12-27,Tablet Air,Electronics,West,3,63958.8,10700.09
+101576,2025-12-27,Wireless Mouse,Accessories,Central,5,5284.36,1120.96
+101577,2025-12-27,Webcam,Accessories,East,2,7597.14,1603.79
+101578,2025-12-27,Webcam,Accessories,Central,4,17583.35,3956.74
+101579,2025-12-27,Headphones,Accessories,North,4,12667.5,2422.72
+101580,2025-12-28,Desk,Furniture,North,4,44445.49,8421.17
+101581,2025-12-28,Monitor 24,Electronics,West,3,38143.94,7821.45
+101582,2025-12-28,Wireless Mouse,Accessories,West,4,4891.47,1200.1
+101583,2025-12-28,Wireless Mouse,Accessories,West,5,5800.12,1506.02
+101584,2025-12-28,Desk,Furniture,South,4,43197.61,7421.2
+101585,2025-12-28,Office Chair,Furniture,West,3,26085.83,5368.17
+101586,2025-12-28,Desk,Furniture,South,2,21298.48,4842.95
+101587,2025-12-29,Keyboard,Accessories,East,4,6770.73,1196.06
+101588,2025-12-29,Smartphone X,Electronics,North,3,108784.69,11704.99
+101589,2025-12-29,Wireless Mouse,Accessories,West,2,2349.35,571.54
+101590,2025-12-30,Office Chair,Furniture,Central,2,19245.13,3968.69
+101591,2025-12-30,Office Chair,Furniture,East,2,15116.06,2917.93
+101592,2025-12-30,Laptop Pro,Electronics,Central,3,202006.36,32423.58
+101593,2025-12-30,Webcam,Accessories,South,4,17820.92,3934.29
+101594,2025-12-31,Smartphone X,Electronics,Central,4,147284.33,7614.95
+101595,2025-12-31,Webcam,Accessories,Central,4,19390.88,3340.87
+101596,2025-12-31,Smartphone X,Electronics,North,5,170142.88,26526.87
+101597,2026-01-01,Headphones,Accessories,East,4,13412.31,3224.57
+101598,2026-01-01,Monitor 24,Electronics,East,4,50454.04,9328.05
+101599,2026-01-01,Office Chair,Furniture,West,5,45425.81,7568.56
+101600,2026-01-02,Keyboard,Accessories,West,1,1948.04,430.63
+101601,2026-01-02,Smartphone X,Electronics,East,2,62194.35,8788.46
+101602,2026-01-02,Laptop Pro,Electronics,North,1,69424.68,12436.9
+101603,2026-01-02,Keyboard,Accessories,North,4,7452.08,1761.24
+101604,2026-01-02,Tablet Air,Electronics,South,3,64142.97,7214.38
+101605,2026-01-02,Desk,Furniture,South,1,10914.32,2070.48
+101606,2026-01-03,Headphones,Accessories,Central,1,3420.51,746.32
+101607,2026-01-03,Wireless Mouse,Accessories,East,3,3559.34,918.47
+101608,2026-01-03,Headphones,Accessories,South,1,3662.96,930.98
+101609,2026-01-03,Webcam,Accessories,North,2,8224.89,1754.48
+101610,2026-01-03,Headphones,Accessories,West,4,14068.73,3339.57
+101611,2026-01-03,Monitor 24,Electronics,West,1,12938.85,2311.41
+101612,2026-01-04,Desk,Furniture,Central,3,33628.47,6151.29
+101613,2026-01-04,Smartphone X,Electronics,West,2,75503.8,8684.45
+101614,2026-01-04,Headphones,Accessories,West,4,11890.79,2699.86
+101615,2026-01-04,Headphones,Accessories,West,1,3539.66,896.95
+101616,2026-01-04,Wireless Mouse,Accessories,East,3,3896.95,1083.99
+101617,2026-01-05,Office Chair,Furniture,Central,2,18147.43,3178.83
+101618,2026-01-05,Laptop Pro,Electronics,Central,2,147726.74,24394.69
+101619,2026-01-05,Laptop Pro,Electronics,South,3,189500.9,23715.49
+101620,2026-01-06,Tablet Air,Electronics,West,4,94209.18,13242.9
+101621,2026-01-06,Monitor 24,Electronics,Central,1,12387.55,2055.6
+101622,2026-01-06,Monitor 24,Electronics,West,3,38549.61,7490.57
+101623,2026-01-06,Wireless Mouse,Accessories,South,3,3766.54,902.74
+101624,2026-01-07,Keyboard,Accessories,South,4,7389.42,1688.79
+101625,2026-01-07,Keyboard,Accessories,West,2,3631.59,780.4
+101626,2026-01-07,Wireless Mouse,Accessories,Central,3,3709.65,1016.94
+101627,2026-01-07,Tablet Air,Electronics,South,1,23224.25,2839.5
+101628,2026-01-07,Desk,Furniture,West,4,44534.12,7112.88
+101629,2026-01-08,Monitor 24,Electronics,East,5,65973.91,10604.19
+101630,2026-01-08,Office Chair,Furniture,West,2,16406.0,3166.53
+101631,2026-01-08,Wireless Mouse,Accessories,Central,3,3703.62,1059.15
+101632,2026-01-08,Office Chair,Furniture,South,4,36950.05,7916.28
+101633,2026-01-08,Office Chair,Furniture,East,2,18029.29,4089.5
+101634,2026-01-08,Office Chair,Furniture,North,3,24212.57,4676.14
+101635,2026-01-09,Webcam,Accessories,East,1,4486.49,1089.68
+101636,2026-01-09,Wireless Mouse,Accessories,North,5,6433.99,1441.7
+101637,2026-01-09,Laptop Pro,Electronics,North,3,200646.84,29056.02
+101638,2026-01-09,Monitor 24,Electronics,North,3,36853.19,7854.09
+101639,2026-01-09,Wireless Mouse,Accessories,West,1,1212.76,377.41
+101640,2026-01-09,Headphones,Accessories,Central,1,3204.32,666.55
+101641,2026-01-10,Laptop Pro,Electronics,Central,1,62476.51,11997.41
+101642,2026-01-10,Desk,Furniture,Central,3,32282.86,5769.77
+101643,2026-01-10,Webcam,Accessories,West,5,21985.97,5470.97
+101644,2026-01-10,Desk,Furniture,North,4,46368.59,8074.16
+101645,2026-01-10,Smartphone X,Electronics,East,2,77164.95,13886.39
+101646,2026-01-10,Webcam,Accessories,Central,2,8290.79,1860.47
+101647,2026-01-11,Desk,Furniture,South,5,56499.96,10242.59
+101648,2026-01-11,Keyboard,Accessories,West,4,7129.96,1592.73
+101649,2026-01-11,Monitor 24,Electronics,North,2,25078.92,3971.64
+101650,2026-01-11,Tablet Air,Electronics,North,3,77904.05,14849.48
+101651,2026-01-11,Tablet Air,Electronics,North,2,47557.78,7761.45
+101652,2026-01-11,Laptop Pro,Electronics,South,5,326136.16,53304.95
+101653,2026-01-11,Headphones,Accessories,East,2,6306.88,1782.85
+101654,2026-01-12,Webcam,Accessories,Central,2,7765.23,1444.88
+101655,2026-01-12,Keyboard,Accessories,East,1,1896.74,445.32
+101656,2026-01-13,Laptop Pro,Electronics,North,1,62300.86,9587.91
+101657,2026-01-13,Desk,Furniture,West,4,40934.14,6220.39
+101658,2026-01-13,Wireless Mouse,Accessories,North,1,1217.67,323.02
+101659,2026-01-13,Office Chair,Furniture,North,5,44191.2,5768.42
+101660,2026-01-14,Smartphone X,Electronics,South,5,183855.12,19816.89
+101661,2026-01-14,Wireless Mouse,Accessories,North,1,1430.99,276.42
+101662,2026-01-15,Webcam,Accessories,West,2,8089.57,1785.12
+101663,2026-01-15,Laptop Pro,Electronics,West,2,122888.85,22060.21
+101664,2026-01-15,Smartphone X,Electronics,East,5,188037.19,22520.98
+101665,2026-01-16,Webcam,Accessories,South,5,20915.15,5389.64
+101666,2026-01-16,Webcam,Accessories,West,4,16714.33,3560.59
+101667,2026-01-16,Laptop Pro,Electronics,South,5,333531.6,54835.03
+101668,2026-01-16,Keyboard,Accessories,South,4,7763.58,1708.71
+101669,2026-01-16,Smartphone X,Electronics,South,1,33814.53,3927.76
+101670,2026-01-16,Smartphone X,Electronics,South,5,190733.41,23810.21
+101671,2026-01-16,Laptop Pro,Electronics,Central,3,165998.55,28918.24
+101672,2026-01-17,Office Chair,Furniture,South,4,34369.16,6447.8
+101673,2026-01-17,Headphones,Accessories,South,2,6493.32,1507.43
+101674,2026-01-17,Webcam,Accessories,North,3,11488.79,2476.95
+101675,2026-01-18,Laptop Pro,Electronics,East,4,238428.92,39490.49
+101676,2026-01-18,Wireless Mouse,Accessories,West,4,4974.74,872.34
+101677,2026-01-18,Wireless Mouse,Accessories,West,5,5638.75,1209.27
+101678,2026-01-18,Webcam,Accessories,South,5,18932.67,4309.35
+101679,2026-01-18,Keyboard,Accessories,East,1,1805.07,357.96
+101680,2026-01-18,Smartphone X,Electronics,West,1,31826.43,4984.39
+101681,2026-01-19,Tablet Air,Electronics,Central,5,107701.77,15760.22
+101682,2026-01-19,Office Chair,Furniture,North,4,31273.72,6644.6
+101683,2026-01-19,Monitor 24,Electronics,South,4,52564.02,6567.54
+101684,2026-01-19,Keyboard,Accessories,East,4,7899.6,2022.29
+101685,2026-01-19,Webcam,Accessories,East,1,4039.78,817.76
+101686,2026-01-20,Office Chair,Furniture,West,4,35545.14,9004.62
+101687,2026-01-20,Smartphone X,Electronics,North,2,64353.54,6202.48
+101688,2026-01-21,Headphones,Accessories,South,1,3368.35,763.47
+101689,2026-01-21,Desk,Furniture,North,1,10516.55,1787.55
+101690,2026-01-22,Webcam,Accessories,East,5,20878.56,4720.91
+101691,2026-01-22,Webcam,Accessories,South,1,3934.91,803.32
+101692,2026-01-22,Laptop Pro,Electronics,South,5,308024.63,50481.11
+101693,2026-01-22,Laptop Pro,Electronics,East,4,261404.82,45085.94
+101694,2026-01-23,Tablet Air,Electronics,South,1,24927.35,4187.34
+101695,2026-01-23,Wireless Mouse,Accessories,North,3,3365.88,729.37
+101696,2026-01-23,Keyboard,Accessories,South,3,5493.98,1219.59
+101697,2026-01-23,Office Chair,Furniture,North,5,40219.61,10107.0
+101698,2026-01-23,Keyboard,Accessories,East,3,5136.78,847.2
+101699,2026-01-23,Webcam,Accessories,Central,5,19648.02,3451.9
+101700,2026-01-23,Tablet Air,Electronics,West,3,75073.52,14661.92
+101701,2026-01-24,Monitor 24,Electronics,Central,4,46131.99,7917.36
+101702,2026-01-24,Smartphone X,Electronics,West,1,37135.75,5747.75
+101703,2026-01-24,Smartphone X,Electronics,West,5,185483.91,23908.48
+101704,2026-01-24,Smartphone X,Electronics,Central,1,33824.13,5870.44
+101705,2026-01-25,Tablet Air,Electronics,Central,3,70867.09,14963.55
+101706,2026-01-25,Webcam,Accessories,Central,3,12054.88,2449.06
+101707,2026-01-25,Keyboard,Accessories,North,4,6897.07,1593.02
+101708,2026-01-26,Wireless Mouse,Accessories,Central,1,1118.77,266.18
+101709,2026-01-26,Laptop Pro,Electronics,North,1,72794.02,13470.0
+101710,2026-01-27,Monitor 24,Electronics,Central,1,12285.26,1765.48
+101711,2026-01-27,Office Chair,Furniture,South,4,36623.43,7131.65
+101712,2026-01-27,Office Chair,Furniture,West,2,17173.45,3817.61
+101713,2026-01-27,Webcam,Accessories,Central,1,4194.84,769.9
+101714,2026-01-27,Monitor 24,Electronics,South,2,24795.29,5360.56
+101715,2026-01-28,Webcam,Accessories,Central,5,23472.13,4903.95
+101716,2026-01-28,Smartphone X,Electronics,West,2,67838.68,7670.0
+101717,2026-01-28,Headphones,Accessories,East,5,17235.61,3860.07
+101718,2026-01-28,Wireless Mouse,Accessories,West,5,5926.43,1742.89
+101719,2026-01-28,Laptop Pro,Electronics,North,2,117045.24,17690.08
+101720,2026-01-28,Wireless Mouse,Accessories,Central,1,1220.63,285.73
+101721,2026-01-28,Webcam,Accessories,North,3,12239.07,3064.13
+101722,2026-01-29,Keyboard,Accessories,West,4,6047.89,1320.44
+101723,2026-01-29,Desk,Furniture,Central,2,19561.84,3367.85
+101724,2026-01-29,Smartphone X,Electronics,Central,5,192966.57,26264.09
+101725,2026-01-29,Laptop Pro,Electronics,South,3,186016.79,29921.54
+101726,2026-01-29,Keyboard,Accessories,East,3,5048.47,1115.26
+101727,2026-01-29,Tablet Air,Electronics,East,3,70353.41,12328.88
+101728,2026-01-29,Wireless Mouse,Accessories,East,5,6082.51,1530.66
+101729,2026-01-30,Keyboard,Accessories,East,2,3562.93,860.0
+101730,2026-01-30,Keyboard,Accessories,West,3,5572.48,1195.17
+101731,2026-01-30,Keyboard,Accessories,West,5,8924.99,2152.8
+101732,2026-01-30,Desk,Furniture,South,5,51746.8,8345.88
+101733,2026-01-31,Smartphone X,Electronics,East,5,166270.66,22218.61
+101734,2026-01-31,Keyboard,Accessories,Central,3,5379.59,964.2
+101735,2026-01-31,Webcam,Accessories,South,4,17834.28,3468.15
+101736,2026-01-31,Keyboard,Accessories,North,4,7147.24,1460.63
+101737,2026-02-01,Webcam,Accessories,South,4,17010.34,3895.86
+101738,2026-02-01,Wireless Mouse,Accessories,South,4,4609.45,1256.54
+101739,2026-02-01,Headphones,Accessories,East,4,13940.6,3235.67
+101740,2026-02-02,Desk,Furniture,West,1,11015.75,1900.79
+101741,2026-02-02,Smartphone X,Electronics,North,5,168040.05,21314.88
+101742,2026-02-02,Webcam,Accessories,East,4,17671.5,3666.9
+101743,2026-02-02,Wireless Mouse,Accessories,West,1,1182.89,290.66
+101744,2026-02-03,Laptop Pro,Electronics,East,3,188791.2,35567.46
+101745,2026-02-03,Headphones,Accessories,North,1,3106.95,840.94
+101746,2026-02-03,Smartphone X,Electronics,West,4,132834.04,15623.78
+101747,2026-02-03,Webcam,Accessories,North,2,8521.53,1732.51
+101748,2026-02-03,Monitor 24,Electronics,East,3,36214.24,6717.23
+101749,2026-02-03,Webcam,Accessories,North,3,11722.82,2465.41
+101750,2026-02-04,Office Chair,Furniture,North,2,16425.64,3481.05
+101751,2026-02-04,Keyboard,Accessories,West,2,3611.14,690.9
+101752,2026-02-04,Laptop Pro,Electronics,South,2,138824.82,21937.08
+101753,2026-02-04,Webcam,Accessories,East,3,11066.48,2472.48
+101754,2026-02-04,Keyboard,Accessories,East,3,5360.25,1163.29
+101755,2026-02-05,Wireless Mouse,Accessories,Central,5,6350.99,1245.49
+101756,2026-02-05,Office Chair,Furniture,Central,4,35269.78,6035.89
+101757,2026-02-05,Headphones,Accessories,North,1,2954.11,800.03
+101758,2026-02-05,Laptop Pro,Electronics,West,2,123309.32,18044.94
+101759,2026-02-05,Desk,Furniture,Central,3,33204.85,5512.67
+101760,2026-02-05,Webcam,Accessories,West,4,15538.71,3306.62
+101761,2026-02-05,Keyboard,Accessories,North,4,6957.93,1803.94
+101762,2026-02-06,Desk,Furniture,West,2,20574.96,4213.11
+101763,2026-02-06,Wireless Mouse,Accessories,South,5,6755.1,1391.24
+101764,2026-02-06,Desk,Furniture,West,3,35504.26,5106.45
+101765,2026-02-07,Monitor 24,Electronics,East,1,12558.67,2433.33
+101766,2026-02-07,Keyboard,Accessories,South,3,5379.92,1111.98
+101767,2026-02-07,Wireless Mouse,Accessories,Central,5,6351.71,1370.1
+101768,2026-02-07,Desk,Furniture,Central,5,53340.09,9974.36
+101769,2026-02-07,Tablet Air,Electronics,South,5,119124.49,16571.99
+101770,2026-02-07,Wireless Mouse,Accessories,Central,3,3910.9,993.83
+101771,2026-02-08,Office Chair,Furniture,East,2,15347.87,2365.22
+101772,2026-02-08,Keyboard,Accessories,West,5,8264.39,2077.58
+101773,2026-02-09,Headphones,Accessories,Central,4,12151.92,3105.5
+101774,2026-02-09,Tablet Air,Electronics,North,4,102844.9,16338.51
+101775,2026-02-09,Monitor 24,Electronics,North,1,12981.07,2339.49
+101776,2026-02-09,Tablet Air,Electronics,North,1,26981.37,3656.23
+101777,2026-02-09,Keyboard,Accessories,West,2,3559.2,854.84
+101778,2026-02-10,Keyboard,Accessories,South,1,1709.21,421.99
+101779,2026-02-10,Smartphone X,Electronics,Central,1,34456.74,4509.27
+101780,2026-02-10,Wireless Mouse,Accessories,South,1,1175.06,344.04
+101781,2026-02-11,Desk,Furniture,West,1,12063.19,2359.73
+101782,2026-02-11,Keyboard,Accessories,North,5,9068.19,1845.22
+101783,2026-02-11,Monitor 24,Electronics,South,5,55847.14,11008.8
+101784,2026-02-12,Monitor 24,Electronics,West,2,24414.45,3848.48
+101785,2026-02-12,Laptop Pro,Electronics,East,1,66996.39,14193.94
+101786,2026-02-12,Desk,Furniture,South,2,20013.23,3333.84
+101787,2026-02-12,Headphones,Accessories,North,1,2931.31,731.75
+101788,2026-02-12,Wireless Mouse,Accessories,East,5,6689.16,1629.94
+101789,2026-02-12,Keyboard,Accessories,South,1,1688.97,402.05
+101790,2026-02-13,Webcam,Accessories,West,4,16824.27,2952.0
+101791,2026-02-13,Monitor 24,Electronics,West,5,65638.46,11101.17
+101792,2026-02-14,Office Chair,Furniture,South,4,32677.35,7971.73
+101793,2026-02-14,Webcam,Accessories,West,3,12362.03,2102.34
+101794,2026-02-14,Webcam,Accessories,Central,4,18171.22,3751.23
+101795,2026-02-14,Wireless Mouse,Accessories,East,4,4789.64,1274.15
+101796,2026-02-14,Tablet Air,Electronics,Central,5,121475.56,18072.57
+101797,2026-02-14,Desk,Furniture,West,3,30755.29,6491.01
+101798,2026-02-14,Keyboard,Accessories,Central,2,3404.64,765.8
+101799,2026-02-15,Laptop Pro,Electronics,Central,1,66328.43,10953.57
+101800,2026-02-15,Headphones,Accessories,West,1,3350.45,923.0
+101801,2026-02-15,Smartphone X,Electronics,East,1,35352.07,5690.95
+101802,2026-02-15,Keyboard,Accessories,South,3,5957.79,1552.29
+101803,2026-02-15,Monitor 24,Electronics,West,1,12159.84,2633.57
+101804,2026-02-16,Tablet Air,Electronics,North,2,47073.01,7451.3
+101805,2026-02-16,Tablet Air,Electronics,North,1,24185.82,3788.36
+101806,2026-02-16,Keyboard,Accessories,Central,4,7590.45,1914.47
+101807,2026-02-16,Wireless Mouse,Accessories,West,4,5017.68,1264.2
+101808,2026-02-16,Office Chair,Furniture,West,3,26529.28,5402.77
+101809,2026-02-16,Keyboard,Accessories,North,5,9384.02,2122.94
+101810,2026-02-16,Desk,Furniture,West,1,10337.56,1411.34
+101811,2026-02-17,Wireless Mouse,Accessories,West,4,4193.6,991.33
+101812,2026-02-17,Tablet Air,Electronics,North,5,115235.59,16301.47
+101813,2026-02-17,Webcam,Accessories,East,5,21834.3,4279.36
+101814,2026-02-17,Tablet Air,Electronics,East,5,114470.72,14969.54
+101815,2026-02-17,Wireless Mouse,Accessories,East,4,4679.1,1041.72
+101816,2026-02-17,Desk,Furniture,Central,2,19396.03,3471.53
+101817,2026-02-18,Desk,Furniture,West,4,49886.66,10539.94
+101818,2026-02-18,Headphones,Accessories,Central,5,18688.08,4839.35
+101819,2026-02-19,Monitor 24,Electronics,East,3,36241.72,6621.08
+101820,2026-02-19,Wireless Mouse,Accessories,East,5,5765.31,1342.32
+101821,2026-02-19,Headphones,Accessories,East,4,12694.24,2434.91
+101822,2026-02-19,Laptop Pro,Electronics,Central,3,184669.23,31460.36
+101823,2026-02-19,Tablet Air,Electronics,Central,5,127670.01,21553.26
+101824,2026-02-20,Keyboard,Accessories,West,1,1822.65,451.08
+101825,2026-02-20,Wireless Mouse,Accessories,East,1,1291.52,247.14
+101826,2026-02-20,Tablet Air,Electronics,East,4,94238.65,16851.48
+101827,2026-02-20,Tablet Air,Electronics,West,3,78096.24,9427.3
+101828,2026-02-20,Webcam,Accessories,Central,3,12422.88,2509.98
+101829,2026-02-21,Office Chair,Furniture,East,1,8846.5,2002.41
+101830,2026-02-21,Headphones,Accessories,South,1,3194.16,901.39
+101831,2026-02-21,Office Chair,Furniture,West,4,32047.83,6414.01
+101832,2026-02-21,Wireless Mouse,Accessories,East,5,5954.61,1390.75
+101833,2026-02-21,Wireless Mouse,Accessories,North,1,1245.23,303.95
+101834,2026-02-22,Laptop Pro,Electronics,South,2,129942.0,15137.2
+101835,2026-02-22,Office Chair,Furniture,Central,3,27430.15,5891.35
+101836,2026-02-22,Monitor 24,Electronics,East,1,11741.75,2004.5
+101837,2026-02-23,Monitor 24,Electronics,South,4,53756.32,11675.19
+101838,2026-02-23,Smartphone X,Electronics,South,2,69679.98,10078.52
+101839,2026-02-23,Laptop Pro,Electronics,South,1,58748.3,10118.85
+101840,2026-02-23,Desk,Furniture,East,1,11106.98,2114.68
+101841,2026-02-23,Office Chair,Furniture,North,4,33253.86,7352.9
+101842,2026-02-23,Headphones,Accessories,North,2,6414.49,1600.92
+101843,2026-02-23,Desk,Furniture,Central,2,23037.95,4846.35
+101844,2026-02-24,Webcam,Accessories,Central,4,16562.74,3418.73
+101845,2026-02-24,Laptop Pro,Electronics,Central,2,136890.14,20856.32
+101846,2026-02-24,Keyboard,Accessories,North,2,3648.15,868.24
+101847,2026-02-24,Webcam,Accessories,Central,1,4185.37,944.18
+101848,2026-02-24,Monitor 24,Electronics,North,3,31875.16,4875.54
+101849,2026-02-25,Wireless Mouse,Accessories,North,2,2642.46,699.11
+101850,2026-02-25,Monitor 24,Electronics,West,1,13328.14,2202.44
+101851,2026-02-25,Monitor 24,Electronics,West,4,46732.23,10069.52
+101852,2026-02-26,Desk,Furniture,West,3,32773.38,6316.78
+101853,2026-02-26,Monitor 24,Electronics,West,5,60046.47,11317.2
+101854,2026-02-27,Keyboard,Accessories,East,2,3311.41,734.94
+101855,2026-02-27,Office Chair,Furniture,North,5,41679.8,8543.08
+101856,2026-02-27,Laptop Pro,Electronics,Central,4,268622.56,41363.37
+101857,2026-02-28,Office Chair,Furniture,South,1,8197.49,1643.53
+101858,2026-02-28,Wireless Mouse,Accessories,South,1,1206.92,272.6
+101859,2026-02-28,Smartphone X,Electronics,North,1,34003.73,3708.93
+101860,2026-02-28,Webcam,Accessories,South,3,12919.82,3157.25
+101861,2026-03-01,Monitor 24,Electronics,West,1,13303.72,1792.53
+101862,2026-03-01,Laptop Pro,Electronics,West,4,217781.13,34314.12
+101863,2026-03-01,Keyboard,Accessories,West,5,8857.02,1855.9
+101864,2026-03-01,Tablet Air,Electronics,North,2,45376.59,6611.16
+101865,2026-03-02,Desk,Furniture,West,3,29740.46,6834.91
+101866,2026-03-02,Webcam,Accessories,South,4,16661.55,3333.23
+101867,2026-03-02,Monitor 24,Electronics,South,2,25869.9,3674.58
+101868,2026-03-02,Webcam,Accessories,East,4,16397.84,3333.59
+101869,2026-03-02,Laptop Pro,Electronics,South,4,243053.4,47962.34
+101870,2026-03-03,Tablet Air,Electronics,North,2,49264.24,5872.36
+101871,2026-03-03,Tablet Air,Electronics,North,2,46565.21,5719.1
+101872,2026-03-03,Tablet Air,Electronics,East,4,94127.08,16353.83
+101873,2026-03-04,Monitor 24,Electronics,West,2,23012.41,5071.61
+101874,2026-03-04,Monitor 24,Electronics,North,2,24998.48,4193.37
+101875,2026-03-05,Wireless Mouse,Accessories,West,4,5231.95,1463.71
+101876,2026-03-05,Headphones,Accessories,West,3,9149.52,1969.08
+101877,2026-03-05,Wireless Mouse,Accessories,West,5,5842.47,1497.08
+101878,2026-03-05,Desk,Furniture,West,3,36001.73,7490.08
+101879,2026-03-05,Office Chair,Furniture,Central,1,7787.59,1647.04
+101880,2026-03-05,Smartphone X,Electronics,North,5,172757.33,30367.72
+101881,2026-03-05,Webcam,Accessories,East,5,22156.86,4597.27
+101882,2026-03-06,Office Chair,Furniture,Central,2,17607.66,3819.16
+101883,2026-03-06,Tablet Air,Electronics,West,5,115723.95,14454.32
+101884,2026-03-06,Headphones,Accessories,East,4,13931.44,3072.52
+101885,2026-03-06,Keyboard,Accessories,West,1,1786.43,416.47
+101886,2026-03-06,Desk,Furniture,North,4,43189.87,8487.54
+101887,2026-03-06,Office Chair,Furniture,West,1,8854.96,1739.12
+101888,2026-03-07,Monitor 24,Electronics,South,2,24904.02,4787.12
+101889,2026-03-07,Smartphone X,Electronics,North,2,64921.69,11255.92
+101890,2026-03-07,Keyboard,Accessories,West,5,8790.58,1867.93
+101891,2026-03-07,Monitor 24,Electronics,North,4,48938.51,8035.02
+101892,2026-03-07,Office Chair,Furniture,North,5,47009.48,7758.45
+101893,2026-03-07,Tablet Air,Electronics,East,3,80947.08,12202.27
+101894,2026-03-08,Desk,Furniture,Central,4,46857.39,7532.17
+101895,2026-03-08,Headphones,Accessories,Central,5,17494.62,4703.82
+101896,2026-03-08,Monitor 24,Electronics,Central,4,46537.55,10163.69
+101897,2026-03-08,Tablet Air,Electronics,South,5,107312.75,14363.91
+101898,2026-03-08,Monitor 24,Electronics,South,2,24065.77,4779.71
+101899,2026-03-08,Keyboard,Accessories,South,4,6887.52,1526.48
+101900,2026-03-09,Monitor 24,Electronics,East,5,63941.61,9006.93
+101901,2026-03-09,Monitor 24,Electronics,West,2,24284.19,5008.94
+101902,2026-03-10,Laptop Pro,Electronics,West,5,338084.74,50269.48
+101903,2026-03-10,Laptop Pro,Electronics,West,4,272135.77,40887.0
+101904,2026-03-10,Webcam,Accessories,South,4,16334.31,3450.61
+101905,2026-03-10,Smartphone X,Electronics,East,5,175463.97,20440.88
+101906,2026-03-10,Laptop Pro,Electronics,Central,1,65522.62,9473.99
+101907,2026-03-10,Tablet Air,Electronics,East,4,109511.42,19326.35
+101908,2026-03-11,Monitor 24,Electronics,South,5,55077.8,6392.22
+101909,2026-03-11,Headphones,Accessories,North,5,14676.58,3435.56
+101910,2026-03-11,Laptop Pro,Electronics,Central,4,242243.08,41179.09
+101911,2026-03-11,Keyboard,Accessories,South,1,1837.53,380.38
+101912,2026-03-11,Webcam,Accessories,Central,3,13941.28,2652.19
+101913,2026-03-11,Laptop Pro,Electronics,Central,5,323836.46,49160.46
+101914,2026-03-12,Laptop Pro,Electronics,North,3,163855.01,13670.14
+101915,2026-03-12,Headphones,Accessories,South,5,17811.85,4267.04
+101916,2026-03-12,Keyboard,Accessories,West,4,7018.74,1546.13
+101917,2026-03-12,Office Chair,Furniture,South,2,19284.29,4087.44
+101918,2026-03-12,Tablet Air,Electronics,East,4,88540.99,16704.22
+101919,2026-03-13,Headphones,Accessories,South,5,16461.93,3709.81
+101920,2026-03-13,Keyboard,Accessories,North,3,4932.64,1219.24
+101921,2026-03-13,Tablet Air,Electronics,North,2,51337.35,7442.46
+101922,2026-03-14,Tablet Air,Electronics,Central,5,125470.25,16073.24
+101923,2026-03-14,Webcam,Accessories,East,1,4230.55,707.97
+101924,2026-03-14,Smartphone X,Electronics,Central,1,36669.98,4420.26
+101925,2026-03-14,Keyboard,Accessories,North,5,8931.98,1734.92
+101926,2026-03-15,Wireless Mouse,Accessories,South,1,1124.32,270.55
+101927,2026-03-15,Headphones,Accessories,South,3,10142.24,2410.72
+101928,2026-03-16,Tablet Air,Electronics,West,2,46911.98,5625.22
+101929,2026-03-16,Wireless Mouse,Accessories,East,5,5615.96,1594.56
+101930,2026-03-16,Tablet Air,Electronics,South,5,123356.82,15924.44
+101931,2026-03-16,Wireless Mouse,Accessories,West,5,6014.12,1511.48
+101932,2026-03-16,Tablet Air,Electronics,North,4,99631.25,13467.89
+101933,2026-03-16,Webcam,Accessories,South,2,7578.66,1431.9
+101934,2026-03-17,Keyboard,Accessories,West,5,8820.31,1652.88
+101935,2026-03-17,Office Chair,Furniture,South,2,15548.94,3031.96
+101936,2026-03-17,Headphones,Accessories,South,5,15059.78,3106.58
+101937,2026-03-17,Tablet Air,Electronics,West,2,45819.75,7108.05
+101938,2026-03-18,Monitor 24,Electronics,North,2,25173.32,4650.67
+101939,2026-03-18,Monitor 24,Electronics,East,4,47822.55,7953.17
+101940,2026-03-18,Office Chair,Furniture,East,5,42268.04,7575.81
+101941,2026-03-18,Headphones,Accessories,South,2,6538.17,1591.43
+101942,2026-03-18,Office Chair,Furniture,South,5,47486.49,10398.75
+101943,2026-03-18,Webcam,Accessories,Central,5,23154.47,5933.83
+101944,2026-03-18,Wireless Mouse,Accessories,East,2,2501.72,612.59
+101945,2026-03-19,Smartphone X,Electronics,Central,3,108913.89,12197.41
+101946,2026-03-19,Monitor 24,Electronics,North,3,41376.95,7219.79
+101947,2026-03-19,Tablet Air,Electronics,West,3,78297.64,12332.45
+101948,2026-03-19,Keyboard,Accessories,North,4,8235.67,2035.67
+101949,2026-03-19,Headphones,Accessories,South,4,13894.46,2928.73
+101950,2026-03-19,Tablet Air,Electronics,East,1,21311.43,3495.32
+101951,2026-03-19,Desk,Furniture,Central,5,61498.45,8635.99
+101952,2026-03-20,Webcam,Accessories,East,1,4087.35,733.48
+101953,2026-03-20,Wireless Mouse,Accessories,East,1,1119.91,300.7
+101954,2026-03-20,Monitor 24,Electronics,North,3,34770.67,5799.91
+101955,2026-03-20,Keyboard,Accessories,East,3,5411.08,1284.62
+101956,2026-03-20,Laptop Pro,Electronics,North,4,255162.51,34164.84
+101957,2026-03-20,Smartphone X,Electronics,North,2,63864.95,6880.48
+101958,2026-03-20,Smartphone X,Electronics,East,2,69127.15,7671.33
+101959,2026-03-21,Office Chair,Furniture,South,2,15388.69,2949.28
+101960,2026-03-21,Webcam,Accessories,South,4,16188.4,3237.26
+101961,2026-03-21,Wireless Mouse,Accessories,South,3,3632.81,848.12
+101962,2026-03-21,Laptop Pro,Electronics,East,2,123704.51,20085.01
+101963,2026-03-22,Keyboard,Accessories,Central,2,3470.32,830.04
+101964,2026-03-22,Desk,Furniture,Central,1,11984.43,2543.96
+101965,2026-03-22,Webcam,Accessories,East,4,17310.66,3557.15
+101966,2026-03-22,Monitor 24,Electronics,South,4,50235.41,8532.93
+101967,2026-03-22,Webcam,Accessories,West,5,21701.26,4112.38
+101968,2026-03-22,Office Chair,Furniture,Central,4,31362.41,6372.25
+101969,2026-03-23,Smartphone X,Electronics,South,2,78476.72,9367.6
+101970,2026-03-23,Desk,Furniture,North,3,34437.74,6434.59
+101971,2026-03-23,Office Chair,Furniture,South,2,17529.45,4277.57
+101972,2026-03-24,Wireless Mouse,Accessories,North,2,2529.76,518.24
+101973,2026-03-24,Desk,Furniture,West,3,35961.18,6497.1
+101974,2026-03-24,Desk,Furniture,Central,3,31636.81,6189.54
+101975,2026-03-24,Smartphone X,Electronics,South,3,107763.61,16530.78
+101976,2026-03-24,Desk,Furniture,West,5,54717.61,10410.78
+101977,2026-03-24,Headphones,Accessories,West,5,15648.73,3774.78
+101978,2026-03-24,Office Chair,Furniture,South,5,36689.34,7878.44
+101979,2026-03-25,Laptop Pro,Electronics,South,3,198937.57,37934.67
+101980,2026-03-25,Wireless Mouse,Accessories,North,4,5052.21,1372.69
+101981,2026-03-25,Headphones,Accessories,South,1,3066.93,687.36
+101982,2026-03-25,Webcam,Accessories,South,2,7872.72,1321.66
+101983,2026-03-25,Office Chair,Furniture,South,5,41105.72,8560.66
+101984,2026-03-26,Tablet Air,Electronics,Central,4,95740.01,13952.44
+101985,2026-03-26,Wireless Mouse,Accessories,West,3,3312.84,875.4
+101986,2026-03-26,Office Chair,Furniture,North,1,8404.95,1652.11
+101987,2026-03-26,Smartphone X,Electronics,Central,1,36222.94,5217.26
+101988,2026-03-26,Webcam,Accessories,South,3,13348.64,3192.59
+101989,2026-03-26,Tablet Air,Electronics,South,1,23834.77,3691.06
+101990,2026-03-26,Headphones,Accessories,West,5,15654.27,3205.46
+101991,2026-03-27,Webcam,Accessories,South,4,15141.05,3312.66
+101992,2026-03-27,Smartphone X,Electronics,Central,5,170888.91,18791.46
+101993,2026-03-27,Keyboard,Accessories,North,1,1741.88,384.03
+101994,2026-03-27,Smartphone X,Electronics,South,2,68222.06,8269.53
+101995,2026-03-27,Wireless Mouse,Accessories,West,4,4578.03,1080.65
+101996,2026-03-28,Headphones,Accessories,North,5,14675.22,3831.22
+101997,2026-03-28,Tablet Air,Electronics,North,4,94784.86,13175.58
+101998,2026-03-28,Laptop Pro,Electronics,Central,4,268835.86,49553.1
+101999,2026-03-28,Wireless Mouse,Accessories,East,1,1244.02,348.61
+102000,2026-03-28,Tablet Air,Electronics,North,5,132971.83,22773.04
+102001,2026-03-28,Monitor 24,Electronics,South,5,63014.64,9371.48
+102002,2026-03-28,Webcam,Accessories,North,1,4255.74,849.44
+102003,2026-03-29,Tablet Air,Electronics,West,5,125570.58,20917.27
+102004,2026-03-29,Desk,Furniture,East,1,12181.88,2149.53
+102005,2026-03-29,Wireless Mouse,Accessories,South,1,1175.34,279.48
+102006,2026-03-29,Monitor 24,Electronics,Central,4,51333.18,9102.01
+102007,2026-03-30,Headphones,Accessories,West,2,6326.95,1571.95
+102008,2026-03-30,Smartphone X,Electronics,East,3,106589.26,14400.8
+102009,2026-03-30,Wireless Mouse,Accessories,Central,3,3753.39,853.3
+102010,2026-03-30,Smartphone X,Electronics,Central,4,135557.03,13989.31
+102011,2026-03-30,Keyboard,Accessories,South,1,1724.52,433.52
+102012,2026-03-31,Tablet Air,Electronics,East,4,90170.71,15403.3
+102013,2026-03-31,Smartphone X,Electronics,East,3,109655.36,15728.77
+102014,2026-03-31,Office Chair,Furniture,South,4,32337.46,7510.3
+102015,2026-03-31,Webcam,Accessories,South,4,16101.15,3397.27
+102016,2026-03-31,Keyboard,Accessories,North,3,5457.56,1143.97
+102017,2026-03-31,Tablet Air,Electronics,North,2,43740.1,4850.99
+102018,2026-03-31,Webcam,Accessories,Central,3,11938.27,2701.25
+102019,2026-04-01,Wireless Mouse,Accessories,South,1,1186.83,273.35
+102020,2026-04-01,Wireless Mouse,Accessories,Central,1,1109.09,292.23
+102021,2026-04-01,Webcam,Accessories,East,3,12344.13,2920.17
+102022,2026-04-01,Tablet Air,Electronics,West,1,23024.01,3672.87
+102023,2026-04-02,Headphones,Accessories,East,2,6415.88,1834.58
+102024,2026-04-02,Tablet Air,Electronics,North,1,22643.26,3634.36
+102025,2026-04-02,Smartphone X,Electronics,West,3,97933.98,13874.0
+102026,2026-04-02,Office Chair,Furniture,Central,3,26886.88,5040.4
+102027,2026-04-03,Webcam,Accessories,Central,3,11869.85,2462.63
+102028,2026-04-03,Office Chair,Furniture,Central,1,8343.93,2018.06
+102029,2026-04-04,Wireless Mouse,Accessories,North,2,2250.06,566.61
+102030,2026-04-04,Desk,Furniture,Central,5,53613.15,10394.34
+102031,2026-04-04,Desk,Furniture,West,4,42574.56,8319.02
+102032,2026-04-04,Monitor 24,Electronics,South,4,51699.07,10174.58
+102033,2026-04-05,Desk,Furniture,Central,2,20657.88,3413.77
+102034,2026-04-05,Monitor 24,Electronics,Central,1,12310.05,1988.02
+102035,2026-04-05,Smartphone X,Electronics,East,4,136241.68,21965.74
+102036,2026-04-06,Wireless Mouse,Accessories,North,4,4956.67,1190.04
+102037,2026-04-06,Tablet Air,Electronics,South,3,69381.27,12230.58
+102038,2026-04-07,Wireless Mouse,Accessories,Central,3,3558.27,924.14
+102039,2026-04-07,Laptop Pro,Electronics,East,3,192368.43,29600.37
+102040,2026-04-07,Tablet Air,Electronics,East,3,72307.86,11142.43
+102041,2026-04-07,Wireless Mouse,Accessories,South,1,1191.46,296.53
+102042,2026-04-08,Keyboard,Accessories,North,1,1604.01,323.59
+102043,2026-04-08,Laptop Pro,Electronics,North,5,308305.75,61886.2
+102044,2026-04-08,Desk,Furniture,East,3,32043.2,5755.14
+102045,2026-04-08,Office Chair,Furniture,East,4,33653.57,5942.37
+102046,2026-04-08,Webcam,Accessories,East,4,15662.97,3862.46
+102047,2026-04-08,Desk,Furniture,West,4,47482.26,10194.11
+102048,2026-04-09,Monitor 24,Electronics,South,1,11722.06,2446.03
+102049,2026-04-09,Desk,Furniture,East,1,10759.04,2467.29
+102050,2026-04-09,Headphones,Accessories,West,1,3456.52,976.18
+102051,2026-04-09,Laptop Pro,Electronics,East,5,304856.91,39403.18
+102052,2026-04-09,Smartphone X,Electronics,East,4,138348.32,18166.4
+102053,2026-04-09,Webcam,Accessories,North,4,18097.06,3642.44
+102054,2026-04-10,Office Chair,Furniture,North,2,18398.21,3631.41
+102055,2026-04-10,Wireless Mouse,Accessories,South,5,6020.57,1535.35
+102056,2026-04-11,Webcam,Accessories,West,2,8218.05,1449.92
+102057,2026-04-11,Keyboard,Accessories,East,5,8780.56,1830.18
+102058,2026-04-11,Wireless Mouse,Accessories,South,1,1197.05,301.63
+102059,2026-04-11,Monitor 24,Electronics,West,4,54047.95,10604.02
+102060,2026-04-12,Headphones,Accessories,Central,1,2934.99,640.11
+102061,2026-04-12,Tablet Air,Electronics,South,5,114773.78,14161.54
+102062,2026-04-12,Smartphone X,Electronics,North,1,34461.3,4420.16
+102063,2026-04-13,Webcam,Accessories,North,4,16362.7,3882.28
+102064,2026-04-13,Office Chair,Furniture,North,4,35420.51,7264.05
+102065,2026-04-13,Tablet Air,Electronics,South,1,22220.7,3273.04
+102066,2026-04-13,Laptop Pro,Electronics,West,1,66489.66,8407.03
+102067,2026-04-14,Tablet Air,Electronics,West,5,124121.39,21434.51
+102068,2026-04-14,Keyboard,Accessories,East,5,9099.44,2353.83
+102069,2026-04-15,Desk,Furniture,West,2,25701.89,4450.86
+102070,2026-04-15,Keyboard,Accessories,Central,5,8685.42,1309.57
+102071,2026-04-15,Webcam,Accessories,Central,4,15881.04,3148.13
+102072,2026-04-15,Tablet Air,Electronics,East,3,64439.07,7536.84
+102073,2026-04-16,Monitor 24,Electronics,East,3,36838.8,5467.11
+102074,2026-04-16,Office Chair,Furniture,West,1,8780.09,1800.01
+102075,2026-04-17,Keyboard,Accessories,West,1,1853.2,392.37
+102076,2026-04-17,Desk,Furniture,South,3,35075.56,5682.74
+102077,2026-04-18,Office Chair,Furniture,North,4,35535.68,6235.96
+102078,2026-04-18,Wireless Mouse,Accessories,West,3,3624.06,838.5
+102079,2026-04-18,Smartphone X,Electronics,South,1,33190.73,3962.84
+102080,2026-04-18,Webcam,Accessories,North,2,8344.82,1979.63
+102081,2026-04-18,Headphones,Accessories,Central,5,17197.53,4614.79
+102082,2026-04-19,Laptop Pro,Electronics,West,3,182062.46,32604.36
+102083,2026-04-19,Keyboard,Accessories,South,1,1836.56,471.52
+102084,2026-04-19,Laptop Pro,Electronics,West,4,249961.59,39666.12
+102085,2026-04-19,Keyboard,Accessories,North,2,3826.64,765.41
+102086,2026-04-19,Wireless Mouse,Accessories,West,5,5426.21,1416.95
+102087,2026-04-19,Webcam,Accessories,North,3,12712.61,2920.36
+102088,2026-04-20,Webcam,Accessories,West,1,4040.64,784.82
+102089,2026-04-20,Smartphone X,Electronics,North,5,181672.86,18971.35
+102090,2026-04-20,Keyboard,Accessories,North,4,6952.06,1696.48
+102091,2026-04-21,Keyboard,Accessories,West,4,5896.92,1239.5
+102092,2026-04-21,Monitor 24,Electronics,West,5,64244.84,13109.73
+102093,2026-04-21,Laptop Pro,Electronics,East,2,119609.48,18525.95
+102094,2026-04-21,Tablet Air,Electronics,East,5,106695.34,13109.71
+102095,2026-04-22,Keyboard,Accessories,East,5,9118.73,1889.06
+102096,2026-04-22,Desk,Furniture,East,2,19132.7,3178.52
+102097,2026-04-22,Office Chair,Furniture,North,1,8188.96,1684.98
+102098,2026-04-22,Webcam,Accessories,South,2,7996.25,1529.53
+102099,2026-04-22,Tablet Air,Electronics,West,5,126984.42,15194.95
+102100,2026-04-23,Smartphone X,Electronics,North,3,111050.87,14067.0
+102101,2026-04-23,Laptop Pro,Electronics,East,4,266776.52,32660.51
+102102,2026-04-23,Monitor 24,Electronics,East,2,25566.32,4877.53
+102103,2026-04-23,Wireless Mouse,Accessories,West,4,5229.04,1247.14
+102104,2026-04-23,Keyboard,Accessories,West,1,1864.22,490.23
+102105,2026-04-23,Desk,Furniture,West,3,30033.67,6571.64
+102106,2026-04-23,Keyboard,Accessories,South,1,1848.93,550.83
+102107,2026-04-24,Wireless Mouse,Accessories,Central,1,1185.89,267.57
+102108,2026-04-24,Wireless Mouse,Accessories,North,4,4630.94,996.43
+102109,2026-04-24,Office Chair,Furniture,West,2,17304.83,3363.42
+102110,2026-04-24,Monitor 24,Electronics,West,1,12706.77,2504.82
+102111,2026-04-24,Keyboard,Accessories,East,3,5617.15,1341.53
+102112,2026-04-24,Office Chair,Furniture,Central,2,18561.01,3490.44
+102113,2026-04-24,Desk,Furniture,Central,4,45092.72,7429.52
+102114,2026-04-25,Headphones,Accessories,West,2,6210.99,1264.23
+102115,2026-04-25,Webcam,Accessories,East,1,4519.02,1011.63
+102116,2026-04-25,Webcam,Accessories,South,2,8723.22,1710.15
+102117,2026-04-25,Desk,Furniture,Central,4,43491.3,7717.28
+102118,2026-04-26,Tablet Air,Electronics,North,5,119858.45,21231.53
+102119,2026-04-26,Desk,Furniture,Central,4,45761.0,6193.04
+102120,2026-04-26,Desk,Furniture,North,4,45889.52,7144.39
+102121,2026-04-27,Keyboard,Accessories,South,3,5089.94,1265.63
+102122,2026-04-27,Headphones,Accessories,North,4,12477.35,2980.58
+102123,2026-04-27,Webcam,Accessories,South,2,7854.3,1571.75
+102124,2026-04-27,Wireless Mouse,Accessories,Central,5,6091.51,1297.16
+102125,2026-04-27,Wireless Mouse,Accessories,West,1,1160.96,311.91
+102126,2026-04-27,Monitor 24,Electronics,Central,4,46503.02,10518.76
+102127,2026-04-27,Headphones,Accessories,Central,1,3122.22,841.44
+102128,2026-04-28,Office Chair,Furniture,Central,5,40769.37,9506.17
+102129,2026-04-28,Wireless Mouse,Accessories,West,4,4726.56,1343.91
+102130,2026-04-28,Tablet Air,Electronics,Central,5,118805.45,18798.94
+102131,2026-04-28,Laptop Pro,Electronics,West,4,260070.28,43617.12
+102132,2026-04-29,Wireless Mouse,Accessories,North,3,3534.54,974.48
+102133,2026-04-29,Office Chair,Furniture,East,4,33017.22,7395.92
+102134,2026-04-29,Office Chair,Furniture,East,2,18832.02,4078.17
+102135,2026-04-29,Webcam,Accessories,West,3,12332.32,2854.75
+102136,2026-04-29,Smartphone X,Electronics,North,5,166351.19,23520.77
+102137,2026-04-30,Office Chair,Furniture,South,4,36803.92,7231.85
+102138,2026-04-30,Tablet Air,Electronics,West,2,43595.37,6517.83
+102139,2026-04-30,Desk,Furniture,East,2,22835.82,3796.75
+102140,2026-04-30,Office Chair,Furniture,North,1,8517.14,1752.57
+102141,2026-05-01,Keyboard,Accessories,South,1,1732.89,343.56
+102142,2026-05-01,Desk,Furniture,North,3,35128.18,6206.45
+102143,2026-05-01,Desk,Furniture,West,2,24828.43,4599.27
+102144,2026-05-02,Laptop Pro,Electronics,West,4,250552.02,40255.15
+102145,2026-05-02,Office Chair,Furniture,Central,3,30431.19,5110.5
+102146,2026-05-02,Wireless Mouse,Accessories,North,5,5854.96,1353.98
+102147,2026-05-03,Headphones,Accessories,North,5,15885.29,3072.07
+102148,2026-05-03,Laptop Pro,Electronics,East,3,177223.03,29437.01
+102149,2026-05-03,Laptop Pro,Electronics,West,1,61929.12,10290.85
+102150,2026-05-04,Keyboard,Accessories,North,1,1880.13,452.08
+102151,2026-05-04,Wireless Mouse,Accessories,West,2,2312.4,646.28
+102152,2026-05-04,Tablet Air,Electronics,West,3,69792.86,10078.12
+102153,2026-05-04,Office Chair,Furniture,East,1,8346.02,1688.21
+102154,2026-05-04,Desk,Furniture,West,3,30698.32,5093.17
+102155,2026-05-04,Monitor 24,Electronics,Central,2,24154.33,4970.61
+102156,2026-05-04,Desk,Furniture,Central,2,21045.63,3179.4
+102157,2026-05-05,Wireless Mouse,Accessories,West,5,5961.85,1282.38
+102158,2026-05-05,Headphones,Accessories,Central,5,16163.8,4101.3
+102159,2026-05-05,Keyboard,Accessories,Central,5,9873.88,2118.56
+102160,2026-05-05,Webcam,Accessories,East,1,4363.56,798.06
+102161,2026-05-05,Monitor 24,Electronics,West,4,47142.47,7342.59
+102162,2026-05-06,Laptop Pro,Electronics,Central,1,69205.9,10317.76
+102163,2026-05-06,Smartphone X,Electronics,South,1,36179.87,4161.99
+102164,2026-05-06,Laptop Pro,Electronics,East,4,266859.44,26228.75
+102165,2026-05-06,Laptop Pro,Electronics,North,2,136663.1,23992.22
+102166,2026-05-07,Tablet Air,Electronics,North,4,92033.25,14233.44
+102167,2026-05-07,Monitor 24,Electronics,East,1,12733.57,2201.94
+102168,2026-05-08,Headphones,Accessories,South,3,9288.01,1779.54
+102169,2026-05-08,Webcam,Accessories,South,5,19799.13,3871.55
+102170,2026-05-08,Headphones,Accessories,West,2,6385.38,1620.94
+102171,2026-05-09,Wireless Mouse,Accessories,Central,4,4782.75,1342.66
+102172,2026-05-09,Smartphone X,Electronics,Central,4,137970.24,21588.25
+102173,2026-05-09,Office Chair,Furniture,East,3,29404.0,5087.93
+102174,2026-05-09,Headphones,Accessories,South,4,13066.26,3223.32
+102175,2026-05-10,Laptop Pro,Electronics,South,4,256335.06,33862.29
+102176,2026-05-10,Monitor 24,Electronics,Central,3,38843.09,6666.78
+102177,2026-05-10,Webcam,Accessories,North,5,20426.14,3498.06
+102178,2026-05-10,Office Chair,Furniture,West,4,36389.91,6189.29
+102179,2026-05-10,Tablet Air,Electronics,Central,4,90824.98,16899.19
+102180,2026-05-10,Wireless Mouse,Accessories,Central,3,3809.55,938.47
+102181,2026-05-11,Keyboard,Accessories,East,1,1892.85,356.77
+102182,2026-05-11,Tablet Air,Electronics,North,5,120823.31,19262.66
+102183,2026-05-12,Desk,Furniture,North,4,41424.61,8196.82
+102184,2026-05-12,Keyboard,Accessories,Central,1,1870.07,362.97
+102185,2026-05-12,Monitor 24,Electronics,North,4,54178.47,9774.83
+102186,2026-05-12,Monitor 24,Electronics,South,3,41071.72,6302.34
+102187,2026-05-12,Desk,Furniture,East,4,45777.15,8021.97
+102188,2026-05-12,Tablet Air,Electronics,Central,1,26979.89,5478.4
+102189,2026-05-13,Desk,Furniture,South,5,58932.52,8858.74
+102190,2026-05-13,Desk,Furniture,North,3,35487.71,6630.87
+102191,2026-05-13,Headphones,Accessories,South,3,8225.64,1934.97
+102192,2026-05-13,Laptop Pro,Electronics,North,3,205741.44,38036.61
+102193,2026-05-14,Smartphone X,Electronics,North,3,95566.72,13834.82
+102194,2026-05-14,Keyboard,Accessories,Central,4,8115.07,1441.93
+102195,2026-05-14,Tablet Air,Electronics,South,3,68793.41,10615.7
+102196,2026-05-14,Wireless Mouse,Accessories,West,5,6369.94,1417.09
+102197,2026-05-14,Webcam,Accessories,North,3,11825.69,2376.87
+102198,2026-05-15,Desk,Furniture,East,5,54453.88,8730.98
+102199,2026-05-15,Smartphone X,Electronics,East,4,148926.24,18634.21
+102200,2026-05-15,Desk,Furniture,North,1,10628.56,1911.27
+102201,2026-05-15,Tablet Air,Electronics,Central,1,24746.51,3209.16
+102202,2026-05-15,Keyboard,Accessories,South,3,5212.11,1257.64
+102203,2026-05-15,Desk,Furniture,North,5,51191.58,7325.29
+102204,2026-05-15,Tablet Air,Electronics,West,2,44012.32,5080.41
+102205,2026-05-16,Monitor 24,Electronics,West,1,12140.24,2067.8
+102206,2026-05-16,Tablet Air,Electronics,North,3,68822.62,8048.57
+102207,2026-05-16,Keyboard,Accessories,West,1,1776.7,481.43
+102208,2026-05-16,Keyboard,Accessories,North,1,1916.88,396.73
+102209,2026-05-16,Headphones,Accessories,South,3,10027.03,2550.6
+102210,2026-05-17,Smartphone X,Electronics,East,4,118693.99,17196.94
+102211,2026-05-17,Keyboard,Accessories,North,4,6469.3,1245.65
+102212,2026-05-17,Tablet Air,Electronics,South,4,92127.4,14090.51
+102213,2026-05-17,Webcam,Accessories,Central,1,4194.96,997.92
+102214,2026-05-17,Desk,Furniture,South,3,29683.61,5081.61
+102215,2026-05-17,Wireless Mouse,Accessories,West,2,2287.61,460.14
+102216,2026-05-18,Headphones,Accessories,North,5,14427.89,3786.66
+102217,2026-05-18,Webcam,Accessories,West,4,17898.89,3430.59
+102218,2026-05-18,Webcam,Accessories,West,5,21747.46,4984.78
+102219,2026-05-18,Webcam,Accessories,Central,2,8666.42,1981.5
+102220,2026-05-19,Laptop Pro,Electronics,East,4,237453.4,41549.44
+102221,2026-05-19,Tablet Air,Electronics,South,2,51679.97,5907.24
+102222,2026-05-20,Office Chair,Furniture,East,5,43309.67,8234.2
+102223,2026-05-20,Tablet Air,Electronics,Central,1,23798.96,3769.01
+102224,2026-05-20,Office Chair,Furniture,East,3,22145.41,3575.56
+102225,2026-05-21,Tablet Air,Electronics,Central,4,104219.8,13199.21
+102226,2026-05-21,Tablet Air,Electronics,West,2,49800.6,6448.94
+102227,2026-05-21,Wireless Mouse,Accessories,South,5,6165.91,1500.23
+102228,2026-05-21,Wireless Mouse,Accessories,East,5,6568.37,1620.53
+102229,2026-05-21,Headphones,Accessories,Central,4,13386.83,3376.53
+102230,2026-05-21,Office Chair,Furniture,North,1,8609.04,1723.39
+102231,2026-05-21,Tablet Air,Electronics,East,4,96842.63,14350.66
+102232,2026-05-22,Webcam,Accessories,West,5,20536.7,4384.5
+102233,2026-05-22,Monitor 24,Electronics,North,5,72463.04,10490.23
+102234,2026-05-22,Keyboard,Accessories,Central,1,2020.37,377.8
+102235,2026-05-22,Office Chair,Furniture,West,5,43133.4,8986.42
+102236,2026-05-22,Desk,Furniture,West,4,47209.79,7965.52
+102237,2026-05-23,Wireless Mouse,Accessories,North,1,1207.13,277.82
+102238,2026-05-23,Webcam,Accessories,Central,2,7550.57,1662.05
+102239,2026-05-23,Office Chair,Furniture,South,5,39372.41,7038.17
+102240,2026-05-24,Smartphone X,Electronics,Central,4,149653.31,25290.39
+102241,2026-05-24,Office Chair,Furniture,North,1,9264.48,1513.47
+102242,2026-05-24,Smartphone X,Electronics,East,4,132185.48,19214.71
+102243,2026-05-24,Headphones,Accessories,South,2,6751.46,1656.62
+102244,2026-05-24,Keyboard,Accessories,North,5,9164.03,2140.11
+102245,2026-05-25,Keyboard,Accessories,West,1,1624.26,352.01
+102246,2026-05-25,Tablet Air,Electronics,South,4,97593.8,18645.13
+102247,2026-05-25,Webcam,Accessories,Central,2,8781.27,1390.14
+102248,2026-05-25,Monitor 24,Electronics,Central,1,12773.39,1374.1
+102249,2026-05-25,Tablet Air,Electronics,South,1,25444.32,4054.75
+102250,2026-05-25,Webcam,Accessories,West,1,4254.21,952.45
+102251,2026-05-26,Wireless Mouse,Accessories,North,1,1154.47,325.08
+102252,2026-05-26,Laptop Pro,Electronics,West,4,253633.5,34533.63
+102253,2026-05-26,Tablet Air,Electronics,East,2,49566.45,7842.14
+102254,2026-05-26,Keyboard,Accessories,Central,5,8413.95,1984.44
+102255,2026-05-26,Office Chair,Furniture,Central,1,9331.83,2031.66
+102256,2026-05-27,Keyboard,Accessories,South,1,2031.09,402.73
+102257,2026-05-27,Headphones,Accessories,South,4,13273.96,4008.79
+102258,2026-05-27,Wireless Mouse,Accessories,West,5,5643.69,1583.64
+102259,2026-05-27,Laptop Pro,Electronics,East,3,194231.94,36107.67
+102260,2026-05-27,Wireless Mouse,Accessories,West,1,1232.91,295.82
+102261,2026-05-27,Laptop Pro,Electronics,South,4,276122.86,48876.84
+102262,2026-05-27,Tablet Air,Electronics,North,3,72430.58,8514.46
+102263,2026-05-28,Keyboard,Accessories,Central,4,6969.05,1530.39
+102264,2026-05-28,Smartphone X,Electronics,South,5,173332.26,17297.35
+102265,2026-05-28,Desk,Furniture,East,3,32902.87,4502.35
+102266,2026-05-28,Keyboard,Accessories,West,3,4614.01,919.97
+102267,2026-05-28,Office Chair,Furniture,Central,5,44373.0,8302.47
+102268,2026-05-28,Smartphone X,Electronics,South,5,170082.62,24415.59
+102269,2026-05-29,Laptop Pro,Electronics,Central,4,271782.2,45200.91
+102270,2026-05-29,Wireless Mouse,Accessories,North,3,3484.96,801.97
+102271,2026-05-29,Keyboard,Accessories,Central,4,7740.63,1958.48
+102272,2026-05-30,Office Chair,Furniture,Central,4,32334.29,6297.06
+102273,2026-05-30,Keyboard,Accessories,Central,1,1696.14,400.49
+102274,2026-05-30,Tablet Air,Electronics,West,2,49947.23,8059.36
+102275,2026-05-31,Keyboard,Accessories,West,3,5742.98,1331.95
+102276,2026-05-31,Smartphone X,Electronics,Central,2,64594.11,8200.63
+102277,2026-05-31,Wireless Mouse,Accessories,West,4,4927.84,1310.11
+102278,2026-05-31,Smartphone X,Electronics,West,5,173142.09,19323.83
+102279,2026-05-31,Desk,Furniture,North,3,30983.14,5426.94
+102280,2026-05-31,Monitor 24,Electronics,Central,1,12526.53,2192.65
+102281,2026-06-01,Webcam,Accessories,East,3,11725.95,2669.53
+102282,2026-06-01,Headphones,Accessories,Central,5,15969.72,3379.96
+102283,2026-06-01,Smartphone X,Electronics,South,1,34135.74,3851.36
+102284,2026-06-01,Tablet Air,Electronics,South,5,119263.82,19336.28
+102285,2026-06-01,Keyboard,Accessories,South,4,6905.27,1491.6
+102286,2026-06-01,Wireless Mouse,Accessories,East,4,4866.89,1020.39
+102287,2026-06-02,Headphones,Accessories,South,3,9527.93,1997.67
+102288,2026-06-02,Smartphone X,Electronics,South,3,98259.73,14396.95
+102289,2026-06-02,Laptop Pro,Electronics,West,1,71656.75,12471.21
+102290,2026-06-02,Keyboard,Accessories,East,1,1919.45,391.99
+102291,2026-06-03,Desk,Furniture,Central,5,51590.17,9352.51
+102292,2026-06-03,Office Chair,Furniture,North,4,35014.47,6285.6
+102293,2026-06-03,Monitor 24,Electronics,Central,5,61180.13,9293.84
+102294,2026-06-03,Headphones,Accessories,Central,4,13774.55,3306.07
+102295,2026-06-03,Office Chair,Furniture,South,4,35207.27,6156.92
+102296,2026-06-03,Tablet Air,Electronics,Central,4,89665.9,10984.05
+102297,2026-06-04,Laptop Pro,Electronics,North,2,120220.13,17374.41
+102298,2026-06-04,Tablet Air,Electronics,West,5,132789.5,22926.14
+102299,2026-06-04,Monitor 24,Electronics,West,3,34448.58,5621.45
+102300,2026-06-04,Tablet Air,Electronics,North,1,24651.21,3637.62
+102301,2026-06-04,Keyboard,Accessories,West,5,8911.67,1894.59
+102302,2026-06-04,Desk,Furniture,South,4,44612.32,8488.4
+102303,2026-06-04,Desk,Furniture,West,4,41362.83,7857.78
+102304,2026-06-05,Webcam,Accessories,Central,4,16385.04,3532.75
+102305,2026-06-05,Laptop Pro,Electronics,South,1,61320.69,8068.54
+102306,2026-06-05,Monitor 24,Electronics,North,5,59989.54,10547.97
+102307,2026-06-06,Monitor 24,Electronics,North,2,24696.64,4541.32
+102308,2026-06-06,Webcam,Accessories,West,3,12039.98,2586.7
+102309,2026-06-07,Office Chair,Furniture,South,5,43144.38,8579.52
+102310,2026-06-07,Laptop Pro,Electronics,South,1,66010.76,12768.7
+102311,2026-06-07,Monitor 24,Electronics,South,3,36730.16,7223.55
+102312,2026-06-07,Desk,Furniture,North,1,12817.36,2503.91
+102313,2026-06-07,Tablet Air,Electronics,East,3,70673.45,8846.7
+102314,2026-06-08,Laptop Pro,Electronics,Central,1,66586.63,11325.14
+102315,2026-06-08,Wireless Mouse,Accessories,West,4,4748.2,1273.05
+102316,2026-06-09,Tablet Air,Electronics,West,1,25097.77,3356.37
+102317,2026-06-09,Desk,Furniture,Central,3,32619.91,7148.48
+102318,2026-06-09,Office Chair,Furniture,East,1,8809.36,1569.4
+102319,2026-06-09,Smartphone X,Electronics,South,1,34440.17,4034.83
+102320,2026-06-09,Desk,Furniture,North,5,53024.78,10295.3
+102321,2026-06-09,Monitor 24,Electronics,South,3,34356.79,6630.15
+102322,2026-06-09,Monitor 24,Electronics,Central,2,24239.21,4368.13
+102323,2026-06-10,Tablet Air,Electronics,Central,3,76004.43,9867.34
+102324,2026-06-10,Wireless Mouse,Accessories,South,1,1232.73,322.96
+102325,2026-06-10,Keyboard,Accessories,West,2,3714.17,881.83
+102326,2026-06-11,Wireless Mouse,Accessories,North,1,1248.58,294.5
+102327,2026-06-11,Headphones,Accessories,Central,4,12618.52,2959.42
+102328,2026-06-11,Keyboard,Accessories,North,5,9466.77,1801.44
+102329,2026-06-11,Smartphone X,Electronics,West,2,79399.38,13562.8
+102330,2026-06-12,Smartphone X,Electronics,North,2,74899.5,9556.85
+102331,2026-06-12,Tablet Air,Electronics,South,5,128127.54,19118.75
+102332,2026-06-12,Webcam,Accessories,Central,4,16209.11,2665.93
+102333,2026-06-12,Desk,Furniture,West,2,22378.62,3556.13
+102334,2026-06-12,Office Chair,Furniture,East,4,34486.24,6609.46
+102335,2026-06-12,Wireless Mouse,Accessories,West,5,5727.37,1089.97
+102336,2026-06-13,Keyboard,Accessories,South,5,10125.14,2251.0
+102337,2026-06-13,Headphones,Accessories,East,2,6285.4,1645.76
+102338,2026-06-13,Headphones,Accessories,West,1,3197.55,721.94
+102339,2026-06-13,Desk,Furniture,Central,5,55967.96,8707.37
+102340,2026-06-13,Tablet Air,Electronics,East,4,96733.64,17856.94
+102341,2026-06-13,Laptop Pro,Electronics,North,1,68587.24,7901.19
+102342,2026-06-14,Monitor 24,Electronics,South,1,13942.5,1826.48
+102343,2026-06-14,Keyboard,Accessories,North,2,3430.44,736.44
+102344,2026-06-14,Keyboard,Accessories,North,3,5459.78,1414.87
+102345,2026-06-15,Keyboard,Accessories,South,1,1761.12,354.84
+102346,2026-06-15,Headphones,Accessories,West,4,13171.34,3034.06
+102347,2026-06-15,Keyboard,Accessories,West,1,1853.86,354.84
+102348,2026-06-15,Keyboard,Accessories,West,4,7700.73,1618.55
+102349,2026-06-16,Headphones,Accessories,North,2,6685.66,1622.93
+102350,2026-06-16,Smartphone X,Electronics,Central,1,37118.47,4744.03
+102351,2026-06-16,Desk,Furniture,East,2,20979.25,3296.47
+102352,2026-06-16,Office Chair,Furniture,North,5,41726.71,9322.2
+102353,2026-06-17,Office Chair,Furniture,West,2,17431.77,3611.85
+102354,2026-06-17,Office Chair,Furniture,Central,2,18216.71,3618.65
+102355,2026-06-17,Keyboard,Accessories,South,3,5415.02,1208.17
+102356,2026-06-17,Keyboard,Accessories,North,1,1808.58,407.58
+102357,2026-06-17,Keyboard,Accessories,North,3,5343.96,1217.01
+102358,2026-06-18,Webcam,Accessories,South,1,3920.47,919.05
+102359,2026-06-18,Webcam,Accessories,South,4,18147.08,4474.74
+102360,2026-06-18,Office Chair,Furniture,North,4,35445.94,7769.26
+102361,2026-06-18,Headphones,Accessories,Central,3,8835.25,2564.39
+102362,2026-06-18,Smartphone X,Electronics,North,1,33930.0,3537.52
+102363,2026-06-19,Keyboard,Accessories,South,2,3671.28,875.91
+102364,2026-06-19,Wireless Mouse,Accessories,Central,5,6138.89,1452.86
+102365,2026-06-19,Laptop Pro,Electronics,East,4,239044.11,36739.99
+102366,2026-06-19,Laptop Pro,Electronics,North,1,61925.4,8099.43
+102367,2026-06-19,Wireless Mouse,Accessories,South,1,1240.39,322.66
+102368,2026-06-19,Tablet Air,Electronics,West,5,130816.96,20293.45
+102369,2026-06-19,Desk,Furniture,South,4,44536.45,10292.33
+102370,2026-06-20,Tablet Air,Electronics,West,1,23674.08,3607.86
+102371,2026-06-20,Smartphone X,Electronics,North,1,35178.04,5696.43
+102372,2026-06-20,Headphones,Accessories,North,1,3132.77,699.46
+102373,2026-06-20,Monitor 24,Electronics,East,2,28081.0,5376.27
+102374,2026-06-21,Tablet Air,Electronics,North,3,70944.48,12388.04
+102375,2026-06-21,Tablet Air,Electronics,West,2,52285.29,8895.35
+102376,2026-06-22,Smartphone X,Electronics,East,1,33417.63,3134.43
+102377,2026-06-22,Office Chair,Furniture,West,3,25053.25,4090.29
+102378,2026-06-22,Smartphone X,Electronics,South,1,34331.3,3456.43
+102379,2026-06-22,Monitor 24,Electronics,North,1,12037.52,2445.62
+102380,2026-06-22,Monitor 24,Electronics,South,3,33031.95,5948.46
+102381,2026-06-23,Monitor 24,Electronics,East,5,60478.85,9498.32
+102382,2026-06-23,Smartphone X,Electronics,North,5,191286.25,23316.71
+102383,2026-06-23,Wireless Mouse,Accessories,East,2,2756.46,675.69
+102384,2026-06-23,Laptop Pro,Electronics,South,4,271409.87,45389.82
+102385,2026-06-23,Monitor 24,Electronics,West,4,50301.0,8329.85
+102386,2026-06-23,Office Chair,Furniture,North,4,36469.79,7571.05
+102387,2026-06-24,Office Chair,Furniture,West,4,33468.56,7486.79
+102388,2026-06-24,Headphones,Accessories,East,4,12207.97,2782.32
+102389,2026-06-24,Tablet Air,Electronics,Central,2,53251.28,8263.08
+102390,2026-06-24,Smartphone X,Electronics,East,1,34358.47,5276.22
+102391,2026-06-24,Webcam,Accessories,East,1,4111.18,957.4
+102392,2026-06-24,Smartphone X,Electronics,Central,2,67927.78,10545.01
+102393,2026-06-25,Webcam,Accessories,North,3,12760.55,2294.2
+102394,2026-06-25,Tablet Air,Electronics,Central,3,72135.68,9076.7
+102395,2026-06-25,Office Chair,Furniture,North,1,7956.83,1681.89
+102396,2026-06-25,Wireless Mouse,Accessories,Central,1,1065.87,277.63
+102397,2026-06-25,Tablet Air,Electronics,East,5,120228.45,22962.2
+102398,2026-06-25,Smartphone X,Electronics,South,2,71253.32,7501.24
+102399,2026-06-25,Office Chair,Furniture,Central,5,42210.65,9738.3
+102400,2026-06-26,Wireless Mouse,Accessories,East,4,5003.05,970.13
+102401,2026-06-26,Keyboard,Accessories,East,3,5425.38,1166.07
+102402,2026-06-26,Office Chair,Furniture,North,1,8410.89,1686.89
+102403,2026-06-27,Tablet Air,Electronics,South,4,94362.13,15102.07
+102404,2026-06-27,Laptop Pro,Electronics,West,2,129536.66,24488.6
+102405,2026-06-27,Webcam,Accessories,South,5,23273.92,4108.34
+102406,2026-06-27,Monitor 24,Electronics,Central,2,28281.89,4734.85
+102407,2026-06-27,Wireless Mouse,Accessories,South,4,4693.22,1184.52
+102408,2026-06-27,Laptop Pro,Electronics,East,4,204944.32,33083.96
+102409,2026-06-27,Office Chair,Furniture,East,5,45148.35,10507.22
+102410,2026-06-28,Smartphone X,Electronics,West,5,163433.53,24381.6
+102411,2026-06-28,Monitor 24,Electronics,North,3,37082.43,7973.16
+102412,2026-06-28,Monitor 24,Electronics,East,4,54489.46,8788.15
+102413,2026-06-28,Monitor 24,Electronics,West,1,12669.0,2349.05
+102414,2026-06-28,Smartphone X,Electronics,Central,3,106579.67,11885.81
+102415,2026-06-29,Headphones,Accessories,South,3,9263.73,1798.27
+102416,2026-06-29,Tablet Air,Electronics,South,1,23811.21,3902.76
+102417,2026-06-29,Smartphone X,Electronics,South,3,103306.23,13171.24
+102418,2026-06-29,Laptop Pro,Electronics,Central,5,300904.37,39148.57
+102419,2026-06-29,Tablet Air,Electronics,West,2,44747.25,4964.37
+102420,2026-06-29,Laptop Pro,Electronics,North,3,190692.8,31910.82
+102421,2026-06-30,Keyboard,Accessories,East,3,5595.94,866.56
+102422,2026-06-30,Office Chair,Furniture,North,4,35056.52,6651.58
+102423,2026-06-30,Webcam,Accessories,Central,1,4220.39,1045.38
+102424,2026-06-30,Office Chair,Furniture,South,5,42197.66,8230.61
+102425,2026-07-01,Keyboard,Accessories,West,1,1764.74,328.54
+102426,2026-07-01,Headphones,Accessories,West,3,10000.81,2749.39
+102427,2026-07-02,Desk,Furniture,West,2,22306.84,3284.56
+102428,2026-07-02,Tablet Air,Electronics,East,2,46926.49,7733.63
+102429,2026-07-03,Smartphone X,Electronics,North,1,34661.82,4117.72
+102430,2026-07-03,Office Chair,Furniture,South,2,18189.9,3487.45
+102431,2026-07-03,Webcam,Accessories,North,5,19281.36,3379.84
+102432,2026-07-03,Headphones,Accessories,South,2,6861.71,1543.52
+102433,2026-07-03,Monitor 24,Electronics,West,3,37013.96,7192.58
+102434,2026-07-03,Webcam,Accessories,South,1,3860.96,755.62
+102435,2026-07-03,Headphones,Accessories,West,4,12869.83,2850.71
+102436,2026-07-04,Keyboard,Accessories,West,3,5860.07,1494.85
+102437,2026-07-04,Headphones,Accessories,South,4,14558.34,3634.95
+102438,2026-07-04,Wireless Mouse,Accessories,North,1,1268.84,339.49
+102439,2026-07-04,Keyboard,Accessories,Central,5,9171.98,1745.92
+102440,2026-07-04,Tablet Air,Electronics,South,5,119834.79,18817.09
+102441,2026-07-04,Tablet Air,Electronics,West,5,113748.74,19310.07
+102442,2026-07-05,Webcam,Accessories,West,2,8678.98,1916.36
+102443,2026-07-05,Keyboard,Accessories,North,3,4905.38,919.56
+102444,2026-07-05,Office Chair,Furniture,East,4,36872.38,7713.43
+102445,2026-07-05,Wireless Mouse,Accessories,East,1,1042.3,213.05
+102446,2026-07-05,Webcam,Accessories,South,2,8047.88,1863.85
+102447,2026-07-05,Desk,Furniture,North,1,11036.46,2321.71
+102448,2026-07-06,Webcam,Accessories,West,3,13672.06,2886.7
+102449,2026-07-06,Webcam,Accessories,Central,5,22772.41,4937.98
+102450,2026-07-06,Laptop Pro,Electronics,North,1,65513.35,9654.25
+102451,2026-07-06,Tablet Air,Electronics,West,4,101526.99,14713.65
+102452,2026-07-06,Monitor 24,Electronics,Central,5,56202.16,7690.26
+102453,2026-07-06,Monitor 24,Electronics,South,5,63625.32,11669.8
+102454,2026-07-07,Smartphone X,Electronics,Central,5,176662.19,10998.41
+102455,2026-07-07,Smartphone X,Electronics,North,3,107678.15,18413.72
+102456,2026-07-07,Tablet Air,Electronics,East,1,23496.4,2604.51
+102457,2026-07-07,Webcam,Accessories,North,2,8910.48,1949.3
+102458,2026-07-07,Office Chair,Furniture,North,4,36471.1,8350.1
+102459,2026-07-07,Desk,Furniture,Central,4,43078.04,8580.2
+102460,2026-07-07,Headphones,Accessories,West,1,3132.56,840.57
+102461,2026-07-08,Smartphone X,Electronics,Central,2,68893.82,9560.62
+102462,2026-07-08,Office Chair,Furniture,Central,5,41167.97,10172.11
+102463,2026-07-08,Office Chair,Furniture,Central,3,28191.09,5321.73
+102464,2026-07-08,Keyboard,Accessories,South,4,6658.56,1436.19
+102465,2026-07-08,Office Chair,Furniture,North,2,17428.4,3364.96
+102466,2026-07-08,Wireless Mouse,Accessories,North,5,6274.13,1390.38
+102467,2026-07-08,Monitor 24,Electronics,Central,2,22326.59,4401.09
+102468,2026-07-09,Webcam,Accessories,North,2,7813.65,1920.45
+102469,2026-07-09,Smartphone X,Electronics,North,2,63069.2,8409.26
+102470,2026-07-09,Laptop Pro,Electronics,East,3,201152.04,22169.47
+102471,2026-07-09,Webcam,Accessories,South,3,12165.13,2798.66
+102472,2026-07-09,Tablet Air,Electronics,Central,2,47558.57,4247.8
+102473,2026-07-10,Smartphone X,Electronics,North,3,112772.88,15965.68
+102474,2026-07-10,Headphones,Accessories,East,3,9297.42,2680.87
+102475,2026-07-10,Wireless Mouse,Accessories,West,2,2535.73,606.6
+102476,2026-07-10,Wireless Mouse,Accessories,North,2,2620.03,685.21
+102477,2026-07-10,Office Chair,Furniture,West,1,9544.18,1903.0
+102478,2026-07-10,Office Chair,Furniture,South,5,44778.77,8372.62
+102479,2026-07-10,Webcam,Accessories,South,4,18274.22,2980.11
+102480,2026-07-11,Headphones,Accessories,South,5,15008.01,3700.13
+102481,2026-07-11,Laptop Pro,Electronics,East,5,315904.12,44238.63
+102482,2026-07-11,Webcam,Accessories,West,1,4245.3,783.73
+102483,2026-07-11,Monitor 24,Electronics,North,2,25739.92,5787.98
+102484,2026-07-12,Wireless Mouse,Accessories,North,3,3979.82,937.44
+102485,2026-07-12,Webcam,Accessories,East,1,3888.09,885.64
+102486,2026-07-13,Webcam,Accessories,West,2,8848.58,2145.78
+102487,2026-07-13,Tablet Air,Electronics,Central,2,45515.51,9228.25
+102488,2026-07-13,Desk,Furniture,East,4,45491.94,10036.64
+102489,2026-07-13,Keyboard,Accessories,North,1,1907.92,324.55
+102490,2026-07-14,Headphones,Accessories,West,4,13399.36,2697.55
+102491,2026-07-14,Webcam,Accessories,South,1,4467.58,920.44
+102492,2026-07-14,Headphones,Accessories,South,4,13213.02,3099.96
+102493,2026-07-14,Laptop Pro,Electronics,North,1,67391.07,12288.8
+102494,2026-07-14,Desk,Furniture,North,1,10228.79,2017.72
+102495,2026-07-14,Headphones,Accessories,West,4,12573.72,2800.72
+102496,2026-07-15,Laptop Pro,Electronics,Central,4,244501.62,37110.62
+102497,2026-07-15,Tablet Air,Electronics,Central,4,102072.66,11123.77
+102498,2026-07-15,Laptop Pro,Electronics,South,2,120842.74,11717.34
+102499,2026-07-16,Office Chair,Furniture,East,1,9311.54,1659.59
+102500,2026-07-16,Webcam,Accessories,West,3,10915.68,2191.86
+102501,2026-07-17,Keyboard,Accessories,North,2,3880.43,946.27
+102502,2026-07-17,Webcam,Accessories,East,2,8656.56,1456.2
+102503,2026-07-17,Keyboard,Accessories,East,1,1734.61,426.63
+102504,2026-07-18,Smartphone X,Electronics,South,4,138251.36,19230.91
+102505,2026-07-18,Keyboard,Accessories,Central,5,10018.2,2455.52
+102506,2026-07-18,Webcam,Accessories,East,4,16502.54,3613.85
+102507,2026-07-19,Laptop Pro,Electronics,West,3,179430.43,28392.47
+102508,2026-07-19,Smartphone X,Electronics,Central,3,115368.05,15168.67
+102509,2026-07-19,Desk,Furniture,East,4,38689.96,6386.74
+102510,2026-07-19,Webcam,Accessories,East,4,14628.74,3147.79
+102511,2026-07-19,Tablet Air,Electronics,South,3,77545.85,10361.62
+102512,2026-07-20,Keyboard,Accessories,East,1,1681.52,400.9
+102513,2026-07-20,Wireless Mouse,Accessories,South,1,1302.66,325.9
+102514,2026-07-20,Laptop Pro,Electronics,Central,3,175790.96,21086.17
+102515,2026-07-20,Laptop Pro,Electronics,Central,4,261611.08,34544.74
+102516,2026-07-20,Wireless Mouse,Accessories,North,1,1117.49,312.53
+102517,2026-07-20,Webcam,Accessories,Central,1,4039.99,592.5
+102518,2026-07-21,Headphones,Accessories,South,1,3002.4,692.74
+102519,2026-07-21,Wireless Mouse,Accessories,Central,5,6533.62,1600.81
+102520,2026-07-21,Desk,Furniture,West,2,21171.52,3507.16
+102521,2026-07-21,Wireless Mouse,Accessories,West,3,3640.02,1103.98
+102522,2026-07-21,Tablet Air,Electronics,South,2,44914.7,7326.89
+102523,2026-07-21,Wireless Mouse,Accessories,West,5,6142.36,1641.32
+102524,2026-07-22,Laptop Pro,Electronics,West,2,148777.14,29115.61
+102525,2026-07-22,Keyboard,Accessories,East,5,9952.21,1831.96
+102526,2026-07-22,Wireless Mouse,Accessories,South,2,2257.26,532.47
+102527,2026-07-22,Headphones,Accessories,West,2,5957.03,1353.36
+102528,2026-07-22,Headphones,Accessories,South,5,15821.09,4134.85
+102529,2026-07-23,Webcam,Accessories,East,1,4014.73,712.97
+102530,2026-07-23,Wireless Mouse,Accessories,North,1,1233.66,322.36
+102531,2026-07-23,Desk,Furniture,East,5,61550.35,9947.39
+102532,2026-07-23,Desk,Furniture,West,5,57943.78,12280.57
+102533,2026-07-24,Laptop Pro,Electronics,North,4,249624.31,45669.28
+102534,2026-07-24,Headphones,Accessories,Central,5,17452.37,3460.61
+102535,2026-07-24,Keyboard,Accessories,East,1,1513.65,351.62
+102536,2026-07-24,Smartphone X,Electronics,West,5,168948.06,20146.25
+102537,2026-07-24,Smartphone X,Electronics,North,5,169828.03,19178.5
+102538,2026-07-24,Keyboard,Accessories,North,1,1770.73,377.03
+102539,2026-07-24,Desk,Furniture,North,4,44908.56,7435.87
+102540,2026-07-25,Tablet Air,Electronics,West,5,108686.16,13023.32
+102541,2026-07-25,Wireless Mouse,Accessories,East,1,1277.48,262.31
+102542,2026-07-25,Monitor 24,Electronics,Central,3,36905.38,7635.51
+102543,2026-07-25,Wireless Mouse,Accessories,West,3,3589.74,1028.03
+102544,2026-07-25,Desk,Furniture,North,2,22209.77,3538.27
+102545,2026-07-25,Webcam,Accessories,Central,4,17319.46,3045.13
+102546,2026-07-25,Smartphone X,Electronics,South,3,108431.47,16349.7
+102547,2026-07-26,Desk,Furniture,East,3,34847.99,5512.03
+102548,2026-07-26,Monitor 24,Electronics,Central,4,40414.14,7203.68
+102549,2026-07-27,Office Chair,Furniture,South,4,29978.7,5510.7
+102550,2026-07-27,Headphones,Accessories,East,1,3278.58,741.2
+102551,2026-07-28,Headphones,Accessories,North,3,10148.81,2459.18
+102552,2026-07-28,Headphones,Accessories,North,3,9336.17,2389.35
+102553,2026-07-28,Webcam,Accessories,West,4,16411.03,3403.91
+102554,2026-07-28,Laptop Pro,Electronics,West,2,115554.83,19993.13
+102555,2026-07-28,Smartphone X,Electronics,South,4,143098.98,22477.93
+102556,2026-07-29,Desk,Furniture,North,4,41509.17,7555.68
+102557,2026-07-29,Tablet Air,Electronics,East,3,72413.89,10535.98
+102558,2026-07-29,Wireless Mouse,Accessories,West,3,3701.7,944.01
+102559,2026-07-29,Headphones,Accessories,South,5,17612.08,3951.98
+102560,2026-07-29,Smartphone X,Electronics,Central,3,111986.39,18011.24
+102561,2026-07-29,Monitor 24,Electronics,North,1,13745.72,2635.41
+102562,2026-07-29,Headphones,Accessories,East,2,6834.98,1798.12
+102563,2026-07-30,Laptop Pro,Electronics,East,4,263174.96,38768.27
+102564,2026-07-30,Monitor 24,Electronics,South,2,25350.5,4523.91
+102565,2026-07-30,Keyboard,Accessories,Central,2,3817.6,680.7
+102566,2026-07-30,Monitor 24,Electronics,South,4,53147.21,11652.79
+102567,2026-07-31,Desk,Furniture,Central,4,45498.06,7480.98
+102568,2026-07-31,Keyboard,Accessories,East,4,6964.95,1190.06
+102569,2026-08-01,Desk,Furniture,East,4,39080.56,6744.17
+102570,2026-08-01,Smartphone X,Electronics,West,2,76887.74,14157.23
+102571,2026-08-01,Office Chair,Furniture,Central,3,23880.96,4929.48
+102572,2026-08-01,Headphones,Accessories,East,4,12562.45,3581.39
+102573,2026-08-02,Laptop Pro,Electronics,East,1,61324.14,11569.09
+102574,2026-08-02,Tablet Air,Electronics,West,5,119669.62,15972.67
+102575,2026-08-03,Tablet Air,Electronics,West,2,43933.33,8889.34
+102576,2026-08-03,Headphones,Accessories,West,3,10342.25,2520.88
+102577,2026-08-03,Smartphone X,Electronics,East,5,174648.12,23614.25
+102578,2026-08-03,Tablet Air,Electronics,East,1,23663.13,3093.56
+102579,2026-08-03,Monitor 24,Electronics,West,2,23275.04,3945.03
+102580,2026-08-03,Tablet Air,Electronics,North,3,72521.47,14457.78
+102581,2026-08-04,Wireless Mouse,Accessories,South,5,6002.31,1622.98
+102582,2026-08-04,Keyboard,Accessories,West,1,1818.65,366.27
+102583,2026-08-04,Monitor 24,Electronics,North,1,11090.84,2211.74
+102584,2026-08-04,Wireless Mouse,Accessories,Central,2,2366.52,582.21
+102585,2026-08-05,Wireless Mouse,Accessories,Central,2,2575.66,607.51
+102586,2026-08-05,Tablet Air,Electronics,Central,3,74908.78,9503.75
+102587,2026-08-06,Laptop Pro,Electronics,North,1,68150.06,8157.89
+102588,2026-08-06,Tablet Air,Electronics,Central,4,96240.33,17843.62
+102589,2026-08-06,Monitor 24,Electronics,Central,4,57056.49,8076.36
+102590,2026-08-06,Webcam,Accessories,Central,1,3914.12,818.17
+102591,2026-08-06,Office Chair,Furniture,Central,4,33600.62,6012.49
+102592,2026-08-06,Desk,Furniture,Central,4,46913.68,8232.91
+102593,2026-08-06,Wireless Mouse,Accessories,East,3,3235.45,794.94
+102594,2026-08-07,Laptop Pro,Electronics,West,1,67057.08,7749.0
+102595,2026-08-07,Keyboard,Accessories,West,4,7181.06,1394.07
+102596,2026-08-07,Office Chair,Furniture,Central,3,25495.56,4661.8
+102597,2026-08-07,Office Chair,Furniture,North,3,22997.95,3955.54
+102598,2026-08-07,Desk,Furniture,South,3,32993.55,6804.08
+102599,2026-08-07,Keyboard,Accessories,North,3,5363.11,1053.44
+102600,2026-08-08,Wireless Mouse,Accessories,South,5,5773.52,1449.44
+102601,2026-08-08,Smartphone X,Electronics,Central,1,34677.26,4150.35
+102602,2026-08-08,Webcam,Accessories,East,1,3997.72,737.55
+102603,2026-08-08,Monitor 24,Electronics,North,2,26101.04,4819.3
+102604,2026-08-08,Keyboard,Accessories,Central,2,3737.34,598.28
+102605,2026-08-08,Keyboard,Accessories,East,5,7988.03,1474.71
+102606,2026-08-08,Tablet Air,Electronics,North,1,26415.48,4428.88
+102607,2026-08-09,Keyboard,Accessories,East,1,1816.93,374.78
+102608,2026-08-09,Monitor 24,Electronics,Central,4,50464.41,8489.24
+102609,2026-08-09,Webcam,Accessories,Central,2,8437.81,1586.5
+102610,2026-08-09,Smartphone X,Electronics,West,1,35639.72,3637.65
+102611,2026-08-09,Tablet Air,Electronics,West,1,23048.75,3186.16
+102612,2026-08-09,Monitor 24,Electronics,South,1,11924.12,2148.46
+102613,2026-08-09,Headphones,Accessories,West,5,17526.25,4388.24
+102614,2026-08-10,Wireless Mouse,Accessories,North,1,1126.07,269.22
+102615,2026-08-10,Office Chair,Furniture,South,3,23592.41,4946.95
+102616,2026-08-10,Laptop Pro,Electronics,East,4,251127.97,58758.24
+102617,2026-08-10,Smartphone X,Electronics,West,1,30655.78,2759.07
+102618,2026-08-10,Webcam,Accessories,South,3,12084.56,2924.15
+102619,2026-08-11,Laptop Pro,Electronics,South,1,63984.26,10526.8
+102620,2026-08-11,Monitor 24,Electronics,West,4,51191.88,8348.36
+102621,2026-08-11,Tablet Air,Electronics,West,5,121808.74,20918.6
+102622,2026-08-11,Keyboard,Accessories,West,4,7318.09,1629.87
+102623,2026-08-11,Desk,Furniture,North,2,22348.34,3635.09
+102624,2026-08-11,Office Chair,Furniture,East,5,42329.13,8139.62
+102625,2026-08-12,Webcam,Accessories,South,2,8883.09,1673.87
+102626,2026-08-12,Headphones,Accessories,West,3,9045.68,2007.26
+102627,2026-08-12,Tablet Air,Electronics,North,1,26336.99,3392.72
+102628,2026-08-12,Webcam,Accessories,West,1,4364.81,771.57
+102629,2026-08-12,Smartphone X,Electronics,Central,4,138076.53,12535.6
+102630,2026-08-13,Tablet Air,Electronics,North,2,45011.46,7217.16
+102631,2026-08-13,Webcam,Accessories,West,4,18856.28,3487.64
+102632,2026-08-13,Webcam,Accessories,South,4,16589.13,3778.3
+102633,2026-08-13,Desk,Furniture,South,5,53924.77,9400.54
+102634,2026-08-13,Desk,Furniture,Central,1,10228.91,2357.28
+102635,2026-08-13,Monitor 24,Electronics,East,1,11630.01,1715.96
+102636,2026-08-13,Monitor 24,Electronics,North,5,58860.54,9985.31
+102637,2026-08-14,Office Chair,Furniture,North,5,40003.64,8696.34
+102638,2026-08-14,Keyboard,Accessories,North,4,7030.24,1721.15
+102639,2026-08-14,Webcam,Accessories,South,4,16699.51,2908.62
+102640,2026-08-14,Monitor 24,Electronics,North,5,67400.69,13026.13
+102641,2026-08-14,Desk,Furniture,Central,5,53137.57,8468.42
+102642,2026-08-15,Webcam,Accessories,East,3,12382.62,3244.61
+102643,2026-08-15,Smartphone X,Electronics,East,2,72819.7,8697.11
+102644,2026-08-15,Desk,Furniture,East,3,32309.31,7132.5
+102645,2026-08-15,Webcam,Accessories,South,4,16928.09,4291.38
+102646,2026-08-15,Smartphone X,Electronics,West,5,194302.02,24355.01
+102647,2026-08-16,Keyboard,Accessories,North,1,1621.71,383.28
+102648,2026-08-16,Webcam,Accessories,East,2,8971.65,1733.32
+102649,2026-08-17,Laptop Pro,Electronics,North,2,126970.81,28485.98
+102650,2026-08-17,Tablet Air,Electronics,South,5,118093.94,15908.17
+102651,2026-08-17,Wireless Mouse,Accessories,North,3,3509.48,923.88
+102652,2026-08-17,Desk,Furniture,East,4,41469.86,7848.37
+102653,2026-08-18,Headphones,Accessories,East,4,12789.03,2484.94
+102654,2026-08-18,Tablet Air,Electronics,South,4,99993.77,14377.32
+102655,2026-08-19,Laptop Pro,Electronics,West,5,304316.5,33317.03
+102656,2026-08-19,Webcam,Accessories,South,4,15568.97,3980.11
+102657,2026-08-20,Tablet Air,Electronics,South,4,94358.22,13729.91
+102658,2026-08-20,Smartphone X,Electronics,South,4,142617.65,14770.43
+102659,2026-08-20,Webcam,Accessories,West,3,12378.63,2458.54
+102660,2026-08-21,Office Chair,Furniture,South,4,34206.07,6926.66
+102661,2026-08-21,Smartphone X,Electronics,East,5,171119.41,24226.92
+102662,2026-08-21,Office Chair,Furniture,South,4,33528.7,7501.16
+102663,2026-08-21,Office Chair,Furniture,North,2,17202.38,2855.86
+102664,2026-08-22,Headphones,Accessories,North,5,15013.38,2845.53
+102665,2026-08-22,Office Chair,Furniture,Central,1,9320.91,1836.9
+102666,2026-08-22,Keyboard,Accessories,North,1,1843.64,370.33
+102667,2026-08-22,Desk,Furniture,North,3,33001.3,5418.08
+102668,2026-08-22,Wireless Mouse,Accessories,West,3,3821.65,798.07
+102669,2026-08-22,Laptop Pro,Electronics,North,4,252761.53,44227.51
+102670,2026-08-22,Smartphone X,Electronics,North,3,102066.26,12207.82
+102671,2026-08-23,Wireless Mouse,Accessories,Central,3,3569.55,855.35
+102672,2026-08-23,Smartphone X,Electronics,West,2,70517.58,8845.79
+102673,2026-08-24,Tablet Air,Electronics,East,2,44386.33,6371.55
+102674,2026-08-24,Office Chair,Furniture,South,5,44120.54,8551.29
+102675,2026-08-24,Smartphone X,Electronics,East,1,30869.53,3825.92
+102676,2026-08-24,Smartphone X,Electronics,South,5,182064.01,26591.6
+102677,2026-08-25,Monitor 24,Electronics,West,1,13501.31,2077.78
+102678,2026-08-25,Office Chair,Furniture,North,5,44419.5,7212.9
+102679,2026-08-26,Keyboard,Accessories,South,4,7663.04,1674.48
+102680,2026-08-26,Office Chair,Furniture,West,4,32648.19,5953.23
+102681,2026-08-27,Smartphone X,Electronics,North,4,136578.56,17472.55
+102682,2026-08-27,Laptop Pro,Electronics,West,5,316361.14,46884.57
+102683,2026-08-28,Keyboard,Accessories,North,2,3741.89,901.44
+102684,2026-08-28,Keyboard,Accessories,East,5,9058.44,2209.32
+102685,2026-08-28,Keyboard,Accessories,North,2,3840.4,939.39
+102686,2026-08-28,Laptop Pro,Electronics,Central,3,179473.42,31693.74
+102687,2026-08-28,Laptop Pro,Electronics,North,5,355614.91,68289.53
+102688,2026-08-28,Headphones,Accessories,South,5,16219.66,3331.12
+102689,2026-08-29,Monitor 24,Electronics,East,5,63293.16,11479.03
+102690,2026-08-29,Headphones,Accessories,North,1,3181.31,837.88
+102691,2026-08-29,Office Chair,Furniture,South,4,36453.08,8994.84
+102692,2026-08-30,Webcam,Accessories,West,2,8485.14,1782.49
+102693,2026-08-30,Office Chair,Furniture,North,1,8498.37,1533.46
+102694,2026-08-31,Webcam,Accessories,West,1,4333.15,911.2
+102695,2026-08-31,Wireless Mouse,Accessories,West,2,2319.43,547.0
+102696,2026-08-31,Smartphone X,Electronics,Central,5,183194.71,18637.71
+102697,2026-08-31,Wireless Mouse,Accessories,South,1,1100.99,290.32
