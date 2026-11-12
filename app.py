@@ -22,7 +22,7 @@ def load_data(uploaded=None):
     if uploaded is not None:
         data = pd.read_csv(uploaded)
     else:
-        data = pd.read_csv(Path("data/sales_data.csv"))
+        data = pd.read_csv(Path("sales_data.csv"))
     required = ["Order_ID", "Date", "Product", "Category", "Region", "Quantity", "Sales", "Profit"]
     missing = [c for c in required if c not in data.columns]
     if missing:
